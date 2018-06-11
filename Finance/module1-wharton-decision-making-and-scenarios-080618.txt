@@ -1,0 +1,15 @@
+Finished module 1 of Wharton's "Decision Making & Scenarios" course on Coursera.
+
+This module is titled, "Evaluation Criteria: Net Present Value" and discusses the various alternatives we have to judge which projects should we undertake, with the fundamental premise that any new project or venture undertaken should maximise the firm's value.
+
+Various methods are discussed starting with the discussion of very important concept of "Time Value Of Money" which says that money has an added dimension of time and a dollar today is worth a dollar tomorrow.
+
+Taking this discussion onwards, we discuss why the "Net Present Value" analysis is the most appropriate analysis for choosing whether to accept or deny a project.
+
+The other criteria at our disposal are IRR,Payback and RoI methods and it is also discussed the short comings of these methods compared to NPV. IRR can also be used but it is not suitable in every scenario as demonstrated by the Professor and whenever we are in doubt we should refer to NPV, while doing an IRR analysis.
+
+Calculating IRR and NPV in Excel worksheets is also demonstrated and is definitely very useful while solving the problems.
+
+Cost of Capital is also discussed and how it is essential to consider the nominal value both in terms of discount rate and cash flows.
+
+NOTE: I could not submit the quizzes because Coursera does not allow the Audit track students to submit the quizzes and hence marks are not available, but I have provided the screen-shots of each problem for the Quiz 1, which indicates my responses or answers and I believe all 10 of those responses are true. I used Excel worksheet to solve the problems of the quizzes.
