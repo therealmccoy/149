@@ -1,0 +1,9 @@
+The “active damping” case, a bit like an airbag for your phone, is the brainchild of Philip Frenzel, an engineer at Aalen University in Germany. His idea won the top award from the German Society for Mechatronics, which considered projects from students all over the country.
+
+In his tinkering, he initially thought of installing an actual airbag mechanism on the phone. But that, and a foam-based alternative, and a few others, simply didn’t prove practical.
+
+Finally inspiration struck. Instead of something soft, why not something springy? Perhaps… springs.
+
+Frenzel has already applied for a patent, and even printed T-shirts with a catchy logo. So this thing is practically for sale. Next stop: Kickstarter.
+
+If he would have been an India, he would have probably named it as "Khul Ja Sim Sim" casae.
