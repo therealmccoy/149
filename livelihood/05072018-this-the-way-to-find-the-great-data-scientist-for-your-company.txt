@@ -1,0 +1,5 @@
+A great scientist understands both the science and math behind algorithms and is a deft computer programmer. This hard-to-find combination makes a top-notch data scientist rare in both startups and large organizations alike.
+
+Data scientists tend to come in two flavors: The first group is people with traditional computer science backgrounds who later developed an interest in data science, and learned about overlapping technologies such as artificial intelligence and machine learning. The second group of people are scientists or data scientists first – men and women with hard-core training in mathematics, statistics, and algorithms, who have learned programming to support their research.  
+
+The best data scientists often come from the second group, yet most companies focus on the first during their candidate searches.

@@ -1,0 +1,7 @@
+FOR: Social media tax, the engineers wrote a new rule requiring that the http request be run through the charging system.
+
+IF: When a user pays the tax, the mobile money system itself communicates with the charging system, sending information including the phone number and period of validity for their tax payment.
+
+IF: So, when a request for access to any of the taxable apps is sent to the charging system, that phone number is checked against information sent in from the mobile money system.
+
+ELSEIF: If everything checks out, the request is served. If there is no record of tax payment or the payment has expired, the request is denied.

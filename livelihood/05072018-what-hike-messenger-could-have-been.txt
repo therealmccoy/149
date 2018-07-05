@@ -1,0 +1,7 @@
+ WeChat has now one million mini-programs that help consumers do everything from online shopping to avoiding eye contact on the subway with simple-to-play games.
+
+ The Shenzhen-based company reached the million mark in the first half, increasing from the 580,000 sub-applications reported by Allen Zhang, a Tencent senior vice president, in January.
+
+Mini programs refer to applications smaller than 10 megabytes that can run instantly on WeChat’s interface. They offer speed of access to users because they do not have to be downloaded from an app store but can run from within WeChat on any operating system.
+
+Mini-programs are helping WeChat retain users. The proportion of users who return the next day to use the app increased to 25.5 per cent in June, from 13.2 per cent in November, according to a report by statistics provider Aldwx.co.
