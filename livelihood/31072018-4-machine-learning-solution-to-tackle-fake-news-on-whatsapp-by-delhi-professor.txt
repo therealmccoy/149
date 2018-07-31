@@ -1,0 +1,13 @@
+The story:
+Mr. Ponnurangam Kumaraguru, who is a professor at the Indraprastha Institute of Information Technology (IIIT), Delhi, has a solution to identify fake news on Whatsapp. The machine learning-based solution is capable of identifying fake videos, texts, images, and even audio recording. Professor who proclaims that he has built such applications for other two Social Media majors like Fecbook and Twitter, aims to launch the application in the next couple of months.
+Professor and his team is currently soliciting the examples of fake news from users, which would be fed to the ML to build a reliable ML model.
+
+"Why" of this story:
+The lynchings have not stopped across India, despite some efforts by Whatsapp, which at prima-facie seem cosmetic. They lynchings have taken the form of paranoia, where the residents of many communities and localities are thinking twice about what to wear and how to dress and even whether to smile at children or not.
+
+The Perspective:
+While Professor  is soliciting the examples from general public of fake news, the model which would be thus built is a slave to the data fed to it, which by all probability is going to be not conducive. It is difficult to build such models for even Whatsapp, when it is not being able to read messages sent by users due to end-to-end encryption.
+Also, what form the new fake news item is still a mystery because the same ML which is being put to use by Professor to counter fake news is being used to generate new fake news in most partof the world.
+
+"What" of this problem:
+What do you think is an ideal solutiont to this Frankenstein problem?
