@@ -1,0 +1,15 @@
+The Story:
+MakeMyTrip now makes it possible to check the train status and timings, by just sending a Whatsapp message. One should have the updated latest version of the app and also the user would require to save MMT's number in phone's contact list.
+
+"Passengers can keep themselves updated with live train status, PNR status, previous railway station, upcoming station and more. It will eliminate a passenger’s need to dial 139 for live train running status or download some random, third-party apps on his/her smartphone."
+
+"Why" this story:
+Whatsapp has generated a lot of bad press in a very crucial year of India's democracy, perhaps the most decisive next one year, since independence. The company is trying to solve the "fake forwards" problem on multiple fronts, but for a product which most of us use in our daily lives and is now synonymous with communication, this story is a token of appreciation towards the company.
+
+The Perspective:
+Whatsapp is a classic case of what vested interests can do to prop their own interests. The lynchings are blamed on the medium of propagation instead of the collective failure of the government institutions, where the government has been elected by an individual, whose very basic set of expectation would be that the elected representatives and public servant would at least ensure that he/she continues to live. Rest everything is secondary.
+
+"What" of this story:
+What do you think the the real problem is Whatsapp or vested political interests?
+
+
