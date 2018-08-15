@@ -1,0 +1,13 @@
+The story:
+TweetDelete is a service which allows you to get your tweets automatically deleted after a certain specified age, from your Twitter feed. One can delete up to 3,200 tweets at a time (which is a limit imposed by Twitter), and all at once, if one has less than 3,200 tweets. the service is very useful who have a lot of old tweets on their twitter feed from past years and may be would like to reduce their online exposure.
+
+The service also has a very friendly user privacy policy, where it clearly says that apart from twitter handle, screen name and the Twitter API key, it does not store or shares any other user information.
+
+"Why" of this story:
+Scanning of social media profiles have become a norm nowadays, from personal relationships to professional relationships.Right from looking the right partner to marry to, corporations looking for best hire in their organisation, social media profile is the first port of call for majority of us. Now even visa issuance is supposed to be determined by how well behaved a person's social media profile is.
+
+The Perspective:
+Twitter is one social media service which has majority of the users have their posts/tweets in open for everyone to view.Some take the number of tweets on their profile page as a badge of honour, not realising the deeper implications of leaving such a vast trove of personal information exposed. With tools like Natural Language Tool Kit, it is possible to determine even the general mood of a person over a long period of time, by processing his/her tweets.
+
+"What" of the story:
+What would you do if at a prospective job interview, you are asked for access to your SM profile?
