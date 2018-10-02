@@ -1,0 +1,19 @@
+Supreme Court Of India in it's judgement on Aadhaar on 26th September 2018, stressed on Government Of India, to adopt and enforce a strong data protection law.
+
+""We have also impressed upon the respondents, as the discussion hereinafter would reveal, to bring out a robust data protection regime in the form of an enactment on the basis of Justice B.N. Srikrishna (Retd.) Committee Report with necessary modifications thereto as may be deemed appropriate." - Paragraph 219 (f)"
+
+While inarguable this is strongly needed and a welcome step for hundreds of millions of customer who entrust their data to consumer startup(s) and GoI; the very basic question which arises is, the law would take some time on it's own, which would force the mushrooming startups, to take the ownership of data seriously.
+
+It would not be too much to say for these startups that, "With a customer, comes great responsibility"; but more than often it has been found lacking.
+
+Just recently a prominent Indian startup was found to have suppressed the information that it's databases has been breached and customer has been compromised.
+
+A customer is virtually on the mercy of the company, to not only protect it's data but also to take corrective measures, if her data has been compromised; since companies don't voluntarily declare the data breach.
+
+Enter, Firefox Monitor.
+
+Firefox has released a new tool for everyone, which monitors the users email address against the data breaches which happens, and then alerts the user, so that it can take corrective actions.
+
+Also, the first time, a user submits her email address, she gets a complete report of all the previous data breaches, where her credentials have been compromised.
+
+A consumer startup worth it's salt shall include the link to Monitor in its footer! That would be true ownership of a customer and her data.
