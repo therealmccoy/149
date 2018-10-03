@@ -1,0 +1,17 @@
+What would pain a data-science to leave your company? Surely, it wont be the same as that of a digital marketing person. And here where the young teams falter, because they do not take the "breed specific" points in the mind.
+
+One single Data Scientist exit could mean huge delays or even setbacks.
+
+The important point to note is that, while the companies tries the usual retention methods to keep the flock together, it is utmost essential to keep in mind the points specific to the breed.
+
+Here are the unique five pain points of the "data-science breed" to keep in mind, so that the flock remains together.
+
+1. A Data scientist is meant to find value in the data, and to write machine learning algorithms which drive this. Don't burden her with anything else like, finding,cleaning and sorting data etc. Soon she would become bored, because that's what she did not come to you.
+
+2. People's strength should be matched equally with the investment in latest technology and hardware. Great players don't want old and rugged ball. Specially, in cutting edge fields, people want to play with latest tools, not only to deliver better, but also to learn.
+
+3. A Data Scientist clearly wants to know how her work is going to impact the corporate mission and overall growth, so that she feels a belonging. Don't go haywire, every Monday. Keep a "True North" for her.
+
+4. Just because you want a "Data Science" tag, don't hire "bottoms up". A Data Science team like any critical core team is built "top down".
+
+5. A different perspective, every now and then always helps in seeing the picture from a new angle, specially in data science. Give your data scientist a feel for it, by short term rotations in other departments.
