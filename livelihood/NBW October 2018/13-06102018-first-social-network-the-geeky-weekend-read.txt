@@ -1,0 +1,14 @@
+Those who started using internet around 1998-2000, would remember fondly, how connections were made online, which was unarguable the very first 'online social network', the email chain.
+
+It happened just after the "Summer of 69", during this time, in October when two computers were linked at UCLA and Stanford. Whether that could be considered the "first internet communication" is debatable because the network crashed while typing the very first word, and LOGIN became, just LO.
+
+Lo and behold !
+
+By 1971, 15 university labs in US were connected together and the first international 'hitch' was made to the computers at Norwegian Seismic Array,which tracks earthquakes and nuclear test explosions.
+
+"That fall, Cerf logged on to his workstation to find an unopened message from the MIT Artificial Intelligence Laboratory. It had been sent over the network using the recently developed “electronic mail” system. Because more than one person was using each computer on the network, the scientists had conceived of “e-mail” (now commonly styled email) so they could share information directly from one person to another, rather than just between computers. As with regular mail, they realized they needed a system of addresses to send and receive the messages. Thus the @ symbol was born: It served to separate the mailbox identifier from the serving host, and the single character saved typing time and scarce computer memory, an early version of what one might think of as a “hack.” 
+
+This was, 1979.
+And the email, with subject lines "SF-LOVERS" had been sent to Cerf and all his colleagues, spread across US. They were requested to respond with their favourite science fiction writer.
+
+The thread, undoubtedly became a hit among the researchers and engineers and might be thought as the first online social network.
