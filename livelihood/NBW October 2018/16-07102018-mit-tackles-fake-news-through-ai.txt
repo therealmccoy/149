@@ -1,0 +1,25 @@
+After the recent uproar about "fake news" , it is again all quiet in India. Well, not until, another lynching or riot happens. Whatsapp is busy spreading the use of it's service, rather than strengthening it.
+The issue is going to haunt us again, very soon.
+
+There are two big components of "fake news", misinformation and extreme bias. If we add the veracity of source, then we can pin-point to a great extent, whether a news article is fake or not!
+
+Facebook and others are employing human moderators, "to detect and delete" fake articles. But in this age, as articles get published by thousands with the use of AI, it's the technology only, which can scale.
+
+The source part is the key here, after all in news, credibility is everything. A "Washington Post's" credibility is gazillion times better compared to any news app.
+
+A publication which has bias and unauthenticated reporting, is easy to flag, forever.
+
+ MIT's Computer Science and Artificial  Intelligence Lab and Qatar Computing Research Institute are developing a new machine learning system, designed to evaluate not only  individual articles, but entire news sources. The system is programmed  to classify news sources for general accuracy and political bias. 
+
+     If a website has published fake news before, there's a good chance  they'll do it again, By  automatically scraping data about these sites, the hope is that our  system can help figure out which ones are likely to do it in the first  place."
+
+
+
+The data was fed into the system through Media Bias / Fact Check,
+which is an independent and non-partisan resource, classifying news sources on political bias and accuracy.
+
+
+     On top of this dataset, the system was trained to classify the bias and  accuracy of a source based on five features: textual, syntactic and  semantic article analysis; its Wikipedia page; Twitter account; URL  structure; and web  
+
+
+    While the algorithm would also reflect the bias of the creators, it is definitely one of the most potent attempt to manage the menace.
