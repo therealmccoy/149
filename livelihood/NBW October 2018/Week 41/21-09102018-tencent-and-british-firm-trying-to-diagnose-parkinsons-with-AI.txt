@@ -1,0 +1,15 @@
+10 million people in world suffer from  neurodegenerative disease called Parkinsons. The number is further expected to rise by about one-fifth by 2025.
+
+While early detection can help the patient a lot, it is not easy to do so, in practice.
+
+Parkinsons disease detection is done by doctors through a combination of strength and movement tests.. Currently, the motor function assessment takes about 30 minutes and a doctor provides the score based on the observation.
+
+While there is not only it takes time, but also there is an "error of judgement" involved here, due to human intervention.
+
+Medopad, a UK based apps company and Tencent, now want to standardise this process through the use of deep learning and image recognition techniques. They are developing a system which would monitor the patient's movement through a smartphone app.
+
+The key to the app is a video test of fine hand movements, opening and closing of patient's fists, which is then analysesd for range and speed.
+
+Tencent would provide the AI technology for video analysis of  motor functions of Parkinson patient. The two companies are collaborating with the Parkinson’s Center of Excellence at King’s College Hospital in London.
+
+The research team has trained the system with existing videos of patients who have been assessed by doctors, working with King's College Hospital in London.
