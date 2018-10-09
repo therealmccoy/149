@@ -1,0 +1,15 @@
+Programmers have been always known as artists, those who write symphonies with code. Now with the help of AI, some are turning into the kind of artists we know, the real ones.
+
+ A nude portrait created, using artificial intelligence (AI) has bagged the first global art prize for its kind. The prize was awarded at the 7th Annual Lumen Prize awards ceremony held in London.  
+
+ 
+The Gold Award was presented to German artist Mario Klingemann, who created the work titled The Butcher’s Son, using AI.
+
+     Klingemann described the work as a “neural network’s interpretation of the human form.” 
+
+    The visual was made wholly through a machine via a chain  of GANs (generative adversarial neural networks). In this chain, a  randomly created stick figure functioned as input for the initial GAN,  which developed a “painterly-looking low-resolution proto-image.”     
+
+
+With all other kinds of revolutions driven in by AI, it was difficult for arts to untouched. 
+
+After all, "ARS GRATIA ARTIS".
