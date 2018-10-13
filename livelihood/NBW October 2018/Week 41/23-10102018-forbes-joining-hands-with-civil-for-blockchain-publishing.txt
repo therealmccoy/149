@@ -1,0 +1,12 @@
+Forbes would start publishing some of it's cryptocurrency related content, using Blockchain technology. It plans to do so by early next year.
+Thus becoming, the first major media company to incorporate blockchain technology in publishing.
+
+It is tying up with Civil (a non-profit media company). It is a decentralised ledger on cloud, that records when articles get publish and who publishes them. The company itself does not make any money, but the participants in it's "Civil Network" do so.
+
+Being an admired publisher, it makes sense to start early with this technology and be a torch bearer. Forbes would start with cryptocurrency content, and then put rest of it's content as well.
+
+It would mate it's proprietary CMS, which it calls "Bertie" to Civil's software. Forbes journalists would then be able to upload their meta data to Civil, while publishing on Forbes.com
+
+    Company is exploring the use of "smart contracts" for their contributors, to be able to upload content through Forbes' CMS.
+
+    They can then publish to various outlets across the web, like Medium or LinkedIn, and to Forbes and Civil. Contributors can also control the timing of publish, giving some outlets windows of exclusivity.
