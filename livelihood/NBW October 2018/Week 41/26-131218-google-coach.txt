@@ -1,0 +1,13 @@
+There are a slew of fitness trackers, but the fitness problem has not yet been solved. The reason is, they only tell, what is already known to the user. Sometimes, not so obvious things, but surely one doe snot know, even after knowing them, like the BP rate or or an ECG.
+
+The problem in fitness has never been the data, it has always been the absence of highly personalised advice and mentor.
+
+Also, fitness is like everything else in this world is not an isolated entity, but connected to so many other things we do and process all through out the day. So any fitness advice coming through has to incorporate the "other life" also.
+
+Surely, the fitness trackers don't know our other life; but there is one company, which knows about most of our life.
+
+Google is now developing a wearable health and fitness assistant, called "Coach". The device whose name might change before the launch, does what a real coach should. It not only delivers the health and fitness data pro actively but also throws in recommendations and advices on how to act on them. Rinse and repeat.
+
+"Google Coach will also help monitor your nutrition and recommend foods. For example, you might be able to get a healthy order recommendation for a meal out based on your location and patterns. If you prefer to cook at home, Coach could instead generate a weekly meal plan and shopping list, and beam it all right to your email. Google suggests that Coach might even be able to use your calendar data to figure out how many meals it needs to plan."
+
+The device would also make sure, that there is no information or alerts overload, which could instead of benefiting the owner, might send her into a tailspin. The device would combine many recommendations into a singular one, so that they are more palatable and actionable.

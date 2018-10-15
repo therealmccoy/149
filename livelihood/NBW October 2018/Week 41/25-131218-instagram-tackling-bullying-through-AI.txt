@@ -1,0 +1,11 @@
+When our world has morphed around photos, it was not unlikely that most of the harassment and bullying, would also revolve around that. The intrinsic ability of photos to both describe and inflate one's personality (more usual) has lead to it being the target of bullies.
+
+So it is not surprising that Instagram would have fair share of bullies also.
+
+The company is going to deploy AI capabilities which would detect images and captions, which violates company's community guidelines. For instance, the AI can “detect if a photo is criticising a person’s appearance or character”, or if an image “is making a threat to someone’s well-being”.
+
+Once the AI system detects such image, it is then sent to Instagram's community operations team for moderation.
+
+The key here is a mix of AI and HI (Human Intelligence), which could work better at Instagram's scale. Also, AI can't understand the "context and nuance". The young users face much more bullying, due to their vulnerability and it has lead to a lot of mental health issues among that group. In fact, it has been rated as the worst social network for mental health sanctity.
+
+    Adam Mosseri, the company’s new chief executive, said: “Online bullying is complex, and we know we have more work to do to further limit bullying and spread kindness on Instagram.
