@@ -1,0 +1,12 @@
+Every year, more than 150,000 people in US alone have a limb amputated, after an accident. Many of them are fitted with prosthetic device, which can recognise only a limited number of signals, to control a hand or foot.
+
+Earlier, deciphering the fidelity and content of the signals recorded byt he embedded electrodes was a huge challenge.
+
+Now recent advances in engineering, which includes signal processing and pattern recognition are helping to  to build new prosthetics.. These are a notch apart from the existing ones.
+
+    "The key is boosting the amount of data the prosthetic arm can receive, and helping it interpret that information. “The goal for most patients is to get more than two functions, say open or close, or a wrist turn. Pattern recognition allows us to do that,” says Rahul Kaliki, CEO of Infinite. “We are now capturing more activity across the limb."
+
+
+Prosthetics have an electronic control system embedded in them, which read and interpret data from up to eight electrodes in the upper arm. After many hours of training on an app, the device can sense the 'intent' embedded in the patient's nerve signals. Like, when she or he wants to make a certain kind of grip; and then the control system instructs the prosthetics to assume the same grip.
+
+USFDA has already approved the sale of such prosthetics.
