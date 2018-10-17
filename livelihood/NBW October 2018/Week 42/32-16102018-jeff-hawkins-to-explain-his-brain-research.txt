@@ -1,0 +1,22 @@
+The 'first principle' question is, "What is intelligence?".
+
+ The irony of the fact is that, people who are building the top-notch AI or Artificial Intelligence, cannot answer this.
+
+Under the long garb of models, networks and algorithms; no one is bothering to look into this fundamental question.
+
+After all only people who can explain, what is human intelligence, can build machines which work artificially as a human brian.
+
+May be except one guy, the founder of Palm and Handspring, who has self-taught himself neuroscience, over past many decades. Jeff Hawkins is trying to figure out, how the brain works and then reverse engineer it.
+
+
+    "His theory starts with cortical columns. Cortical columns are a crucial part of the neocortex, the part of the brain that handles sight, hearing, language and reason. Neuroscientists don’t agree on how the neocortex works.
+
+
+Mr. Hawkins says cortical columns handle every task in the same way, a sort of computer algorithm that is repeated over and over again. It is a logical approach to the brain for a man who spent decades building new kinds of computing devices."
+
+ The current artificial systems deployed by the likes of Google, Apple and Amazon use 'neural networks'. They are mathematical interpretations modelled after the matrix of neurons in the web. Scientists, still understand only a fragment of brain and hence in no way, can create it's capability.
+
+    “The brain is by far the most complex piece of excitable matter in the known universe by any measure. We don’t even understand the brain of a worm.”
+
+
+Mr.Hawkin's company, Numenta's sole purpose is to explain the neocortex and then reverse engineer it. Five others self-taught neuroscientists work along with him at his company.

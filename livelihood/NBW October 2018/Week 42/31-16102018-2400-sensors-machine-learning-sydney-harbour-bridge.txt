@@ -1,0 +1,19 @@
+Sydney Harbour Bridge weighs 52,800 tonnes and it is the first iconic structure which we see, lit up with fireworks on NY Eve/Day.
+
+The bridge signifies Sydney and even, Australia.
+
+At 134 metres,she is the world's tallest steel arch bridge, it's deck spanning 1149 metres. And she is 86 years young! The residents of New South Wales, affectionately call her, 'the coathanger'.
+
+To maintain the 'old matriarch of Sydney harbour'; Roads and Maritime Services(RMS) is deploying a computing network of 2,400 sensors to measure the vibrations in metal. They then apply machine learning algorithms to sensor data, so that the crew is alerted, even before the cracks and faults appear.
+
+Earlier, most of the maintenance work was done through visual inspection, which was not only hard and arduous, but also very risky. It also took a lot of time and money and was thus limited in it's scope.
+
+The sensor unit  consists of three low-cost accelerometers and a small Linux-based processor. The units to the arches – one per arch – with epoxy glue, and linked with a daisy-chained Ethernet network and a 1.2 kilometre long fibre optic backbone.
+
+The vibration caused by a vehicle passing over the bridge is different, than that caused by a crack occurring. Thus an algorithm can be trained to detect, normal and abnormal behaviour. Temperature and weather effects are incorporated in the ML model as well, as they have a deep effect on the structure. On hot days, the bridge can become taller by 10 cms.
+
+Currently, all the 800 arches connect to sensors and the web network, the plan is to further track all the other major parts of the bridge.
+
+The system alerts the crew through both email and SMS alerts. The manual inspection would continue  in the future as well. 
+
+The sensors and ML model not acting as a substitute, but rather as an addendum resource.

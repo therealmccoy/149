@@ -1,0 +1,18 @@
+Massachusetts Institute of Technology is creating a new college, focussed on AI and it's application to other disciplines. 
+
+It is backed by a planned investment of $1 billion. Two-thirds of the funds have already been raised.
+
+The college's name is going to be 'M.I.T. Stephen A. Schwarzman College of Computing'. It will have 50 new faculty positions and many fellowships for graduate students.
+
+Mr.Stephen A. Schwarzman, chief executive of the Blackstone Group, the private equity firm, has donated $350 million.
+
+    "The goal of the college, said L. Rafael Reif, the president of M.I.T., is to “educate the bilinguals of the future.” He defines bilinguals as people in fields like biology, chemistry, politics, history and linguistics who are also skilled in the techniques of modern computing applied to them."
+
+
+The college would try to break the silos in which departments encumber themselves. They thus hamper startling breakthroughs. Half of the faculty of new college would focus on the advancement of computer science. Rest half would be appointed by other departments of MIT and the college together.
+
+Rather than teaching Machine Learning or Data Science as an addendum to a dual-major programs, the college would 'bake in' computing in it's program.
+
+The goal is to have the enormous power of modern computing used by all the disciplines.
+
+https://www.nytimes.com/2018/10/15/technology/mit-college-artificial-intelligence.html
