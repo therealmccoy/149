@@ -1,0 +1,5 @@
+Atlas is one of the "advanced humanoid robots" being developed by Boston Dynamics. So far it has exhibited skills in running cross-country, jumping and back-flips.
+
+The company recently released a video, in which Atlas is being seen tackling a stack of progressively higher boxes in a series of fluid jumps.
+
+"The control software uses the whole body including legs, arms and torso, to marshal the energy and strength for jumping over the log and leaping up the steps without breaking its pace. (Step height 40 cm.) Atlas uses computer vision to locate itself with respect to visible markers on the approach to hit the terrain accurately."

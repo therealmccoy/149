@@ -1,0 +1,20 @@
+An ocean is a complex system. 
+
+Seafaring vessels and offshore platforms and rigs, are always on the mercy of natural elements. Be it a  a rogue wave, a sudden storm or some other freak event which can damage them beyond repair.
+
+It is arduous and difficult to pin-point the 'extreme' type of events which can occur in such a complex environment such as an ocean.
+
+A structure's strength is usually gauged through computational simulations. In the case of an ocean environment, these are complex both because of the 'wave system' and the interaction of it with the structure.
+But in an ocean, there are not a few hundreds of waves, but in fact a few hundred of millions waves and each one is distinct.
+
+Engineers at MIT have developed an algorithm which can pinpoint the 'extreme events' happening in an ocean environment.
+
+With this algorithm, even at a preliminary design stage, we can  assess, how the structure would behave against a single wave or a family of waves.
+
+The two usual options of either running stimulations on millions of waves or random sampling a few waves (which may omit the outliers) was not used.  The engineers developed a machine learning algorithm, which identifies the 'most important' or 'most informative' wave.  And then they run stimulations on those waves.
+
+    "The algorithm works on the idea that each wave has a certain probability of contributing to an extreme event on the structure. The probability itself has some uncertainty, or error, since it represents the effect of a complex dynamical system. Moreover, some waves are more certain to contribute to an extreme event over others."
+
+
+The data of various types of waves, their physical properties and the kind of impact they have on a theoretical structure is fed into the algorithm. The algorithm then can essentially 'learn' from the fed data, how the structure would behave in response to any unknown wave.
+
