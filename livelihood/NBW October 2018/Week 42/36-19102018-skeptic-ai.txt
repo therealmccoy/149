@@ -1,0 +1,18 @@
+There is an incessant rush by companies and individuals alike to re-brand themselves as #AI. The FOMO is so very all evident in the startup world, where no one would even notice a company now a days, unless with an #AI tag.
+
+There are two fundamental questions which has been rising. 
+
+The true ability of the AI technology currently available and the ethics of deploying AI. Some people also brag about AI being panacea to everything which is wrong associated with human race, bias and prejudice; saying AI is neutral.
+
+Let us take these cases:
+
+1. The neutrality of AI : The very fact that models are being designed by the humans, who have been living in a society programmed since centuries to discriminate on the basis of colour, race, gender, affluence and caste. So what happens is that, instead of a human, a machine is taking decisions, very fast, but not neutrally. The human bias are now being replaced in the algorithm.
+
+2. Human labour masked as AI : Most often if you find something being marketed as #AI, it is being done by a human. In the race to make themselves 'cool', computers are being made to look smarter than they actually are, through the use of cheap human labour. And then of course, the consumers pay for the charade and not the actual human labour. In fact, this has it's own term now - Fauxtomation.
+
+3. No one talks about human rights : While the debate is on 'ethics of AI', it should be on whether it violates human rights. After all, human rights have been decided and agreed up on by every one. It is there in UN charter. While ethics is different for Bob and Alice. If an AI system disallows welfare to a poor person, does it not violate her human rights? Would it be right then to deploy such a system?
+
+Before you deploy the real #AI, ask yourself these two questions:
+
+    Does this tool increase the self-determination and dignity of the people it targets?
+    If it was aimed at someone other than poor people, would it be acceptable?
