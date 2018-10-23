@@ -1,0 +1,26 @@
+Starting in February 2018, a sub-committee on Information Technology, belonging to House Committee on Oversight and Government Reform of US House Of Representatives, held a series of hearing on artificial intelligence (AI).
+
+In connection with hearings, the staff of sub-committee met with experts from academia, industry, government and AI industry.
+
+A white paper titled : "Rise Of The Machines - Artificial Intelligence and its growing impact on US policy" is the result of it.
+
+Following are the findings of the sub-committee from the paper:
+
+a) AI is an immature technology and its abilities are still evolving.
+
+b) Workforce is definitely being affected by AI, but the kind of impact, is yet to be assessed. Whether it is good, bad or neutral.
+
+c) AI requires huge amount of data, which may not only invade the privacy of the constituents of state, but may also perpetuate inherent bias.
+
+d) To account for potential biases in the AI systems, federal and state agencies that use AI systems and make consequential decisions about people and welfare, should ensure that such systems are accountable and inspectable.
+
+e) AI do has the potential to disrupt every sector of society, in ways which could be both anticipated and unanticipated.
+
+f) US cannot maintain the global leadership in AI, unless the Congress and Executive branch leads the efforts from front. (So while the concerns about technology is there, Congress definitely wants US to lead the AI industry). Federal government hence should increase spending on research and development of AI technology.
+
+g) Federal government should also increase spending in education and training of workforce. So that they learn the necessary AI skills are are AI ready.
+
+h) Federal privacy laws and regulations should be review. As in how they apply to AI jurisdiction and if necessary, to incorporate AI factor.
+
+i) Any regulatory approach to AI should also consider the risk to public safety and consumers. And ensure that existing frameworks address such risks. If a risk is find to be falling outside existing framework, then modifications and additions to be  applied to it.
+

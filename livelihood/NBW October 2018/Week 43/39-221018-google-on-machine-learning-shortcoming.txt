@@ -1,0 +1,18 @@
+Google units, Google Brain and Deep Mind have published a paper together. It details the short-comings of Machine Learning . And then gives a few techniques which could help the technology to graduate to "Artificial General Intelligence. More akin to common day human reasoning.
+
+
+    "The research acknowledges that current "deep learning" approaches to AI have failed to achieve the ability to even approach human cognitive skills."
+
+
+Though the research has not dumped the entire theory of neural networks, basis on which the entire machine learning works.
+
+"The paper, "Relational inductive biases, deep learning, and graph networks," posted on the arXiv pre-print service, is authored by Peter W. Battaglia of Google's DeepMind unit, along with colleagues from Google Brain, MIT, and the University of Edinburgh. It proposes the use of network "graphs" as a means to better generalize from one instance of a problem to another."
+
+The paper says that at most , the advances made in Machine Learning has been able to do is to generalise the human experience. A kind of brute force method, employing cheap data and computing resources. 
+
+Like identifying a cat from hundreds of millions of images. It is an instance of a general human experience, where a human distinguishes between a cat and any other animal. But beyond generalisation, say which cat a human finds cute, is where no Machine Learning system can reach. The very fact that, there is no verifiable and authentic data available for it, could be one of the reason. What is 'cute' for one human, is not for other. And that's where all Machine Learning falls flat. This also explains, why all the hoopla about ML and AI is blown out of proportions.
+
+The answer the paper proposes is to use, 'Graph Networks'. They represent human cognition better. By mapping entities and objects with their relationships mapped out.
+
+"Human cognition makes the strong assumption that the world consists of objects and relations. And because GNs [graph networks] make a similar assumption, their behaviour tends to be more interpretable."
+
