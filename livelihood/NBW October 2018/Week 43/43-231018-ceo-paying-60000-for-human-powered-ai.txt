@@ -1,0 +1,15 @@
+Artificial Intelligence thrives on two things, cheap data and cheap computing power. The problem with data is that, it is not always available in the manner it should be. Also, it is not always cheap. In either case, it could make an AI system redundant.
+
+A Silicon valley start-up called Hive is using human effort to provide AI powered image recognition, which it says that better in many magnitudes, than that of Google. Very honest guys, to say the least. For years, human labour have been masked as AI, so that company's can make themselves real 'cool'.
+
+And now, there have been enough evidence to prove that AI systems acting alone, cannot solve the most critical problems, except identifying a dog from a cat. May be, not even that.
+
+Hive has taken a cue from Google's reCAPTCHA project. It has signed up more than 6 Lac users, who help train it's AI systems by categorizing images, grouping them or transcribing audio snippets. All for exchange of money.
+
+They have made it a sort of game, where instead of losing money like in Candy Crush, one can make some decent sum. Ideal when you want idle time during long commutes, may be even during boring lectures and meetings?
+
+In AI, while the computing power is now, almost available to everyone, who can afford a little sum, it is the data which is often now the clincher. Technology giants employing only technology and employing PhDs are devoid of the facility of clean and vetted data. Where start-ups like Hive can take advantage.
+
+Countries like India are ripe for making torch bearers of AI revolution because, we not only have technical skilled man-power, but also cheap labour. The do, make an effective mix, for another IT revolution. After all, the 'Sweat Shop' is nothing to be proud of, for even the biggest of big Indian IT companies.
+
+It's about time that they take cue and HIVE off!
