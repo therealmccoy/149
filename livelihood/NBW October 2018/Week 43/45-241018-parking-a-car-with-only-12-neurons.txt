@@ -1,0 +1,15 @@
+It is imperative that to build an artificial intelligence system, we start with the human intelligence system, the brain. But the fact is very little is known itself about human brain.
+But there is a creature, in fact, a roundworm called C.elegans which has been well researched and now scientists are using its neural circuits simulation on computer to build much better artificial intelligence systems.
+
+A naturally grown brain is not a mix of logical computations, in fact over a period of time the neural signals evolve, after communicating with billions of theirs compatriots sometimes, and that is how, humans are able to accomplish very complex tasks.
+Even simple tasks, which could be at present, prove very difficult for machines.
+
+While the present machine learning algorithms thrive on layers and layers of neural networks and more the merrier, adapting a brain structure model, actually means, algorithms can be actually simpler and need less layers.
+
+The machine learning model developed on the simulation of neural circuits of the roundworm by the researchers at TU Wien at Vienna and MIT, consists of only 12 neurons, and yet it can be trained to steer a rover in to a parking position.
+
+Not only these novel neural networks are versatile, but they can also be easily understood under the hood, as they have been developed with the first principle of reasoning and intelligence, a biological brain.
+
+The neural circuit from the nervous system of worm nematode. C elegans which is used in this experiment is responsible for generating the reflexive behaviour of touch withdrawal. So, the output of the neural network which in real life controls the movement of the worm, is used to steer a vehicle.
+
+"The new approach has another important advantage: it provides a better insight into the inner workings of the neural network. Previous neural networks, which often consisted of many thousands of nodes, have been so complex that only the final results could be analysed. Obtaining a deeper understanding of what is going on inside was hardly possible." 

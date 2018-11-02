@@ -1,0 +1,15 @@
+With one or other battle, war or conflict raging in many parts of world, what this world needs is Peace. 
+
+And as Nobel prize winner and father of green revolution, Mr.Norman Borlaug famously said, "There cannot be any peace on hungry stomach". If people are well fed and hence happy, they are less likely to engage in conflicts.
+
+A group of researchers from Cornell University are deploying Machine Learning to fight hunger. One of the biggest problem this world is facing currently.
+
+Some might say that, this is a solved problem.  But with increase in the vagaries of nature, the problem has only increased. With alternate drought and floods, interspersed with storms; 
+
+The researchers would use ML techniques to analyse food and market conditions, to predict poverty and malnutrition in poorest region of the planet.
+
+The method would use available satellite data to measure solar induced chlorophyll fluorescence (SIF). These are the photons emitted during photosynthesis to measure agricultural productivity. They will combine this data with land surface temperature and food price data. The surface temperature data captures the moisture content in near real time, providing input about crop health and drought risk. Super imposing this data with food prices would help infer, how much farmers are able to earn and how much food they can afford to buy as a consumer.
+
+"From these data, the model will generate maps showing factors like estimated prevalence of various poverty rates or populations of children or women at risk of malnutrition. The maps will not only make it easy to identify specific regions needing help, they will also show how conditions evolve over time to help policy-makers or aid organizations make decisions."
+
+Instead of reacting on a humanitarian crisis, now we can respond. in case of drought or crop failure, the ML system can help forecast the event and ensure timely help reaches.
