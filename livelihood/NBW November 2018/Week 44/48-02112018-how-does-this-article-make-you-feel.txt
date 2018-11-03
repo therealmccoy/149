@@ -1,0 +1,17 @@
+Project Feels is a project of The New York Times's Data Science team to understand and predict the emotional impact of Times articles. The quest was to predict the emotions evoked by a Times article. And thus lead the advertisers to place ads more suitable to the context of the story. That would have lead to a better conversion.
+
+"We built prediction algorithms with large amounts of data collected via crowd-sourcing. Our predictions made sense qualitatively, and we ran successful experiments demonstrating that readers’ emotional response positively correlated with engagement on articles."
+
+To collect the data for emotion prediction, 1200 readers voluntarily participated to create the initial dataset. First time ever when New York Times systematically crowd-sourced data for Machine Learning. Respondents were asked about how they felt after reading a series of articles. And they were asked to choose from many category, which included 'No Emotion'.
+
+Data was further cleaned using statistical techniques to measure time-completion and disagreements.
+
+"asking respondents questions about difficult articles gave us more information than if we had asked about straightforward articles. Selecting trickier pieces can help a machine learning algorithm achieve high predictive performance with limited data"
+
+Ads were then screened against top-scoring articles in each emotional category in a controlled experiment. The goal was to see whether ads on emotion-tagged articles performed better or worse than our control, and whether emotions performed differently.
+
+"Across the board, articles that were top in emotional categories, such as love, sadness and fear, performed significantly better than articles that were not. We saw significant differentiation between articles tagged with emotions, showing that readers’ emotional response to articles is useful for predicting advertising engagement."
+
+The performant models thus built performed well over time in off line evaluations, spot checks and online experiments as well. 
+
+Crowd-sourcing the dataset shows that, reader feedback can be incorporated in a systematic way to learn new insights from existing data.

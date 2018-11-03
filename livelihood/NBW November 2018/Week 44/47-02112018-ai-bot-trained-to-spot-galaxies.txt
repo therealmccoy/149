@@ -1,0 +1,12 @@
+Image recognition algorithms can have many applications, some benign and some not so.
+Researchers have trained an artificial intelligence bot, to spot galaxies. Earlier it used to  which recognises faces on Facebook.
+
+ClaRAN is the brainchild of big data specialist Dr. Chen Wu and astronomer Dr. Ivy Wong, both from The University of Western Australia node of the International Centre for Radio Astronomy Research (ICRAR). Its job is to spot radio galaxies. Galaxies that emit powerful radio jets from supermassive black holes at their centres.
+
+Traditional compter algorithms can spot almost 90% of the galaxies.  That leaves about rest of the 10% or about 7 million galaxies and they are identified by human eyeball. These are called 'difficult' galaxies. Since they have a complex structure, there has not been any other option than visual identification.
+
+ClaRAN reduces this gap to 1 percent. Thus scientists are now available to find new type of galaxies, instead of doing visual classification.
+
+"ClaRAN is an example of a new paradigm called 'programming 2.0'.
+
+All you do is set up a huge neural network, give it a ton of data, and let it figure out how to adjust its internal connections. In order to generate the expected outcome. The new generation of programmers spend 99 per cent of their time crafting the best quality data sets and then train the AI algorithms to optimise the rest.This is the future of programming."
