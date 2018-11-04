@@ -1,0 +1,7 @@
+The Norwegian postal service, 'Posten', has signed a partnership with  San Francisco based robotics startup called Buddy Mobility. Buddy Mobility would provide robots that delivers parcels to the doorstep, well almost.
+
+The postal robot runs at 6 km/hour and can deliver 100 parcels in a day. The way it works is, the robot sends an app notification to the recipient, when it is close to the recipient. The recipient can walk to the robot, pick up the parcel and then robot moves on.
+
+The website of Buddy Mobility which has offices in San Francisco bay area and Oslo, Norway says :
+
+"Our robot provides Posten with operational cost savings to offset revenue losses from decreasing mail volumes. At the same time, the robot offers new revenue streams around package and parcel delivery."

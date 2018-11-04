@@ -1,0 +1,17 @@
+While, a lot of marketing dollars have moved to new online avenues, which includes OTT programming; television advertisements still commands billion of dollars every year.
+
+So far, the ad spots is placed in a very generic way, like connecting X to Y. If there is a family soap opera, it wont have energy drinks ads. On a football match day, the adverts would not consist of the beauty soaps one. While the truth is human behaviour is not so consistent as connecting "X to Y". 
+
+It would not be an exaggeration to say, current way of placing the adverts in television programming is like the proverbial, "blind man leading the elephant".
+
+The billion  dollar problem in television ads marketing is to connect the human behaviour to ads. And in such a way that, ads translate in to valuable actions for the brand.
+
+Machine Learning is now trying to connect the consumer behaviour with TV viewing. This do of course, includes the advertisement angle. EDO, a New York and Los Angeles based startup is trying to do this.
+
+The way it is trying to solve the riddle is by watching television feeds in a giant DVR farm.  And figuring out how ads correlate and cause consumer buying behaviour online.
+
+EDO's DVRs have captured 47 million "airings" of television ad spots over the past three and a half years. This database of ads compares against publicly available data of things people do online such as searching by keyword or looking up things in Wikipedia. A data set of "trillions" of consumer actions.
+
+"The data science matches between the airing of an ad and the spike in behaviour of various kinds that relates to that product or brand. Creating a kind of "A/B testing," seeing which spots among several from a brand marketer had the biggest boost to behavior."
+
+While it is easy to some extent to show correlation, showing causality is what is, the holy grail. 
