@@ -1,0 +1,17 @@
+Curiosity killed the cat, some say.  'What happens next' has been both the boon and bane of the mankind, but let's discuss the good thing here. 
+
+The truth is, curiosity has saved the mankind.
+
+ All the advancements in science and technology, arts and humanities have been possible only due to curiosity. Aroused deep within few good women and men.
+
+Hence, now it has been imperative that when machines are being taught to be intelligent, we teach them to be curious as well. After all what is the purpose of intelligence, if we cannot use it. And a human use intelligence, only when curiosity is there. 
+
+Ditching the reinforcement learning method, where machines learn to deploy the effective strategy through trial and error; now they are being taught to be curious. The reward of being curious has been too imperative for humans, when deployed to machines, it has lead to better than human performance with them.
+
+"The big reason is that curiosity helps computers learn on their own.
+
+Most machine learning approaches deployed today is split into two camps: in the first, machines learn by looking at piles of data, working out patterns they can apply to similar problems. And in the second, they’re dropped into an environment and rewarded for achieving certain outcomes using reinforcement learning."
+
+In AI, the data is the king and getting the data-sets right takes the greatest amount of time, when the algorithms start getting generic. If machines are curious and explore on their own, a lot of human effort in getting the right data-set, can be done by machine itself and through rumble and tumble, it can get it's own right data-set.
+
+Like, a kid can be either taught how to walk, by forever holding her hands, or in a much better way, where she goes on her own, in a controlled environment to figure out the steps . Of course, in the long run, letting the kid explore fetches the best reward. Soon, we would see that it holds true for machines as well.

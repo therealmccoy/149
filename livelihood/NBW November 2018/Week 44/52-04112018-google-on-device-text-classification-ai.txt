@@ -1,0 +1,13 @@
+Deep neural networks which are like dummy brains for an AI machine. These machines which performs image recognition and language translation, requires large amount of memory and computation power. While it is not a problem any more, but for mobile phones it is.
+
+Deploying an effective and accurate AI system on mobile shrinks due to their memory and available computing power.
+
+Now researchers at Google have developed, Self-governing Neural Networks (SGNNs) which achieve remarkable accuracy when deployed on mobiles. 
+
+“The main challenges with developing and deploying deep neural network models on-device are (1) the tiny memory footprint, (2) inference latency and (3) significantly low computational capacity compared to high-performance computing systems, such as CPUs, GPUs, and TPUs on the cloud,” the team wrote. SGGNs allows to compute a projection for an incoming text very fast, on-the-fly, with a small memory footprint on the device, since we do not need to store the incoming text and word embeddings.”
+
+As the name implies, the neural network (SGNN) is self-governing, which means it learns on the fly.
+
+"SGGN outperformed both baseline AI systems by 12 percent to 35 percent without preprocessing, tagging, parsing, or pre-training embeddings. And with the SWDA and MRDA datasets, it achieved an accuracy of 83.1 percent and 86.7 percent accuracy — higher than the benchmarked-against bleeding-edge convolutional neural networks and recurrent neural networks — and 73 percent accuracy on Japanese, close to best-performing systems."
+
+ The paper was presented this week at the Conference on Empirical Methods in Natural Language Processing in Brussels, Belgium.
