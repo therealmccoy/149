@@ -1,0 +1,15 @@
+LINK: https://www.natlawreview.com/article/european-patent-office-issues-new-guidelines-artificial-intelligence-and-machine
+
+Artificial Intelligence and Machine Learning are the 'fourth industrial revolution'.  While they become as dramatic or not, is to be seen. But if they do manage to become, they would be the most democratic one.
+
+AI and ML platforms are open source, anyone with an access to internet can learn them. Also, the feed stock of this revolution, computing power available is more generous and cheaper. But, not yet forgotten are the ugly patent wars among the technology behemoths. It had sparked some kind of concerns, where soon the patent wars would take over the AI and ML world too. After all, companies are dedicating and betting billions of dollar on it. And everyone loves RoI.
+
+It seems that what has been the boon of AI and ML, could well be it's bane. At least for the investors in technology.
+
+The European Patent Office (EPO) has issued new guidelines on 1st November about the patentability of inventions related to AI and ML. It has made those inventions un-patentable, well almost.
+
+"The new guidelines, G-II 3.3.1, provide that AI and ML are “based on computational models and algorithms for classification, clustering, regression and dimensionality reduction, such as neural networks, genetic algorithms, support vector machines, k-means, kernel regression and discriminant analysis.” These “computational models and algorithms” are, according to the guidelines, “per se of an abstract mathematical nature.”
+
+The new guidelines also states that the 'field of application' would be an important consideration while determining whether the mathematical abstraction imparts technical nature to the invention or not, and hence thus makes it patentable.
+
+"The AI and ML guidelines provide the following examples of patentable applications of mathematical methods to a “field of technology”: “neural network in a heart-monitoring apparatus for the purpose of identifying irregular heartbeats makes a technical contribution” and the “classification of digital images, videos, audio or speech signals based on low-level features (e.g. edges or pixel attributes for images)”.

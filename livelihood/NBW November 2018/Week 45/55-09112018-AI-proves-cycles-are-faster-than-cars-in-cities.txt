@@ -1,0 +1,13 @@
+LINK: https://www.forbes.com/sites/carltonreid/2018/11/07/data-from-millions-of-smartphone-journeys-proves-cyclists-faster-in-cities-than-cars-and-motorbikes/
+
+A famous someone would have remarked, "it's elementary" when told that bicycles are faster in today's cities compared to motorbikes and cars.  This time, so says, an entity called, Frank.
+
+Frank is the machine learning routing algorithm of meal delivery service of Deliveroo. It which works with 13,000 riders and drivers in 13 countries.
+
+"Frank predicts the timings of every order depending on the dish ordered, the location of the restaurant, the time of day and the day of the week, the number of riders and drivers logged in to the company’s courier app, and the distance from the restaurant to the customer. 
+And it’s Frank that has used millions of actual journeys to calculate the relative speeds of the self-employed couriers in cars, or on their scooters and bicycles. 
+In some areas over a given period, the average travel time can be far shorter for cyclists than for scooters."
+
+With many cities developing dedicated bicycles lanes, cyclists are less hassled. Troubles with parking,lanes,traffic lights and peak-hour traffic jungle are not for cyclists. No worries for parking could be the single biggest advantage. In today's world where parking has become so scarce that, vehicles are being prohibited to enter the busiest central districts at peak hours. It's the cyclist who would win the commuter race.
+
+And of course, who else but Frank knows it's best.

@@ -1,0 +1,17 @@
+LINK: https://www.independent.co.uk/news/world/asia/china-surveillance-facial-recognition-body-walk-technology-watrix-privacy-cctv-a8622156.html
+
+Great power comes with great responsibility. But history has been rife with innumerable examples, that it's actually opposite. Not in one country, but in every nook and corner of this world. With power comes greed and greed knows no bound.
+
+Technology while has made our life at least more comforting, it has been also a great extinction tool for despots and autocrats. Never it has been more relevant than in today's world. AI and ML coin has also two sides. The good and bad one. May be the good and ugly one. And governments across the world are deploying these tools to increase their hold on very people who elected them.
+
+China is rolling out new surveillance system which is capable of recognising people simply by the way they walk. The "gait recognition" technology, developed by Chinese artificial intelligence firm Watrix, is capable of identifying individuals from the shape and movement of their silhouette from up to 50 metres away, even if their face is hidden.
+
+The system is currently being used by police in Beijing and Shanghai. China has already a formidable surveillance network with an estimated 170 million CCTV cameras.
+
+While the software can be used on standard surveillance and CCTV cameras, it does not work in real-time and takes up to 10 minutes to analyse the image. Well, needless to say, Moore's law would come to it's aid sooner than later.
+
+"You don't need people's cooperation for us to be able to recognise their identity.Gait analysis can't be fooled by simply limping, walking with splayed feet or hunching over, because we're analysing all the features of the entire body."
+
+Of course China is not alone in this endeavour, other countries including Japan, US and UK are interested in such systems.
+
+Soon enough people would start demanding election manifestos include that state would not do surveillance on the subjects, unless approved by a court of law.

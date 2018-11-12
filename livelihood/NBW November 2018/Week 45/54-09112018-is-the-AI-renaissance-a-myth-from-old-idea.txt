@@ -1,0 +1,9 @@
+If you ask a fellow human, "Define strategy?"; most of us would not be able to come up with a satisfactory answer, including the author of this article. How does then a neural network knows what is a strategy? When like most of the things in life, the question itself is relative. What is strategic to someone, is dumb for another. In such a world how can machine be strategic?
+
+AI and ML revolution unfolding itself currently, are being touted with wide and grandiose schemes. Some calling the machines having the ability to be creative and strategic. True? Or is that definition limited to the thoughts and interpretations of the concerned AI researcher, and not everyone may agree with it?
+
+The truth is, the basic hypothesis behind building an AI machine, through trial-and-error method, by feeding it a massive set of trained data is at least 30 years old in production. This technique called 'Backpropagation' was invented way back in 1960 and first applied to neural networks in 1980s.
+
+So though today we see a huge amount of hoopla regarding the AI technology, the fundamentals have not changed much in last 30 odd years. What has made this possible on a bigger canvas is the huge amount of computing power available at dirt cheap prices.
+
+"Machine learning systems have made great strides recently, but that progress has been won by throwing huge quantities of conventional computing hardware at the problem, not by radical innovation. At some point in the near future, it will no longer be possible to cram any more tiny silicon switches onto a silicon chip. Design efficiency (i.e., doing more processing with less hardware) will then become commercially important, and this could be the moment when evolvable forms of hardware finally come into vogue."
