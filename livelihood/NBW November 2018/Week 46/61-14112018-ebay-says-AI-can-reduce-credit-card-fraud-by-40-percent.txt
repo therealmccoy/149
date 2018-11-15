@@ -1,0 +1,12 @@
+eBay scientists have published a report which says that it's new AI algorithm can identify 40% of credit card fraud transactions with high precision. A significant finding for a sector which solely relies on technology for fraud detection.
+
+As always there are two sides of the coin for any entity or method. In fraud detection also, the techniques and tools can either focus on good actors or bad actors. Till now it has been the former. Where the truth is that majority of transactions conducted are by good actors. So it was imperative to study the behaviour of good actors, in fact much more important than those of bad actors.
+Hence eBay, rather than focusing on the changing patterns employed by bad actors to circumvent protective barriers, they decided to instead analyses instances of good behaviour.
+
+San Jose-based eBay scientists Utkarsh Porwal and Smruthi Mukund noted that patterns of good behaviour do not change with time.  The data points that represent this form of conduct have consistent spatial arrangements. Porwal and Mukund suggested a clustering method for identifying outliers and to later formulate a score, which would determine consistency and in turn, good behaviour.
+
+“Often the challenge associated with tasks like fraud and spam detection is the lack of all likely patterns needed to train suitable supervised learning models. This problem accentuates when the fraudulent patterns are not only scarce, they also change over time. Change in fraudulent pattern is because fraudsters continue to innovate novel ways to circumvent measures put in place to prevent fraud. Limited data and continuously changing patterns makes learning significantly difficult. We hypothesize that good behaviour does not change with time and data points representing good behaviour have consistent spatial signature under different groupings,”
+
+The good actors are consistent and bad actors are inconsistent. Any inconsistent behaviour thus automatically implies an anomaly and could warrant a cause for inspection. And this method can easily keep track of changing methods and tools of bad actors, just for the very fact that they are inconsistent.
+
+eBay seems to have turned very tool of bad actors against them, by forming a sort of standard of a good behaviour.
