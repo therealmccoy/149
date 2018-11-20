@@ -1,0 +1,27 @@
+What probably distinguishes a human from an animal is 'common sense'. While an animal behaviour is mostly 'reaction', a human can use her 'common sense' to analyse the situation and 'respond'. But the sad truth is that 'common sense' is not a trait by birth and in fact acquired through Bayesian evolution and trial-and-error, over a long period of time. And that's why, even in humans, it is rare and uncommon.
+
+And thus the true test of any artificial intelligence system is whether it has the uncommon common sense. More so when the system's creators might themselves be lacking it, in most of the cases?
+
+To begin with a machine which can answer common questions, which could be both logical and entail common-sense are being developed in quick succession by both Allen Institute Of Artificial Intelligence and Google.
+
+In an English test developed by Allen Institute in August this year, the AI system responded with correct answers in 60 percent of the cases. The test involved answering question like :
+
+"On stage, a woman takes a seat at the piano. She
+
+a) sits on a bench as her sister plays with the doll.
+
+b) smiles with someone as the music plays.
+
+c) is in the crowd, watching the dancers.
+
+d) nervously sets her fingers on the keys."
+
+Humans responded with correct answers in 80 percent of the cases.
+
+Two months later Google researchers unveiled a system called Bert, which answered such questions as well as humans did. Even when it was not programmed to take a test.
+
+"Over the last several months, researchers have shown that computer systems can learn the vagaries of language in general ways and then apply what they have learned to a variety of specific tasks.Each system learned a particular skill by analyzing all that text. OpenAI’s technology learned to guess the next word in a sentence. Bert learned to guess missing words anywhere in a sentence. But in mastering these specific tasks, they also learned about how language is pieced together."
+
+For a standardised language use, this is a very important progress milestone. The key is to see this in production in non-standard environment. And that shall take some time.
+
+

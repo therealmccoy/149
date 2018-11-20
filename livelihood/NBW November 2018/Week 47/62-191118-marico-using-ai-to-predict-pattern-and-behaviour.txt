@@ -1,0 +1,15 @@
+FMCG or Fast Moving Consumer Goods is  an ancient industry, as far as  operations is the word. Computerisation lead to better data management and inventory control. But, more or less, the way industry operates on field, remains the same. Modes of marketing for the industry have moved on to digital medium. And it is not a FMCG industry innovation, but rather a global phenomena which they had to adopt to survive.
+
+Hence, if someone talks about use of artificial intelligence in a FMCG company and that too an Indian, it is bound to effect pleasant surprise.
+
+Marico has started using analytics and artificial intelligence (machine learning, in particular). Thus it strives to grow both its own business and that of its distributors. 
+
+“We are moving away from getting new apps to an age of getting into analytics—a stage where the world is moving beyond descriptive things to diagnostics, predictive and to prescriptive (which also recommends a course of action),” explains Sanjay Mishra, chief operating officer at Marico. 
+
+"For instance, a distributor could be facing financial trouble and drop out of business. “In such cases, we need to take action else it will also mean loss of business to us. This is the descriptive and prescriptive technology. Marico uses AI to seek patterns and predict behaviours."
+
+Company is also leveraging it's tie-up with e-commerce companies by using their real time data and insights for 'predictive and prescriptive analytics'. Using this suite of analytics and data helped the company to launch a new range of premium products called Studio X under its male grooming brand, Set Wet, on Amazon in May. And another brand True Roots on Flipkart in September. 
+
+While it is still early days, but the holy grail of FMCG company is right indenting or demand prediction. Particularly in perishable products having shelf life of six to nine months. 
+
+An AI & ML system which could predict the demand,  incorporating both the seasonal vagaries and distribution heartaches could be worth billions in India alone.
