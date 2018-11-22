@@ -1,0 +1,21 @@
+IITs have been pride of the nation since their start. But they are part of an administration driven by antiquated government rules. And an education system, which still relies on years old pedagogy, both in delivery and content.
+
+In today's world where the world is on finger tips, there is little to motivate the best minds to join them. The greener pastures are beyond the seas.
+
+But there is light at the end of tunnel and once in a while, every now and then, we do get good news from them. after all, all is not lost yet.
+
+Fake news about events and disasters are now used everyday to stir up emotions. Liars never had so easy. With people on the brink of emotional anxiety and hooked on technology to give them the right news and perspective, they are gullible.
+
+"The Indian Institute of Technology Kharagpur has come up with a solution that uses artificial intelligence to extract critical information from social media platforms that is difficult to obtain manually. This information can be used to determine the authenticity of posts and also pass on data to aid rescue and relief operations."
+
+"During the Chennai floods in 2016, there were rumours that crocodiles had escaped from the park. IIT’s solution could easily identify this as fake news by analysing and mapping the information emanating from authorities in the region. This ensures that unauthorised handles spreading rumours are identified. 
+
+“Our solution can detect fake news and can even alert users in the time of disasters through deep machine learning algorithms,” said Saptarshi Ghosh of the Department of Computer Science.
+
+The solution offered by IIT-KGP claims to be 90% accurate in in distinguishing fake news from real.
+
+The next step for the renowned institute which is now known as the alma-mater of Google CEO Sundar Pichai, is to develop a web-based systems for aiding post-disaster relief operations. With a flurry of information arriving from SM platforms, it is getting difficult to filter the information, assess it and then utilise it take well informed actions.
+
+With no let up in natural disasters, this is one tool, which every country needs on priority.
+
+Way to go, IIT Kharagpur. We all are proud of you. 
