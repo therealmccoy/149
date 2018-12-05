@@ -1,0 +1,17 @@
+World's fourth largest train network. World's ninth largest employer. About 1.6 million employees. Almost 70,000 kilometres of route. This is Indian Railways for you. And now it is gearing up fast to link-up with emerging technologies as artificial intelligence.
+
+For the forthcoming Ardh Kumbh at Allahabad (Prayagraj) which starts from 15th January 2019 and will conclude on 4th March 2019, Indian Railways is going to utilise artificial intelligence, for crowd control and safety.
+
+More than 100 million devotees are expected to attend this world's largest religious congregation.
+
+With a vast network of CCTV cameras, combined with IBM's video analytics service, Indian Railways plans to watch the crowd and their safe movement across all the major stations around the venue.
+
+The information gathered through video camera and analysed by IBM's AI solution would then disseminate through a mobile app and will also display on LCD screens across stations.
+
+Already pro-active on social media, IR will use it for keeping the pilgrims updated on a real-time basis.
+
+More than 5,000 Government Railway Police (GRP) and Railway Protection Force (RPF) personnel will be deployed to manage the crowd movement at 10 stations in and around the city, including Allahabad, Prayag, Jhunsi, Naini, Cheoki and Allahabad City.
+
+It's time for Indian Railways to establish it's own in-house data-science team, if it wants to keep up with the Joneses. It will not only help it develop proprietary technology for railways and avoid paying huge sums to contractors, like IRCON it can then license it's technology or help it in install it in railways across the world. That would fetch a handsome amount of revenue.
+
+And which data scientist would not like to work with Indian Railways? Apart from handsome perks of a government job and free travel, Indian Railways has one of the largest data set in the country. Best of both worlds for any data scientist.

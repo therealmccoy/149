@@ -1,0 +1,21 @@
+In past two decades of computing industry, technology was everything. In the present decade, data is everything. Technology is relegated to second place.
+
+Amazon has announced that the machine learning courses that it uses to train its own engineers, are now freely available to all.
+
+"According to a released statement by Matt Wood, an eight-year veteran of Amazon and a general manager of deep learning and AI at the company, there are more than 45 hours across 30 different courses that developers, data scientists, data platform engineers and business professionals can take gratis."
+
+"Each “starts with the fundamentals, and builds on those through real-world examples and labs, allowing developers to explore machine learning through some fun problems we have had to solve at Amazon. These include predicting gift wrapping eligibility, optimizing delivery routes, or predicting entertainment award nominations using data from IMDb (an Amazon subsidiary). Coursework helps consolidate best practices, and demonstrates how to get started on a range of AWS machine learning services, including Amazon SageMaker, AWS DeepLens, Amazon Rekognition, Amazon Lex, Amazon Polly, and Amazon Comprehend.”
+
+The move to say the least is surely laudable. Most of the large companies have made or are now gearing towards making their own machine learning and artificial intelligence resources available to all.
+
+There are several dimensions to it.
+
+Part of it is the 'goodwill' which it generates not only among the programming community but over all in society. 
+
+Also, each big one employing a different set of tools, unless the interested candidates tinker before hand with them and like them, in a very competitive AI and ML  job market, it is getting difficult to get the best candidates.
+
+Companies also know that now it is not about the technology, it is more or less commodity. It is all about the data. Without right dataset, the shiny tools are worth pebbles. So releasing internal technology (which is itself based on open source software) is now not a big deal.
+
+Also Amazon now moving big in cloud computing business, it has to convince business that it is as good as Google and Microsoft.
+
+For curious minds, it is a good news. It gives them a peek inside Amazon.
