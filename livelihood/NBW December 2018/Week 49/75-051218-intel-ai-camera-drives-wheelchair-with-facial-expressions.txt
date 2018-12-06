@@ -1,0 +1,16 @@
+In US alone 288,000 people are living with spinal cord injuries and about 17,700 new cases occur every year. Needless to say, lack of physical mobility has the largest impact on mental,physical,emotional and spiritual well-being of these persons. The only way so far was to use motorized wheelchairs and caregivers to move
+
+Wheelie is an AI system which translates facial expressions in to movement for motorized wheelchairs.
+Developed for the people who are unable to move their body below their neck, they can now move on their own, without any external help.
+
+And all they have to do is to either make a facial expression of a kiss or a smile. Kiss to start the wheelchair and smile to stop the wheelchair. Some of the signals which the user can configure as a 'start' and 'stop' command.
+
+Sometimes though it could be difficult no to smile, when you make an expression of a kiss, and instead of 'there you go', you stop.
+
+Each user can decide on their own the command which they wish to employ, to move forward, backward, left or right. Wheelie can recognise up to 10 facial expressions now. A wrinkled nose or brow, a kiss, a wink, or raised eyebrow.
+
+“Most of the users like to use a kiss to move forward because it’s a positive expression and it’s easy to remember. Most of them like to use tongue out to go backward. But to stop, they prefer to use a smile, so it can be a shy smile, full smile, half-smile.”
+
+There have been other such systems but they used to employ sensors tapped to the user's body, which could be a burden in all sense. Wheelie frees the user, in all senses.
+
+"If you have a facial recognition system company right now, it’s not enough to only deal with facial recognition if you are not detecting human behaviours. We believe that in the future, many medical device and a lot of health care applications will have some kind of facial recognition software to detect facial expressions and predict human behaviour."
