@@ -1,0 +1,19 @@
+Politics embraced digital medium in a big way since 2008 US presidential elections but it's use of technology has been mostly limited to either use of social media or influencing social media (read, fake news) and some data crunching. Now Politics is going hardcore with AI, even in India.
+
+The Indian National Congress party has used Artificial Intelligence (AI) and big data analytics in the recent Telangana elections. The data analytics team used AI to collect information from congress workers. 
+
+AI was used even to check if the Congress should ally with the Telugu Desam.
+
+In order to get an opinion from workers and voters on a large scale, questions were asked on the Shakti platform.
+
+Congress workers gave answers in Telugu, which were recorded, and other datasets were also used to get the opinion of voters in Telangana. Then the data analytics team used AI to convert voice to text in Telugu and then to English and then analyse and find out what those opinions were. 
+
+"We used Shakti to get opinions from workers in Telangana. We analyse opinions about whether we should ally with the TD or not. Similarly, when candidates were chosen by the Congress party, we asked our party workers through Shakti about candidates for their constituencies and used AI to get their views.” He added that this served as one of the inputs."
+
+Congress workers have also received personalised video message from Sonia Gandhi wherein she was spelling out the name of the person and constituency about TS voting. This voice customisation was done using AI.
+
+Throughout modern history, political candidates have had only a limited number of tools to take the temperature of the electorate. More often than not, they’ve had to rely on instinct rather than insight when running for office. ML and AI is going to change this.
+
+An ML researcher working with a political party. The power to change the destiny of not only some thousand people but entire nations.
+
+Coming national elections in India would spell out all the myriad use cases of AI and ML in politics, hopefully the good ones only. Wait and Watch.
