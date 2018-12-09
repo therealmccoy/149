@@ -1,0 +1,15 @@
+Google Ads are used by millions of individuals and companies daily for their marketing campaign. For one of the leaders in AI and ML, it was about time to incorporate the technology in ads sphere also. It's most lucrative revenue generator.
+
+It has launched "Responsive Search Ads". To quote the company, "Responsive search ads let you create an ad that adapts to show more text—and more relevant messages—to your customers. Enter multiple headlines and descriptions when creating a responsive search ad, and over time, Google Ads will automatically test different combinations and learn which combinations perform best. By adapting your ad’s content to more closely match potential customers’ search terms, responsive search ads may improve your campaign’s performance."
+
+The onus still lies on the campaign creator for giving text description inputs and headlines. But in effect the ads which would be displayed would be decided by the ML algorithm deployed by Google. Which would depend on many factors unknown to campaign creator. Thus the depth and tone of the original emotions deployed in the ads by the creator could actually change over a period of time.
+
+The service is still in beta and not available to all users, not much is known about the performance of the service either. Company itself has been using the word 'May Improve' to describe the performance impact of campaigns if the service is used.
+
+The Responsive Ads are going to improve over a period of time only. Since the placement of adverts (what, how, where) is now not completely in the hands of the campaign creator, what happens if the campaign does not do well?
+
+Also, 'campaign does well' is a vague term, when for the publisher it could mean 'clicks' but for the advertiser it would mean 'conversion'.
+
+The advertising dollars moved digital first and now in an surrogate way, there are routed through AI and ML. In such cases, the traditional medium of advertising, the 'old schools' one have a chance to resurge again and prove themselves worthy. Just like Coke showed in this brilliant campaign.
+
+After all human intelligence can always beat artificial intelligence,  where emotions are concerned.
