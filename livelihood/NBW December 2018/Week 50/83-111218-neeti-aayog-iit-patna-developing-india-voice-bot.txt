@@ -1,0 +1,13 @@
+In not so distant future, you can peer into a smart-speaker or a phone and say, "Mira, bahut bhook lagi hai, khaaney ka order karo!". Yes, everything in Hindi, to an Indian Voice Assistant (which may or may not be Mira, but it is definitely a name worth considering for. Definitely beats Siri.)
+
+"NITI Aayog is collaborating with academia and private players to develop a voice interface that can be used by India’s billion-plus population to address day-to-day issues related to agriculture, skills, health or education. Many e-commerce companies have shown interest in such a product. 
+
+Like Alexa, it will be a virtual assistant device capable of voice interaction, music playback, to-do lists, streaming podcasts, playing audio-books and providing real-time information such as news, weather, traffic and sports reports. Currently, such devices interact and communicate mostly in languages such as English, German, French, Italian and Spanish."
+
+NITI Aayog has collaborated with the Indian Institute of Technology (IIT), Patna to develop a natural language processor (NLP) for commercial use. The IIT team will conduct market research for the government to identify modifications needed in the existing technology to make it suitable for Indian users in local languages. 
+
+“We are creating a conceptual dictionary, a first of its kind for India. This dictionary would help decipher correct meaning of words and help in translation, dialogue generation, question-answering and information retrieval in 18 Indian languages. This technology would impact all e-commerce companies, education institutes, any company — for example, airlines — that uses chat-bots as now they can interact in multiple languages.” 
+
+Smartphone is still not smart for billions of Indians because it requires typing, which is a cumbersome process and we have yet to educate every one of our fellow Indians. But since, everyone can speak in their native language, an India focussed Voice AI (could be named Mira) could really make the smart-phone technology accessible to 1.2 billion people.
+
+The real disruption is yet to come, when NITI would deliver MIRA!
