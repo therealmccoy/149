@@ -1,0 +1,15 @@
+Tamil Nadu state is launching an Artificial Intelligence enabled attendance system pilot at a government girls high school. The system would work on facial recognition.
+
+It is being done in a manner which would not involve any additional infrastructure creation. All it needs is a smartphone application and related support services.
+
+The teacher shall assemble the students in a group, probably at the assembly time, and would click a group picture. The system would have already stored photographs of individual students, then match the faces of those present from database. Later on the records of this attendance would be digitally stored.
+
+This would not only save a lot of time for the teachers in conducting this daily important but dull routine, but would totally rule out 'false proxies'.
+
+School safety is a topic which often crops up in not so pleasant manner and is the topmost priority for any parent. In such case, it is important to take the opinion of parents also, when launching any new safety mechanism and solicit their concurrence. It is not sure, whether Tamil Nadu government has acted in this manner or not?
+
+There are some ethical concerns related to use of technology also. Where is the photograph stored, locally or on the servers? Are the photographs deleted right away, after the match is done and attendance is recorded? Safety and security of the system itself.
+
+School education minister of Tamil Nadu advocated the use of facial recognition system for school attendance.  He refers to their existing use in better developed countries like US and Japan. But the school safety system employed in such schools are far more robust. Their deployment has to pass through a multitude of vetting process. Right from local educational bodies, school management, teachers and then parents and guardians.
+
+While a pilot is still a pilot and lot more clarity would be achieved, as the pilot progresses, slow and steady with a lot of caution is an ideal way to go. 
