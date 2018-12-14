@@ -1,0 +1,11 @@
+The Australian government has passed a law called "The Assistance and Access Bill 2018" that forces technology companies to give police and security agencies access to encrypted messages, claiming it’s needed to fight crime. It is a world first, letting law enforcement bodies require companies to hand over user information, even if it’s end-to-end encrypted. 
+
+"Because companies currently have no way of viewing end-to-end encrypted messages, they will be forced to build a “back door” to gain access. But once you create a back door to bypass encryption for law enforcement purposes, it weakens security for everyone, everywhere. It cannot be targeted at just one person or one group of users, and it provides a potential avenue for hackers."
+
+This is a very dangerous precedent set up by Australian government. Governments world over think alike and they are run by the ruling political party patriarchs, rather than elected representatives. They are interested in only their own well-being which means coming back to power, again and again.
+
+Central and State governments in India have several runs with technology companies, specially the messaging and communication platforms. From lynching to mob violence, everything is now blamed on messaging platforms, washing off hands with all government fiduciary and civic duties, which failed to protect the citizens of the country.
+
+Many believe that these are strong-arm technique by government to make technology companies submissive and make them agree to their snooping demands on each and everyone. So far government's (Central and State) requests have been denied because of the very constraint that technology implies, which supports encrypted messaging.
+
+A country with 1.2 billion people and second largest market after China India is huge for any technology company. If India enacts such a draconian law, it would mean in bold letters, "Submit to our demands, or find other country to do business". With the potential of business and users it would lose, there would not be any other option for the app/messaging companies, other than to submit to demands?

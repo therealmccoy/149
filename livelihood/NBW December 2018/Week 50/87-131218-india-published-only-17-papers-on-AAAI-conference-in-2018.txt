@@ -1,0 +1,18 @@
+An April 2018 Boston Consulting Group (BCG) study indicated that companies in China, India, and Singapore,have the greatest ambitions for near-term implementation of AI in production.
+For the 12 countries included in the BCG study, percentages of early-adopting companies are highest in the US (25%), China (23%), and India (19%), and lowest in Japan (11%), Singapore (10%), and France (10%).
+
+On the other hand a LinkedIn study indicated that AI skills are among the fastest-growing skills on LinkedIn, a 190% increase from 2015 to 2017.
+
+So there are wannabe companies in India who want to implement AI and surely there are wannabe AI experts. But where are we actually?
+
+There has been a flurry of activity right from Niti Aayog to NASSCOM. Even state governments trying to catch up, in whatever bereft manner, they deem fit.
+
+Facts may not always tell the true story, but they do not lie either. Where words keep shouting, numbers speak sublime.
+
+In the annual conference held in February 2018 at New Orleans, Louisiana of AAAI (Association for the Advancement of Artificial Intelligence), while China published (papers which were accepted by AAAI) 265 and US 268; India managed only 17. In terms of number of papers submitted, China did 1,242 and US 934, while India managed only 76.
+
+It is time for both Central and State governments to stop doing lip-service efforts, trying to be seen at the forefront of the coming revolution and act with bottoms-up approach. Even India's premier technology institutions IITs have just woken up from slumber. The oldest of them all IIT- Kharagpur which was established in 1951, started a Centre for Artificial Intelligence only in April 2018. This says it all regarding the current state of India's involvement with AI.
+
+IIT Bombay and IIT Delhi have also it seems woken up. When they were supposed to lead the revolution in India, the stagnant bureaucratic mindset of pre-independence area still plaguing these institutes, ensure that they still 'react and do not respond'.
+
+A diligent and focussed research based Artificial Intelligence programs across the premier institutes can only give India a respectable position along with China, US and Europe. Else, there won't be much left done to do apart from building chatbots on private company platforms and using generic ML algorithms and claiming to be AI revolutionaries.
