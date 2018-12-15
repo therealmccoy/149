@@ -1,0 +1,13 @@
+There is a difference between speaking one's mind and being trying to be politically correct. If someone is speaking her mind, then it reflects in the actions taken in the past and present. Being politically correct cannot be so evident on the face, but one cannot hide it well enough.
+
+Google CEO, Sundar Pichai said after his Congressional hearing this week that concerns about harmful applications of AI are “very legitimate”. But also the technology industry should be trusted to responsibly regulate its use.
+
+This is very well a "politically correct" statement coming after about six months, when Google was forced to abandon it's "Project Maven" work with Pentagon after mass public protest. Project Maven uses AI to identify potential drone targets in satellite images.The extent of involvement was not known of the company with Pentagon, after it was deep enough for many employees to quit the company and over 4,000 employees signed a petition arguing against the contract.
+
+How company's "talks" are divergent from it's thoughts and beliefs can be gauged from the fact that it's Chief Scientist of Cloud Computing Divison, Fei-Fei Li first praised the Pentagon contract of "Project Maven" but then cautioned colleagues over mentioning the use of AI on the same lines, saying it will damage the company's reputation. In September she left the company.
+
+Google's use of AI and ML is widely known and published and even the ambitions Sundar Pichai ,to build the best machine learning systems in the world. He then wants the technology to be used to build apps and services that consumers can't live without. There is nothing that has not been touched, "Thanks to advances in deep learning, we're able to make images, photos and videos useful " for finding things, he said. "Speech and vision are becoming as important to computing as the keyboard." Google's ability "to understand images and video has profound implications" for all of what it does, he said."
+
+CEOs are generally not known to have gone wiser in a manner of few months, but when one really believes that technology might have the demerits, as a CEO one would tread cautiously and prudently and not trying pull all stops. Let alone building features which could kill people.
+
+The most damaging effect which ML and AI that Google is developing would have on the cognition of humans. There wont be a day far when they would stop thinking and analysing and follow the AI-ML ingrained apps like zombies. May be sometimes CEOs can see the future but have to sugar-coat the words for the sake of business.
