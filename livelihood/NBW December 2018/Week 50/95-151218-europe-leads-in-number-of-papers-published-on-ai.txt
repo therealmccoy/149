@@ -1,0 +1,20 @@
+The fight for AI supremacy has been reduced to merely a duel. The facts tell the truth however is not only about US and China.
+
+AI is global.
+
+In 2017 the papers submitted to Association for Advancement of Artificial Intelligence (AAAI), 83 percent of AI papers originate outside the U.S. and 28 percent of these papers originated from European authors, the largest percentage of any region. China was second with 25%.
+
+56 percent of papers fell into the Machine Learning and Probabilistic Reasoning category in 2017, compared to 28% in 2010.
+
+For most categories below, papers were published at a faster rate during the period 2014—2017 than in the period 2010—2014.
+
+Most notably, Neural Networks had a compound annual growth rate (CAGR) of 3% from 2010—2014, followed by a CAGR of 37% from 2014—2017.
+
+AI papers in China are more focused on Engineering and Technology and Agricultural Sciences, while AI papers in the U.S. and Europe tend to focus on Humanities and Medical and Health Sciences. Compared to data from 2000, data from 2017 show increased specialization across the three regions and a shift toward agriculture in China.
+
+In Europe, governments have published thrice the number of papers than the corporates. Academia is not far behind though, which is not shown in the graph presented. In 2017 the number of AI papers on Scopus affiliated with the academic sector
+in Europe was ~16,000 or ~88% of total AI papers in Europe.
+
+Country-wise, in Europe, UK leads with 32 papers published, followed by 28 of Germany and even Italy had 14 papers. 
+
+There is a huge interest among European parliamentarians also regarding the impending fourth industrial revolution. In 2018, 'Artificial Intelligence' was mentioned more than 200 times in UK parliament.
