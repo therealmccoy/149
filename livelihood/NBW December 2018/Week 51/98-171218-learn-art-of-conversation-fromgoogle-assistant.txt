@@ -1,0 +1,24 @@
+If people are asked the question, what is a conversation; they would answer that when two people are talking, it is called a conversation. While there is not too much wrong about the definitive answer, the biggest difference between talking and a conversation is that, a conversation is interactive both ways. Talking can be just one way. 
+
+A conversation also means, that the person talking is being listened to and her ideas are being analysed, debated and an exchange over them happens.
+
+When everyone is talking, who is listening?
+
+In an increasingly polarised and getting isolated world, conversation has never been so important as it is now.
+
+For those who would find the difference between talking and conversation an odd brevity, there is help just a palm away. In terms of Google Assistant.
+
+A blog post from Cathy Pearl, Head of Conversation Design Outreach, Google Assistant outlines how the design principles ingrained in to the computers to converse effectively can help humans to be great in conversation as well.
+
+a.) Give just the right amount of information.
+"To strike the right balance when we design conversations for the Google Assistant, we follow something called the Cooperative Principle, proposed by Paul Grice in the 1970s. His Maxim of Quantity means we shouldn’t talk too much, or too little."
+
+b) Make it clear when it’s the other person’s turn to talk.
+"We use a variety of signals to let another person know when we’ve finished talking, and when it’s the next person’s turn to talk. For example, when I pause to take a bite of peppermint bark, that’s an opening for the other person to speak. When designing conversations with computers, which aren’t able to use things like eye contact and body language to determine when it’s their turn, it’s key to end each turn with a question or an instruction, to avoid confusion. And that tactic can work with your family, too, so you’re not always talking over one another."
+
+c) Acknowledge the person you’re speaking with.
+One of our most basic desires as humans is to be understood. We want to know the other person is hearing us correctly, like when you ask your brother to pass the green beans, not the gravy. One way the Assistant does this is by using something called “implicit confirmation.” This is how you let someone know they’ve been heard, and establish trust. 
+
+These great conversational principles can be practised first hand with Google Assistant.
+
+
