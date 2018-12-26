@@ -1,0 +1,8 @@
+Google Lens lets the camera do the work for you, turning what you see into your search query. It uses machine learning and computer vision to do so.
+
+Now Google’s AI-powered camera tool can now recognize over a billion items, the company announced in a new blog post. Google Lens launched last year in a preliminary version on Photos and Assistant with only around 250,000 items within its repertoire.
+
+"The 1 billion items figure comes from products available through Google Shopping, so it likely doesn’t include more obscure, un-shoppable objects, such as a gaming console from the 1990s or the first edition of a rare book. But it covers a huge range of things that could appease someone who’s simply just looking up an item they’re curious about.
+
+The expansion comes over a year after the Google Lens’ optical character recognition engine has been trained on reading more product labels. By recognizing text, Google Lens thus can put names to the faces of more goods. It has also been fed more data from photos taken by smartphones, so Google says the feature is overall more reliable than before."
+"
