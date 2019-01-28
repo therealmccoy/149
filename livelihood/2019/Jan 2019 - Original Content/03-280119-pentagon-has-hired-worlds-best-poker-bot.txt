@@ -1,9 +1,17 @@
-Around two years ago, an AI bot became a sensation after managing to defeat several expert poker players in no-limit Texas Hold'em, managing to bag $677,000 in play money from the poker champions by calculating how they might respond to its decisions.
+AI has ingrained the daily lives of billions through myriad apps, both from US and China. However, the biggest deployment of AI is yet to happen, when like the 'arms race' of cold war era, the 'AI race' grips the defence departments of major countries.
 
-Two researchers from Carnegie Mellon University built Libratus using a technology called computational game theory.
+The world would again be divided in to 'haves' and 'have nots'.
 
-For an AI, poker is more difficult to learn than chess. This is due to it not being a "perfect information game," in the sense that while players can see their own cards, they can't see those of their rivals.
+While not much news is forthcoming from Russia and China, though they must be deploying AI in their defence realms, Pentagon is surely seen running, not to be out-gun.
+
+Pentagon has bought an AI bot called Libratus for a cool $10 million. Two researchers from Carnegie Mellon University built Libratus using a technology called computational game theory.
+
+Around two years ago, it became a sensation after managing to defeat several expert poker players in no-limit Texas Hold'em, managing to bag $677,000 in play money from the poker champions by calculating how they might respond to its decisions.
 
 One of the developers, Tuomas Sandholm, founded a startup called Strategy Robot to adapt the technology to government needs.
 
-Remarkably, the robot has now been hired by the Pentagon for $10 million.
+Rest as they say is, history !
+
+Innovative AI researchers and scientists can earn excellent rewards, outside the GAFA consortium, it's just the beginning.
+
+
