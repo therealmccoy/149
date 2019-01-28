@@ -1,0 +1,16 @@
+Young people may be digital natives but most of them are digitally naive. They know little to nothing about how technology works. And few of them appreciate that smart machines are reshaping the employment landscape and challenging social norms.
+
+That’s why every high school should offer a course on artificial intelligence (AI). Or, better yet, incorporate a set of competencies into graduation requirements that ensure that every young person understands the technology drivers and the implications for the economy and society.
+
+A curriculum designed by  Castilleja School in Palo Alto shows us the way about how to educate high school students about AI.
+
+Last fall, the school offered a new seminar-style course on AI for upper division students focused on giving students a conceptual understanding of AI technology and its uses. The course has four goals:
+
+1_ Understand what AI is at a conceptual level and how it works;
+2) Provide an overview of the key application areas where the technology is being employed;
+3) Learn how to evaluate the potential benefits and risks of this technology and strategies for mitigating risk and maximizing the benefits; and
+4) Write a technology forecast for an application of personal interest.
+
+These are the times when CBSE has announced to teach AI in all it's school in India, the focus and debate should be now on approach and pedagogy in order to achieve that goal, given the fact that along with students, teachers are also clue-less about the AI and ML technology.
+
+The curriculum from Castilleja School is a guiding light in that direction.

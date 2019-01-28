@@ -1,0 +1,9 @@
+The U.S. Patent and Trademark Office is making it increasingly difficult to obtain legal protections for inventions related to AI, a field that encompasses autonomous cars, virtual assistants and financial analyses, among countless other uses.
+
+ The agency, seeing an influx of AI applications, is grappling with how to comply with a law that PTO Director Andrei Iancu has called “anything but clear” concerning what can be patented.
+
+ Of applications given a primary classification of AI-related, about 90 percent got initial rejection letters saying they were abstract ideas.
+
+Among the patent applications getting rejection notices from the U.S. patent office were ones for an artificial memory system, for risk evaluation, for a system to estimate audience interest, and one to predict the chances of an infrastructure failure.
+
+ International Business Machine Corp.’s record 9,100 patents received in 2018 year were 1,600 related to artificial intelligence.

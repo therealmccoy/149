@@ -1,0 +1,9 @@
+Around two years ago, an AI bot became a sensation after managing to defeat several expert poker players in no-limit Texas Hold'em, managing to bag $677,000 in play money from the poker champions by calculating how they might respond to its decisions.
+
+Two researchers from Carnegie Mellon University built Libratus using a technology called computational game theory.
+
+For an AI, poker is more difficult to learn than chess. This is due to it not being a "perfect information game," in the sense that while players can see their own cards, they can't see those of their rivals.
+
+One of the developers, Tuomas Sandholm, founded a startup called Strategy Robot to adapt the technology to government needs.
+
+Remarkably, the robot has now been hired by the Pentagon for $10 million.
