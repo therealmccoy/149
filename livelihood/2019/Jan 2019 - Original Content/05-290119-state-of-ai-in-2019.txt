@@ -1,0 +1,27 @@
+If you pick up the newspaper these days, there would not be a single day, when one does not encounter the buzzword "Artificial Intelligence", in common parlance it is "hot".
+
+The state of AI in 2019 has few key highlights:
+
+1. Everyone wants to do, AI with everything. 
+
+As Carol Rose, executive director of the American Civil Liberties Union’s Massachusetts chapter said at the recently held MIT AI Policy Congress, "Sometimes I worry we have an AI hammer looking for a nail". And when you do have a hammer, everything looks like nail.
+
+So as if bruhsing a teeth is such a complex task, that one actually needs an AI powered toothbrush to accomplish it. As OralB believes. It is a different thing altogether that, whether the toothbrush is really a piece of AI?
+
+2. Everyone is confused and slightly worried and people don't know what actually AI is.
+
+People respect Issac Newton a lot and tend to be in inertia. They consider themselves knowledgeable if they read a piece of article, written by someone; foregoing their own curiosity and thus impending research. However, press writes only, what sells. And thus the image of AI painted by common press with the image of Terminators etc has managed to keep people in dark mostly.
+
+If people get educated, no one would believe the press, and hence it serves the purpose of general press. More the gossips, better it is.
+
+3. Machine Learning is not Artificial Intelligence
+
+Whatever has been reported so far in the press is all about the technology of Machine Learning. We are still very far from Artificial Intelligence or Artificial General Intelligence. We might never even achieve that, because forget human brain, we have yet to fully understand the brain of a common fly.
+
+4. Machine Learning systems are massively prone to fault
+
+The problem with a machine is that it does not know the difference between right and wrong. It believes in the algorithm which has been fed an enormous amount of data, which often itself could not be a highly sanitised set. Because it looks only at data, which is prone to evolving human bias, the machine would also produce biased result.
+
+5. Machine Learning would soon become generic
+
+Everything which we would interact with would have elements of Machine Learning and it would cease to be a wonder soon. While the applications would explode, major breakthroughs on the lines of artificial general intelligence would take time to show up. 
