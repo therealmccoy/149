@@ -1,0 +1,13 @@
+Following his "AI Transformation Playbook", Andrew Ng further elucidates the points discussed in the playbook, starting with the very important first step, "How to choose your first AI Project"?
+
+The decision maker has been provided with a handy check-list, through which she could dipstick, the best proposal for a pilot AI project, from the several she would be receiving, across the department.
+
+The most important yardstick is that the project should not have a very long gestation period. It should provide a "quick win".
+
+Also, the project should add "value" to the organisation, and should not be a filler. Something which could be done relatively quickly and whose value could be measured is the ideal AI project to start.
+
+A great project would have the above two criteria, and it would be a simple one like just automating a couple of daily routine tasks of the organisation.
+
+A leader who is accountable for the project should be appointed, with a dedicated team. Effective communication between the team members is critical, for such pioneering adventures and hence they should be chosen more for their 'attitude', rather than 'aptitude'.
+
+So, select the right pilot project and focus on flawless execution to step in to the AI revolution.
