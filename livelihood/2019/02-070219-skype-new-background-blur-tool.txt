@@ -1,0 +1,6 @@
+How many times have you postponed a Skype call, just because your place was not 'right enough' for it?
+How many times you have scrambled with a duster and a broom around your workstation, beofre a video call?
+
+Microsoft has rolled out new Skype, which automatically blurs out the background in a video call, and thus removing un necessary and often embarassing clutter; focussing only on the user's face and action.
+
+Perhaps the best use of Artificial Intelligence in daily use consumer technology to come so far this year, Microsoft's AI automatically detects a user's face, arms, hands and hair so that it does not blur out important aspects or incorrect parts.
