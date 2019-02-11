@@ -1,0 +1,9 @@
+Chinese language is all about visuals, it is more of a pictorial story, rather than anything verbose. And this unique quality of Chinese language is now being used to provide some unique solutions by AI companies.
+
+Homework and assignments though does bring a lot of of value to both students and teachers, it is a drudgery for both. In case of teachers, evaluating the home-work, day-in and day-out, the amount of time which could have spent on coaching children who are found to be late-starters.
+
+The world would have been much better, if a machine can evaluate the homework and tells who are the late-starters and where they are found to be lacking.
+
+Now a Beijing based AI startup has done exactly that. It has developed an artificial intelligence powered maths app that can evaluate student's arithmetic problems. Based on the image of the solution and the app's internal database, the app automatically checks whether the answers are right or wrong.
+
+The app is known as 'Xiaoyuan Kousuan' and is free to use.It claims to have checked an average of 70 million arithmetic problems per day, saving users around 40,000 hours of time in total.
