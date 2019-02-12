@@ -1,0 +1,11 @@
+Diagnosis preludes treatment. While there are fatalities due to error of judgement, during treatment; diagnosis is where lies the Achilles heel of medical world. 
+
+Combine troves of medical data with human bias and prejudice, and sometimes hubris; it's a potent mix for disasters.
+
+Artificial Intelligence is where it could help doctors make accurate and precise diagnosis, even in complex and rare conditions.
+
+Needless to say, China is again leading in this domain, because of the vast data-sets available to the researchers, on account of large population. Where the data is king, other nations including US are faltering in this regard, both on account of access, lack of standard and privacy concerns.
+
+The neural network developed by AI researchers, using the labelled data from hospital records, can now detect diseases to the accuracy of as much as 90 percent, like in case of Asthma.
+
+Companies like Microsoft have developed a lot of AI based healthcare tools, including virtual assistants and chatbots, which could greatly reduce the work-load of physicians and help them get more quality time with their patients.

@@ -1,0 +1,7 @@
+Haemodynamic shock is a clinical syndrome commonly observed in hospitalised patients. It represents an accute circulatory failure leading to multiple organs failure. Prompt recognition and intervention are the most important factors in mitigating the effects of the syndrome.
+
+Incidentally, Haemodynamic shock is also a leading cause of death in children, hospitalised in ICU.
+
+In a first of it's kind of study in India, Children between the age group ranging from 10 days old to 15 years were tested for a study titled “Predicting Haemodynamic Shock from Thermal Images using Machine Learning” at AIIMS Delhi. Consequently, the AI tools built by researchers uses thermal imaging and artificiality intelligence, which reads the temperature pattern all over the body of the patient and hence is able to predict any abnormality in blood circulation.
+
+Pilot trials of using this technology would start from August this year and would run for a year. Currently, this technology is primarily aimed for saving the lives of children but in future, could be updated for use on adults too.
