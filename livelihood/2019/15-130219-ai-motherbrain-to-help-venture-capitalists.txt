@@ -1,0 +1,13 @@
+Venture capitalists are often blamed for having 'herd mentality', but when you are managing someone else's money, it is prudent to be safe rather than sorry. After all, being a VC is a job and no one likes to lose his job.
+And like in all spheres of humanity, where people are now demanding faster, accurate, cheaper and more reliable alternatives using AI; how could venture capitalism could have been left untouched.
+
+Gone are the days of analysts, well almost.
+
+A venture capital firm named EQT VEnture has designed an AI system, based on convolutional neural networks or CNNs, which helps them decide where to invest.
+
+'Motherbrain' has helped the firm scan almost 10,000 companies for investment, in a short period of time, which by all means would not have been possible in the traditional 'analyst way' which VC firms work.
+More companies being analysed has a direct correlation with more number of hits scored by a VC firm.
+
+Also, many a times due to inherent flaws in any human, a potential company, is often overlooked (and there are hundreds of such glorified stories in the VC world) which could be spotted by an AI system like 'Motherbrain'.
+
+Soon, there would be a time when a VC firm would only have partners and then an AI system. Too early, may be later, but it is an interesting thing to watch.
