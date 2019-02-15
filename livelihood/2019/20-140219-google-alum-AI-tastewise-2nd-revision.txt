@@ -1,0 +1,9 @@
+For restaurants it is always a battle to be at the same spot on the sensory buds as their customers. Menus are changed once in a blue moon, while the taste buds are ever changing. If only restaurants are able to know what does the customer wants, all the time, they can tweak their offerings accordingly. More food served, is more money.
+
+Artificial Intelligence here can not only help in keeping track of people's taste, but could also predict where the puck is going to be and skate there.
+
+Tastewise is a “AI-powered food intelligence startup” which is endeavouring to help restaurants in this regard. It is an AI powered enterprise service, which restaurants and food insustry organisations can avail of to know the latest trends. The company's AI platform scans more than 250 million points of data across menu items, recipes, social media to gather insights.
+
+While the AI can predict culinary tastes, it can also predict the reason for change in tastes, by looking at how the food's preparation is evolving, over a period of time.
+
+AI can help restaurants figure out, what their custoemrs want to eat. After all, "You are, what you eat". 

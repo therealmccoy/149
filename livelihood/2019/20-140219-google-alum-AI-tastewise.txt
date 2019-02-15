@@ -1,0 +1,11 @@
+AI could transform many organisations, not only in the manner the things are being done, but even on what things they do.
+
+Tastewise a company from Tel Aviv, which calls itself “AI-powered food intelligence startup,” studied 13 million menu items, 1 million recipes and more than 250 million social media conversations to determine what’s trending in food what lies ahead.
+
+It scans more than 250 million data points for each query made on it's platform.
+
+Let's take for example, food delivery companies. They know who is eating, what and where. They also know who is serving what, and where.
+
+And if these two streams of data is combined through AI and ML, the 'food' scenario could be changed. In future, the biggest source of revenue for food delivery companies would come from the insight and consultancy they would provide to restaurants and hotels. Delivery would reduce to be an 'add on' as far as economics is concerned. 
+
+
