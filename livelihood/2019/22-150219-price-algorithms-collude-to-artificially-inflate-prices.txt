@@ -1,0 +1,8 @@
+Online shopping sites track prices of the competititors and an integral part of the price setting algorithms is the competitor's price. Over a periof time these self-learning price algorithms can get so smart that, they learn each other's trade secret of setting price, on their own, without any human intervention.
+
+A team of researchers from the University of Bolognia, have found the autonomous nature of price algorithms to be 'alarming'. 
+Since any price algorithm has primary motive of 'maximising profits' for the company, detecting and imbibing similar behaviour from other 'neighbourhood algorithms' can artifically inflate the price.
+
+And the dangerous part is that algorithms have not been trained to do so, nor they communicate with each other in any way. They do this on their own, without any human intervention either. They also imrpove upon their own strategy, with single focus keeping in mind of 'maximising profits'.
+
+It is a cause for worry definitely, when more and more online shopping sites are now AI algorithms to set the product price.

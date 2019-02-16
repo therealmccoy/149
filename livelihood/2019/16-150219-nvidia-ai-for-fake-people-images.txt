@@ -1,0 +1,9 @@
+NVIDIA has a what could be termed as "side project" website called ThisPersonDoesNotExist.com which generates images of people through AI, which in real life do not exist. The images are not all perfect, but at first glance, they look like real people.
+
+It took 70,000 pictures from Flickr and trained a computer to generate new images through permutations and combinatiions of different styles, colour, ethnicity and gender.
+
+The algorithm is called “Generative Adversarial Network” (GAN), which could create create computer-generated images that look very similar to real photos.
+
+The same algorithm can be used to generate images of many other objects, in the same way.
+
+The website does not have any explanation or any other details, a new image is generated at every 'refresh' of the home page.
