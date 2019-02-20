@@ -1,0 +1,7 @@
+Google AI and Deepmind has introduced a new "Deep Planning" network called PlaNet. It is an AI agent which learns the world model using only images as inputs.
+
+PlaNet works on what is called 'latent dynamics' model, where the information of the input images are encoded as 'hidden states' or 'latent states' and then these 'hidden states' are projected forward in future, to predict future images. Hence a 'latent state forward' is predicted, instead of the next image.
+
+Abstract representations such as position or velocity of objects can thus be predicted without requiring images all along the way.
+
+Google is also releasing the source code PlaNet for further research and collaboration.

@@ -1,0 +1,13 @@
+Niti Aayog has announced that India would use AI healthcare, agriculture, education, smart cities and smart mobility. The government recently announced the creation of apex body for AI research, National Centre on Artificial Intelligence.
+
+While the 'intent' is laudable, there are some crucial questions which demand greater introspection, if India has to come in the same terms as US and China, in the AI supremacy race. The problems which are at present difficult to address.
+
+1 ) AI is nothing without 'rich data' and India's data gathered over ages are highly fragmented and inadequate for AI use. Gathered more for the statistics purpose, rather than gaining perspectives, they cannot be put to the use of AI. More often than not, data is not available. Even Niti Aayog's website has a section called 'Statistics', instead of 'Data'. First the premier body, need to change it's mindset.
+
+2) India does not have merely the income divide, but also the digital divide, specially in case of women. Less than 30% of India's internet users are women and in rural India, the figure is half of this. Needless to say, any data sourced through the netizens habit and preferences, would present a highly distorted reality of social fabric of India.
+
+3) India is a sub-continent and has the most diverse demographics among all nations and hence any AI models which are based on other countries examples or data-sets, would not work here. And for India specific model, we do not have enough data.
+
+4) The job loss through imminent automation of industries would be impossible to fill up because of the large part of India's workforce is 'low-skilled' and they cannot upgrade their skill-set fast enough to be 'employable' again.
+
+As of now, it seems the AI surge in India would benefit only capitalists and corporates, rather than common man.

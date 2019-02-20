@@ -1,0 +1,9 @@
+While Machine Learning has entered our home and offices, the algorithms are still far away from having the human like capabilities. The reason has been evident but yet proves difficult to solve, because we do not yet understand completely how our brain works and hence to artificially mimic it in machines is impossible.
+
+Yann LeCunn, Chief of Facebook AI Research provides some insight for what lies ahead for AI in general.
+
+1) Real and life changing AI would require tremendous amount of computing power, and for that, current hardware is inadequate.
+
+2) In next 3 years, smartphones would have dedicated chips for AI. This will throw a wave of AI powered applications, doing all kinds of jobs, previously thought only in dreams.
+
+3) Holy grail of AI is self-supervised learning in machines, where machines figure out the world around them, by looking at data; instead of just doing 'task based' things. That's the only way to get machines capture the context and make intelligent decisions, automatically.
