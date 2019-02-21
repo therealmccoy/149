@@ -1,0 +1,11 @@
+The problem with machines is that they are built for the sole purpose of obeying commands, and so does the Machine Learning algorithms are. Once a command is issued (sans any error), machine would execute it, without any further ado (sans any logic).
+
+Surprisingly, machines made out of logic, are sans any logic. And this is proving to be quite a catastrophe.
+
+Machine Learning algorithms are trained to find patterns, and they do their job pretty well, even when there is no logical pattern.
+
+When there is a singular dataset, running a ML algorithm over it would find a 'pattern' and there is no way it could be countered, unless any other comparative dataset is available for processing. And thus reproducing the results or patterns is becoming impossible.
+
+Science has been able to progress thus far only because, experiments could be done by many and argued with counters.
+
+ML algorithms are throwing a pattern smack in the face of scientific researchers saying, 'take it or leave it'. There is no way to critique them.

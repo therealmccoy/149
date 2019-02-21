@@ -1,0 +1,7 @@
+Hopfield Network is an artificial neural network in which nodes of the network can be updated synchronously or asynchronously. When the nodes are being updated asynchronously, the nodes are updated one at a time and they are selected randomly.
+
+While an artificial neural network are based on the biological neural networks, they never go to sleep unlike the biological ones. There has been comprehensive proof that sleep enhances the brain's functioning and leads to regeneration of neurons.
+
+A team of Italian scientists are now re-programming Hopfield Network, which could then mimic the 'sleeping' of biological ones.
+
+The results have proved that sleeping is as essential for an artificial intelligence, as it is for a biological one. When the AI system is forced to sleep it clears out the spurious stored pattern and consolidates the new ones, just like what biological brain does during sleep.
