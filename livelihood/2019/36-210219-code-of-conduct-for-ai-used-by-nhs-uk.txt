@@ -1,0 +1,11 @@
+DEpartment of Health and Social Care of UK has put in place a set of principles which defines the standard, it expects to be met from all the users of data-driven technologies involved in health-care, including its suppliers.
+The aim is to make suppliers understand that their technology has to be safe, effective and secure as they try to improve healthcare services delivery in UK.
+
+NHS while wants to capitalise on emerging technologies like AI and ML, which has tremendous potential to improve social health-care, it wants to do it responsibly and prudently.
+It puts strong emphasis on 'ethics' in the overall scheme of things, with :
+
+a) respect for people
+b) respect for human rights
+c) accounting for decisions
+
+as the cornerstones of the code of conduct.

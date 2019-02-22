@@ -1,0 +1,5 @@
+Kerala police has deployed the first humanoid police robot in the country at it's headquarters. CM Mr.P Vijayan himself inaugrated the robot.
+Kerala Police partnered with Asimov Robotics, a Kochi based robotic startup for development and launch of KP-Bot.
+Currently, it would be used at the Kerala Police HQs to meet and greet visitors, gather required information from them and to provide them solicited information in a detailed manner.
+The bot would also meet and greet officers through face recognition.
+While the bot is not supposed to replace any human jobs, it shall certainly help in reducing the workload of already over-worked police force.
