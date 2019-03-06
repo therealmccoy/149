@@ -1,0 +1,90 @@
+1. BEHL is setting up solar powered e-vehicle charging stations on Delhi-Chandigarh highway
+https://www.business-standard.com/article/pti-stories/bhel-setting-up-solar-based-ev-charger-network-on-delhi-chandigarh-highway-119030400196_1.html
+
+Under Department of Heavy Industry's FAME scheme (Faster Adoption and Manufacturing of (Hybrid) & Electric Vehicles in India), Bharat Heavy Electricals Ltd (BHEL) is setting up solar powered electric vehicle charging stations on the 250 kms long Delhi-Chandigarh highway.
+
+The company has been expanding into e-mobility business and has already installed DC chargers at Udyog Bhavan in New Delhi.
+
+BHEL would complete the project on an end-to-end basis which includes design, engineering, manufacturing, supply and installation of the EV charging stations along with a central monitoring system.
+
+First of these charging station has been inaugurated.
+
+2. Railways use AI for crowd control at Kumbh
+https://nextbigwhat.com/indian-railways-ai-ardh-kumbh/
+
+On people management at Kumbh
+For the  Ardh Kumbh at Allahabad (Prayagraj) which started from 15th January 2019 and concluded on 4th March 2019, Indian Railways  utilised artificial intelligence, for crowd control and safety.
+With a vast network of CCTV cameras, combined with IBM’s video analytics service, Indian Railways watch the crowd and their safe movement across all the major stations around the venue.
+The information gathered through video camera and analysed by IBM’s AI solution was then disseminate through a mobile app and displayed on LCD screens across stations.
+
+3. Keeping families intact through technology at Kumbh
+https://www.financialexpress.com/india-news/kumbh-mela-2019-17-hi-tech-lost-and-found-centres-reuniting-lost-people-with-their-families/1479071/
+
+At Kumbh Mela 2019, administration made operational 17 digital lost and found centres. They were aimed to trace and reunite those who got separated from their families. Approximately 50,000 people were reunited with the help of these centres.
+
+These centres provide shelter to those hapless people who get separated till they are reunited back. To ensure their safe return, policemen accompany them up to their home, even up to far away villages and cities in other states.
+
+4. 'Go Safe Outside' waterproof sarees at Kumbh for women safety
+https://www.indiatimes.com/technology/news/how-waterproof-sarees-distributed-at-kumbh-mela-are-helping-preserve-the-modesty-of-women-361950.html
+
+Unilever through it's renowned soap brand 'Hamam' (the word which is synonymous to bath or bathing) distributed waterproof sarees to women at Kumbh. The campaign titled '#GoSafeOutside' was aimed to make women safe, as they perform the rituals of Kumbh, most of which are associated with taking a dip in water. 
+The sarees were first distributed on Basant Panchmi day, which marks the arrival of spring, in bright colours of yellow with a green band, depicting the colours of spring. These sarees have been made aquaphobic, in order to preserve the dignity of women, as they bath among large crowds, including males.
+
+5. Satellite did the actual head count at Kumbh
+https://www.oneindia.com/india/satellite-head-count-for-kumbh-mela-visitors-by-google-and-premier-technology-institutions-2804186.html
+
+For proper planning and administration, Kumbh Mela organisers deployed the latest satellite technology to keep track the number of people visiting various sites of Kumbh Mela in real time.
+A satellite was deployed specially for the purpose to count the headcount in Mela area, which can then be used for proper planning of logistics like bus and trains.
+Technology nstitutions like Indian Institute of Technology (IIT) Roorkee, Moti Lal Nehru National Institute of Technology (MLNRT) and Indian Institution of Information Technology (IIIT), Prayagraj were involved along with with Google.
+
+6. Pre-5G, Massive MIMO technology kept the pilgrims 'connected' at Kumbh
+https://www.financialexpress.com/industry/technology/this-kumbh-mela-use-pre-5g-network-on-airtel-heres-what-is-in-store/1443627/
+
+Networks usually jam when a large number of people congregate at a single location in short period of time, besides inconvenience to users, this leads to a safety hazard also, as rumours can just fly off the shelf. 
+
+Massive MIMO is a pre-5G technology that expands network capacity by five to seven times over the same spectrum and helps a large number of concurrent users to enjoy a seamless high speed data experience. Airtel deployed this technology at recently concluded Kumbh Mela for devotees and pilgrims.
+
+7. World's largest temporary city with 250 Kms of roads at Kumbh
+https://www.business-standard.com/article/current-affairs/kumbh-2019-world-s-largest-temporary-city-to-have-250-km-roads-22-bridges-119010800101_1.html
+
+UNESCO has  included Kumbh in the list of "Intangible Cultural Heritage of Humanity".
+The new city set up in the Mela area for devotees and pilgrims at Kumbh, has 250 km long roads and 22 pontoon bridges. This makes it the largest temporary city of the world. Also,for the first timeLED lights, 40,000 of them have been used to light up the entire Mela.
+The state government has spent more than Rs.2,800 crores on ensuring a successful event.
+
+8. Indian Railways mobile app for hassle free navigation of devotees at Kumbh
+https://www.livemint.com/Politics/7wId53gO0dibEcfXMpIbRI/Kumbh-Mela-Railways-launch-mobile-app-to-help-devotees-tou.html
+
+On Mela going 'digital'
+North Central Railway launched a special mobile app for Kumbh, ‘Rail Kumbh Seva Mobile App’. 
+Through this app devotees could effortlessly navigate through different venues of the city and Mela ground. It also provided the information regarding all the 'Mela Special' trains run during the period and pilgrims could also buy both reserved and regular tickets through it.
+The app also provided information about passenger amenities available at the stations like parking lots, refreshment rooms, waiting rooms, book stall, food plaza, ATMs and train enquiry.
+
+9. Hi-Tech huts for devotees accommodation at Kumbh
+https://twitter.com/ANINewsUP/status/1086843226051526656
+
+300 hi-tech huts equipped with modern gadgets were set up in Vedic Tent City at Kumbh Mela for saints, devotees and visitors. Put in to three categories on the level of conveniences, they were named 'Narmada Kuti', 'Sabarmati Kuti' and 'Saraswati Kuti'.
+The tent city also has an open restaurant. Considering that event is held during winter, the 'huts' have electric water heaters among other amenities. This is the first time that such special accommodation has been arranged at Kumbh.
+
+The entire Kumbh Mela was spread in 3,200 hectares.
+
+10. UP to operate 580 electric buses in 9 major cities of the state
+https://www.indiatimes.com/technology/news/580-electric-buses-are-making-their-way-to-these-9-major-cities-in-uttar-pradesh-100-are-for-agra-mathura-route-362219.html 
+
+Uttar Pradesh has plans of 580 electric buses to be put into operations across it's major cities.. As per the urban transport directorate, at least 10 buses in each of the cities will start operating by June 2019.
+These buses will offer a range of 150 kms on a full charge and will have a top speed of 75 kmph. The charging time claimed for the batteries of the buses is around 30 minutes only.
+
+The cities where electric bus would operate are Lucknow, Agra, Mathura, Kanpur, Prayagraj, Ghaziabad, Varanasi, Gorakhpur and Saharanpur. The electric bus operations at Lucknow has already started. 
+Tata Motors has supplied the initial electric buses.
+
+
+
+
+
+
+
+
+
+
+
+
+
