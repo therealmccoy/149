@@ -1,0 +1,4 @@
+Kerala Motor Vehicle Department is now equipping it's speed detecting cameras with AI. The cameras would not be able to detect helmet-less drivers and those not wearing seat-belts.
+Some of these cameras are already in operation at Walayar, Wadakkanchery and Kozhikode.
+CDAC or  Centre for Development of Advanced Computing is implementing this project and in the trial runs, the accuracy of the software has been found to be true in 98% of the cases.
+The challan would be automatically sent to the driver's address, once the driver is found to be erring. Thus it would reduce the manual intervention by officers.

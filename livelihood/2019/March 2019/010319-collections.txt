@@ -1,0 +1,90 @@
+1. Time to stop 'ugly food' wastage
+https://www.vox.com/the-goods/2019/2/26/18240399/food-waste-ugly-produce-myths-farms
+
+In United States alone, 30 to 40% of the entire food supply chain is wasted due to inefficiencies in the system. The figures are mostly similar for most of the developed and developing countries.
+While most of these loss is due to logistics issue, there are big losses due to produce being discarded as unfit for sale.
+The need is to address the waste caused to so called 'ugly food'.
+Now, some startups are becoming food aggregators, being a pipeline between farms and food banks.
+
+2. Bugs could be next source of protein
+https://www.vaildaily.com/opinion/noble-the-future-of-food-is-less-meat-and-more-bugs-column/
+
+To conserve the depleting land and water fit for agriculture and growing population, meat consumption needs to be drastically reduced. So how do we compensate for the lack of protein in the diet?
+Bugs like Cricket have twice the protein compared to meat, and they are environmentally very friendly to grow, both in terms of land and water use. And minus the legs and antennae, grounded, they taste just like chicken.
+
+3. Startups working for 'future of food' [Not Published]
+https://techcrunch.com/2019/02/26/with-90-million-in-funding-the-ginkgo-spinoff-motif-joins-the-fight-for-the-future-of-food/
+
+While creating alternatives for plant and meat based food, cost and taste are two primary obstacles. 
+Consumers who are now actively  concerned with environmental impact and health factors are more and more inclined towards accepting the alternate to plant and meat based food. 
+Some startups are now working towards producing commercially viable food alternatives, which are great on taste also. 
+Some notable startups are mentioned in this article (please the link), which are working on producing alternate source of protein.
+
+4. Karnataka to drone survey Bengaluru and other 5 districts
+https://www.deccanherald.com/state/after-53-year-delay-state-720890.html
+
+Karnataka would drone survey it's 5 districts (Tumakuru, Hassan, Uttara Kannada, Belagavi, Ramanagara) and Bengaluru districts using drones with the help of Survey Of India. Drones are activating long pending land surveys in India, which are very crucial for both exchequer and citizen. The last land survey in Karnataka state was done in 1966.
+The accuracy of these drone mapping would be up to 5 cms accuracy in urban areas and 12.5 cms in urban areas. Land mapping with such accuracy has never been done in India.
+Bengaluru would be 3D-mapped.
+
+5. Lovely Professional University students develop 'Flying Farmer'
+https://krishijagran.com/farm-mechanization/lpu-students-build-drone-to-solve-pesticide-treatment-weed-detection-problems/
+
+With rising labour migration to cities, getting hand on a 'farm hand' is becoming increasingly difficult for farmers.
+A group of 45 students along with five faculty members from the Electronics, Mechanical and Agricultural Engineering department of Lovely Professional University have developed the 'Flying Farmer'.
+The Flying Farmer which would cost between Rs.10,000 to 15,000 depending on the usage, would be used for effective pesticide treatment and weed infestation area identification. 
+LPU is going to open source the technology, for farmer's welfare.
+
+6. FeatherDyn to keep India's oil and gas pipelines free from encroachment
+https://www.thehindubusinessline.com/specials/emerging-entrepreneurs/keeping-an-eagle-eye-on-oil-and-gas-pipelines/article26305480.ece
+
+India has 30,000 Kms of oil and gas pipeline and Petroleum and Natural Gas Regulatory Board requires that these pipelines be inspected at least once a month, especially for right-of-way. Further no activity is allowed on 5 metres on either side of the pipeline.
+
+Current monitoring system either by helicopters or by foot are either very expensive or time consuming.
+FeatherDyn has developed a prototype made of glass fibre which would carry high-definition cameras to monitor pipelines effectively.
+DGCA has provided the company location at Munnar to test-flight the drone and test it's capability.
+
+7. Mahindra and Mahindra launches electric vehicles only cab-hailing service
+https://www.businessinsider.in/uber-and-ola-have-a-new-challenger-in-india-and-its-a-large-car-maker/articleshow/68163955.cms
+
+Mahindra and Mahindra has launched new cab hailing service in Mumbai called Glyd.
+Glyd would operate with only electric vehicles. Company's e-Verito cars would consist of the fleet.
+The service is focused on office goers and has started with 10 electric vehicles. The service has been categorised as 'Premium'.
+While the service would be owned by Mahindra, the fleet and drivers would be managed by a third party.
+
+8. Govt of India to give Rs.10,000 Crores subsidy on new electric vehicles
+https://www.moneycontrol.com/news/business/govt-to-offer-up-to-rs-2-5-lakh-subsidy-on-60000-electric-cars-report-3592361.html
+
+Government of India, as part of clean fuel drive would offer Rs.2.5 Lac subsidy for 60,000 new electric cars to be bought in next 3 years. It would also provide Rs.20,000 subsidy for new 20,000 hybrid cars as well. The subsidy comes into effect from 1st April, 2019.
+
+The total 'green stimulus' is worth Rs.10,000 Crores. A lot of fund in this package are meant for electric two and three-wheeler vehicles and buses, e-rickshaw used for public transport.  
+
+9. Govt plans electric vehicles charging stations at every 25 Kms In India
+https://www.news18.com/news/auto/bjp-government-to-install-electric-vehicle-charging-stations-at-every-25-km-in-india-2040029.html
+
+Urban affairs ministry has amended the Model Building Byelaws (MBBL) 2016 and Urban Regional Development Plans Formulation and Implementation (URDPFI) Guidelines 2014, making provisions for establishing EV charging infrastructure.
+
+The amendment states that long range and heavy-duty electric vehicles, there should be at least one station on each side of the highway every 100 kilometers. As far as residential areas and city limits are concerned it calls for a public charging station should be on both sides of the highways or roads on every 25 km.
+
+10. PMO advocates easier loans for electric vehicles
+https://timesofindia.indiatimes.com/india/easier-loans-for-electric-vehicles-likely-soon/articleshow/67967813.cms
+
+PMO has asked the Department Of Financial SErvices to devise tax incentives and faster depreciation for the buyers of electric vehicles in India. While the tax incentives would mean lower down-payment for the individual customer, faster depreciation is meant to entice organisations and companies to opt for an electric vehicle fleet.
+
+The incentives would be applicable on e-rickshaws and e-Autos as well.
+
+11. Presenting the 'Electric Bus Cities' of India
+https://www.news18.com/news/auto/hyderabad-telangana-andhra-lucknow-sabarimala-delhi-all-the-cities-in-india-to-get-electric-bus-service-2033459.html
+
+Electric buses have found way now to many prominent cities of India. They include Pune in Maharashtra, Lucknow in Uttar Pradesh, Shimla and Manali in Himachal Pradesh, Sabrimala in Kerala, Dehradun in Uttarakhand, Hyderabad in Telangana.
+
+Is your city on electric public bus bandwagon too, please write to us or add to the collection here.
+
+12. Karnataka Govt to convert half of government's vehicles used in Bangalore to electric by 2019
+https://timesofindia.indiatimes.com/city/bengaluru/half-the-govt-vehicles-in-city-to-be-electric-by-2019-end-george/articleshow/68175556.cms
+
+Karnataka Government;s minister of State for large and medium scale industries, Mr. KJ George has stated that 50% of the vehicles used by government in Begaluru would be converted to electric from Petrol and Diesel by the end of 2019.
+The urban affairs department is also amending the laws, so that 10-20% of the space in current parking lots could be used for EV charging stations.
+
+He was speaking at CII organised event called Future Mobility Show 2019.
+
