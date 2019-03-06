@@ -1,0 +1,34 @@
+1. AI robots dismantle old ammunitions
+https://phys.org/news/2019-02-submunitions-demilitarized-sandia-designed-robotics.html
+
+Dismantling old ammunitions is a hazardous and time consuming activity, putting at peril both man and material at risk. While they pose a material risk, there is a bigger risk in terms of damage to environment, as old ammunitions pile up everywhere on earth. Proper dismantling of ammunitions could lead to recovery of precious metal components, which could then by re-used.
+Now robots are being programmed through AI to achieve this task.
+"This is exactly the kind of thing to use robotics for—to get humans out of harm's way. Let the automation of robots do what they do well, and have humans make advanced decisions on safety."
+
+2. Machine Learning is now predicting the output of wind farms
+https://www.theverge.com/2019/2/26/18241632/google-deepmind-wind-farm-ai-machine-learning-green-energy-efficiency
+
+While wind is helping us achieve the non-renewable energy goals, it is a highly un-predictable source of energy, where output could vary between a matter of hours. For a grid which is being fed by a wind energy farm, it is imperative to know, how much energy would be produced at what time, so that it could be optimally stored and then delivered to the consumer.
+
+Now AI is being used to predict the output of wind farms using Machine Learning algorithms, so that delivery of energy output can be scheduled, making them more 'viable'.
+
+We can’t eliminate the variability of the wind, but our early results suggest that we can use machine learning to make wind power sufficiently more predictable and valuable,This approach also helps bring greater data rigor to wind farm operations, as machine learning can help wind farm operators make smarter, faster and more data-driven assessments of how their power output can meet electricity demand.”
+
+3. British Geological Society is building a 'geological google'
+https://www.sciencemag.org/news/2019/02/earth-scientists-plan-meld-massive-databases-geological-google
+
+British Geological Society has 3 million fossils, gathered over 150 years, at thousands of sites across the country. Howeveer, this massive set of 'geological data' is not much of use, sitting in boxes in the warehouse.
+
+Now scientists world over are trying to create, what is being termed Deep-time Digital Earth (DDE), a network of earth science databases. In layman's term, 'geological google'.
+
+"Once earth scientists are freed of the drudgery of combing scattered collections, he says, they will have time for more important challenges, such as answering “questions about the evolution of life, materials, geography, and climate in deep time.”
+
+4. Using AI, CISF has prevented 103 suicides in last 3 years at metro stations
+https://www.thehindu.com/news/cities/Delhi/preventing-fatal-mishaps-under-the-watchful-eye-of-cisf/article26425962.ece
+
+CISF is using AI at Delhi Metro Stations, not only to keep the commuters safe, but also for general social good. The AI systems identify people who have been hanging around for long at station, and look distressed. As the AI system detects an unusual person, hanging around for long, an alert is issued and then a CISF personnel approaches the person to enquire if any assistance is required by him/her.
+
+ At present, 7,524 CISF personnel cover 239 metro stations in Delhi-NCR. 
+
+
+
