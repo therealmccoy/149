@@ -1,0 +1,41 @@
+1. In a 'first' in the country, NDMC sets up 25 charging points in Lutyens Delhi for electric cars
+https://www.outlookindia.com/website/story/automobiles-delhi-gets-25-new-electric-car-fast-chargers/326438
+
+First time in the country a civic body has established electric vehicles charging stations, and NDMC has achieved this feat. It has installed 25 new electric vehicle charging stations in Lutyens Delhi. While the first two would be located Khan Market, other locations short-listed are Connaught Place, Gole MArket, Jor Bagh, Sarojini Nagar Market and Yashwant Place.
+
+These charging stations would not however support electric two-wheelers and e-rickshaws. The users would be billed at Rs.9 per unit and it is estimated that Rs.162 worth of charging would be needed for a full charge. Users would also have to book slots in advance, to avoid queuing.
+
+2. Private electric four-wheelers left out of FAME II
+https://www.business-standard.com/article/pti-stories/surprising-that-private-electric-cars-left-out-from-fame-ii-subsidy-mg-motor-india-119030400508_1.html
+
+Under the Rs 10,000-crore Faster Adoption and Manufacturing of (Hybrid) and Electric Vehicles (FAME) II scheme announced last week, subsidies will be given to only to three-wheelers and four-wheelers used for public transport or registered for commercial purposes. There would not be any subsidy for new private electric cars, as speculated earlier.
+
+However, in the case of two-wheelers, the private vehicles would gain. Paucity of funds with the government could be cited as one of the reasons for the exclusion of private electric four-wheelers.
+
+3. Survey of India and Maharashtra sign MoU to do large scale drone mapping
+https://www.geospatialworld.net/news/survey-of-india-government-maharashtra-mou/
+
+As reported earlier about Maharashtra government's plans to utilise drones for large scale land survey and mapping, an MoU has been signed between Maharashtra government and Survey Of India regarding this on 3rd March 2019. Settlement Commissioner (SC) & Director of Land Records (DLR) had earlier approached Survey of India (Sol) to undertake the large-scale mapping of Village Gaothan (Abadi) areas.
+
+"Drone/UAV based survey shall be carried out for around 40,000 Village Gaothan (Abadi) areas in the state of Maharashtra. Inhabited areas surrounding Gaothan may also be covered under the project for the purpose of taking imagery."
+
+4. Domestic market for commercial drones would be bigger than military by 2021
+https://www.livemint.com/technology/gadgets/flying-high-how-commercial-drones-are-taking-flight-in-india-through-enterprise-1551640246185.html
+
+The domestic market for commercial drones will have a market value of $885.7 million, according to market intelligence firm BIS Research. Drones are now being deployed from food delivery to iron ore mines.
+
+Tata Steel is using drones at it's Noamundi iron ore mines in Jharkhand, for monitoring of employees and equipment, along with detection of illegal mining.
+
+5. AI solutions for Maternal and Child health, Tuberculosis and Farmers by Wadhwani Institute of AI [DELETED]
+https://economictimes.indiatimes.com/tech/software/how-wadhwani-brothers-sunil-and-romesh-are-using-ai-to-serve-the-underserved/articleshow/68268245.cms
+
+Wadhwani Institure of AI, which is funded by Romesh and Sunil Wadhwani is a not-for-profit organisation. It is using AI, machine learning and data science to help solve issues in education, health, infrastructure and agriculture in India.
+
+With the help of Central Tuberculosis Division,  it has developed an AI tool to detect and estimate the Tuberculosis cases at district levels. For the cotton farmers, a low cost AI tool has been also developed by the institute for pests detection, which is under trial in Maharashtra.
+
+Currently, it has a team of 25 engineers and scientists based at Andheri East, Mumbai and is established with a Rs.200 Crore grant. Its research partners include leading IITs in India and top universities of world like Carnegie Mellon and Stanford.
+
+
+
+
+
