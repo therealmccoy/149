@@ -1,0 +1,68 @@
+1. A (Vegan) chicken bucket, which you can eat to your fill
+https://vegnews.com/2019/3/you-can-now-order-a-vegan-chicken-bucket-and-eat-the-actual-bucket
+
+Vegan brand Alpro has created a vegan 'chicken and chips' meal. It consists of mushroom nuggets, sweet potato fries (“chips”), and a creamy garlic dip.
+"The bucket is made from a combination of seeds (such as fennel, sesame, nigella, and pumpkin), nuts, and spices, and is meant to be consumed in conjunction (or after) the meal."
+
+The delivery of 'plant based bucket' has started in United Kingdom from 7th March 2019.
+
+2. AI to forecast drought
+https://blogs.microsoft.com/ai/ai-subseasonal-weather-forecast/
+
+Short terms weather forecasts are really what is termed as 'crap-shoot'. The short term weather forecast or sub-seasonal ones instead rely on a lot of variables which would include the local meteorological factors, as well as the large global phenomena like El Nino.
+
+Now researchers are using Machine Learning to get insights from the troves of historical weather and climate data, without which short term weather forecasts cannot be produced authentically.
+
+Weather patterns repeat throughout the seasons and from year to year and that therefore pattern recognition can and should inform longer-term forecasts.
+
+3. Startup Mistakes [Co-Founder Compatibility] - Fights between Founders
+http://www.paulgraham.com/startupmistakes.html
+
+Way back in 2006 itself, Y Combinator companies had 20% of the founders having left the company, due to fights and disagreements. Paul Graham nails it on the head, when he says that most of the founder disputes could have been avoided, if people have been cautious and careful in choosing their co-founders. The lack of compatibility leads to demise of all relationships, including those between founders.
+
+"Don't suppress misgivings. It's much easier to fix problems before the company is started than after. So don't include your housemate in your startup because he'd feel left out otherwise. Don't start a company with someone you dislike because they have some skill you need and you worry you won't find anyone else. The people are the most important ingredient in a startup, so don't compromise there." 
+
+4. Too many cooks, spoil the broth !
+https://bothsidesofthetable.com/most-common-early-start-up-mistakes-47b9c2244ad
+
+One of the most 'happening' startup in India of recent times with a 'maverick' of a founder at helm, but with a dozen or so founders and it floundered. Things could have been different, if there would have been just a couple of 'mavericks' over there.
+
+Mark Suster puts forward another great perspective where he talks about reduction in passion due to lack of sufficient financial incentive in the long run. Greater the number of founders, lesser is the incentive in the log run.
+
+While people may argue that money matters in absolute terms, and a 5% stake in a unicorn is more valuable, than 50% in a failed startup. But, as mentioned in the beginning, the chances of reaching the Unicorn status itself reduces manifold, with the addition of each 'extra founder' over '2'. More the number of founders, more the chances of conflicts and disagreements, lesser is the compatibility.
+
+"But the worst case scenario in my mind is more than 2 co-founders where everybody sub-optimizes. That said, if you’re already in a company with more than 2 founders — put it behind you. The decision is already made. Your next business will have less ;-)"
+
+5. Persevere and wait for the right person to come by, for starting a company together
+https://miguelgfierro.com/blog/2018/top-mistakes-and-learnings-from-my-startup-postmortem-samsamia/
+
+Poor co-founder choices have been the biggest casualty of 'Changing the world', 'Disrupting', 'Move fast and break things' narrative. Co-founders are solicited through online forums, groups and on Linkedin.There are even dating and meetup platforms for 'finding founders'.People assume that spending a few hours and 'knowing' a person is enough to on-board a person as a co-founder. How wrong this fallacy is amply stated by Miguel here.
+
+"We founded Samsamia Technologies with 50%-50% shares each and he became the unique administrator, due to a incompatibility with my current job at my research lab.
+I didn't know back then but that was a decision that I was going to regret in the future. I thought that a shareholders agreement can protect my interests as a stakeholder, however that didn't prevent the events that happened afterwards. This mistake costed me the company, I barely knew him, we had worked together for a while, but that's completely different to work with a person under high pressure conditions and with money entering the company."
+
+6. A founding team consists of 2 founders and not 1.5
+http://dopeboy.github.io/Lessons/
+
+Solo Founders are never taken seriously. 
+Even Drew Houston was kind of grounded before he found and brought his co-founder Arash Ferdowsi on board. Undoubtedly, that turned out to be the golden nugget' of an advice.
+But this also leads to people rushing on to things, just to have the name of  'co-founder' on the pitch deck. And this spells all disaster for the company. Probably, just the solo founder in most of the cases could have pulled a far better result.
+
+Manish Sinha, founder of Qhojo articulates this mistake here.
+
+"I went into building Qhojo alone. One day, I posted about it on Facebook. An old friend saw it and we subsequently reconnected over beers. I asked him if he was interested in joining and he was. But he said he couldn’t commit fulltime. No problem, I thought. Any help is better than none and all the more if it’s from someone I know and trust. 
+
+Only towards the later stages of Qhojo did I realize this arrangement wasn’t going to work out. Building a business (startup or otherwise) requires a massive amount of work and 1.5 people is not enough for it. Furthermore, when the going gets tough (and it will), you need someone there in the trenches with you. I can’t understate how important that is for one’s mental will."
+
+7. Those who build companies together, must eat together
+https://gilsadis.com/2014/08/28/the-mistakes-that-killed-my-startup/
+
+Working remote augurs well for founders only when, things have stabilised to an extent (read success in terms of customer acquisition and ample funding). But in the rush of 'filling the seats', many a times 'remote co-founders' are picked.
+
+At early stage, communication and feeling each other's pulse is utterly important, besides lending a shoulder to either smile or cry. This cannot happen when founders work remote. And breaking down of communications always have a 'domino effect'. When t starts to rain, it pours and then breaks all the banks.
+
+Gil Sadis admits this mistake of his startup journey here.
+
+"We didn't sit in the same office. This led to poor  communication between the team members. Sitting at the same office is not a must. You have great tools like Sqwiggle to help you manage remote work. But it was just not right for our team. You should know what’s best for your team and if you see that work just doesn’t get done when everyone works from home, stop that and see if an office works better"
+
+
