@@ -1,0 +1,68 @@
+1. Raising too little money
+http://www.paulgraham.com/startupmistakes.html
+
+For Startups, someone once said, 'Always Be Raising' in terms of funding. 
+This could be a real burden as seeking funds is a full-time exercise and usually done by founders, which means they are not available for other more important work, while they try to 'raise'.
+
+So it is important to raise enough amount of money which should give you enough ground to build and go to the next stage, freeing the founders to focus on on just building and execution.
+
+PG has articulated it well here in point 11:
+
+"So if you take money from investors, you have to take enough to get to the next step, whatever that is. [5] Fortunately you have some control over both how much you spend and what the next step is. We advise startups to set both low, initially: spend practically nothing, and make your initial goal simply to build a solid prototype. This gives you maximum flexibility."
+
+2. Raising too much money
+http://www.paulgraham.com/startupmistakes.html
+
+The quantum of fund raise has not only become the bragging points but most of the publications and news sources make it the ultimate yardstick of success for a startup. Basis on that companies are made 'unicorns' and founders become 'billionaires', while the truth may be that the 'real' business is actually struggling.
+
+With great money, comes great accountability to deliver. While this is the prime trade-off, there are several collateral damages like giving up stake, giving up freedom and haggling with not-so-friendly VCs.
+
+PG advises to take the first reasonable deal in point 13:
+
+"We advise founders who go on to seek VC money to take the first reasonable deal they get. If you get an offer from a reputable firm at a reasonable valuation with no unusually onerous terms, just take it and get on with building the company. [8] Who cares if you could get a 30% better deal elsewhere? Economically, startups are an all-or-nothing game. Bargain-hunting among investors is a waste of time."
+
+3. Poor investor management
+http://www.paulgraham.com/startupmistakes.html
+
+Raising money has it's own peril and biggest of them is the managing the investor's expectations. And the problem with this is that they are not outlined in the term sheet. They keep unfolding over a period of time, and at times, this could be a real arduous task.
+
+While as a founder you are responsible to answer those who have provided you money, but that does not mean that over a period of time, you become the 'conductor' of the bus and and the VCs the 'driver'. Those who have the money and could not start company earlier, would always have this fetish to be the pseudo-CEO. Be soft where you are required, be firm also where you are required. This is (still) your company and not the investor's. 
+
+"As a founder, you have to manage your investors. You shouldn't ignore them, because they may have useful insights. But neither should you let them run the company. That's supposed to be your job. If investors had sufficient vision to run the companies they fund, why didn't they start them?"
+
+4. Focus on building a $1000 startup
+https://www.inc.com/walter-chen/why-trying-to-build-a-billion-dollar-startup-is-one-of-the-biggest-mistakes-you-.html
+
+In these times when startup founders dominate the newspaper headlines and receive adulations on the basis of quantum of money they raise, every founder aims to be a billion dollar company.
+While ambition is good, it is essential to channelise it in the right direction. And for any business, the holy grail is profitability.
+
+If the business is profitable, the unicorn valuation would not be too far off, but if you focus on valuation through fund raising, the profits might never come during the lifetime. the world is rife with second type of examples. Decacorns (10XUnicorns) are still struggling to make a dime of net profit.
+
+Focus should be from Day 1 to build a $1000 monthly net profit startup, rather than be a paper unicorn. Profit is sanity, rest all is vanity.
+
+"Individuals and startups need to be self-sufficient and that's why getting your project to ramen profitability is such a vital and game-changing milestone. When you require a salary to make a living, or your company needs investor money to continue to exist, your autonomy and creativity become severely limited.
+
+Deciding to raise investor funding and swing for the fences often means chasing someone else's dream, not your own. When you set out to build a billion-dollar startup, you're often implicitly following another's path to success rather than thinking independently."
+
+5. Moonlighting would make you stronger while raising funds
+https://bothsidesofthetable.com/most-common-early-start-up-mistakes-47b9c2244ad
+
+Moonlighting is often an ugly word in startup world, but doing it just might save your startup dreams. Building a software based prototype does not require to be active full time. Neither testing it with early consumers require the same. Going out in the streets still works, but it could wait. SM and SEM are here to help us.
+
+The argument is not too jump full-time, unless you have built a prototype and have reasonable customer validation to warrant being 'in'. Building a prototype and having tested it with your own money would bring a lot of credibility later  with prospective investors, when you go raising funds. If you start with raising money with just an idea, it does not (always) work. Failing (and when 99% startups fail) while have taken someone else's money is a lot tougher.
+
+" In some countries outside the US (the UK for example) employers can specify in an employment contract that ANY IP you develop while you’re employed by that company is owned by them. If you live somewhere where this is the case you’re better off discussing with your employer that you may from time-to-time work on private projects outside of work hours and you want their clearance in writing that this is OK."
+
+6. Vest before you raise
+https://bothsidesofthetable.com/most-common-early-start-up-mistakes-47b9c2244ad
+
+Funds raise could precipitate all kinds of emotions, including greed, among co-founders. It is essential to safeguard the company against this and clear up all 'cloud' regarding the amount of dedication and effort, which could result into certain stake. Funding or no funding.
+
+Vesting of stocks should be implemented from Day 1, and not put in to practice after the funds have been raised or the VCs ask for it. In case of multiple founders (2 or more), this could bring a lot of heartburn later and might just precipitate the 'tumbling down' of the founder relationship and hence the startup.
+
+"The reason is that if you found a company with a partner (or 2) and somebody decides to leave the company do you really want them to be able to walk away with half of the value when they may have only worked with you for 9 months and all the hard work is ahead? Founder vesting is an insurance policy for all team members involved."
+
+
+
+
+
