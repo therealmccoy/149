@@ -1,0 +1,56 @@
+1. Frito Lays is applying MAchine Learning for 'fitter' chips
+https://www.automationworld.com/how-frito-lay-applies-machine-learning
+
+While making potato chips may not be rocket science to most of us, it is surely 'computer-science' for many at Frito Lays.
+
+Frito Lays has been using Machine Learning in it's potato and chips processing plants in several ways.
+A machine learning model is deployed with a vision system to calculate the weight of potatoes being processed. A vision system is also used to gather data on the size and number of potatoes being processed. 
+
+“For example, we have a vision system that looks at every potato going through our peeling process—where we abrasively peel our potatoes. I wrote an algorithm that can tell us what our percent peel is; that is, how peeled a potato is after going through the process versus how unpeeled it is. With this information, we can optimize our peeling so we don't over-abrate the potato and peel away some of its flesh.”
+
+2. New Zealand farmers are using drones for herding sheep
+https://futurism.com/the-byte/new-zealand-farmers-herding-sheep-drones
+
+Future of food imperatively depends on the shape of agriculture in the times to come, specially as the population rises and arable land reduces. Not to mention, the effects of climate change and pollution affecting our food production.
+
+The future looks bright with this barking drone, used by New Zealand farmers, for whom 'the time is money'.
+
+3. Maruti to commission a battery plant by 2020
+https://www.thehindubusinessline.com/companies/maruti-to-commission-battery-plant-by-2020-ayukawa/article26469405.ece
+
+Maruti Suzuki India Limited is building a battery manufacturing plant at its Hansalpur complex and the plant is expected to be commissioned by 2020. The Lithium-Ion battery plant will make batteries for electric and hybrid vehicles manufactured in India.
+
+The company is currently testing 50 electric vehicles in India.
+
+"We firmly believe that CNG and hybrid vehicles are most effective tool to reduce CO2. Suzuki will continue to introduce cutting edge hybrid vehicles with support from Suzuki Motor Corporation (SMC). We will continue to support Government of India's ambitious Make in India programme."
+
+4. US Army teams up with Carnegie Mellon University with $72 million to develop AI which enhances national security and defence
+https://venturebeat.com/2019/03/11/u-s-army-pledges-72-million-for-carnegie-mellon-ai-defense-research/
+
+US Army has put a five year programme in motion, where it's Combat Capabilities Development Command Army Research Laboratory division would team up with Carnegie Mellon University to develop AI that “enhance[s] national security and defense. The research would involve adversarial algorithms that can respond to enemy AI, autonomous networking that adapts to electromagnetic and cyber events, and systems that “increase survivability” in contested environments. 
+
+“Tackling difficult science and technology challenges is rarely done alone and there is no greater challenge or opportunity facing the Army than Artificial Intelligence,” said Dr. Philip Perconti, director of the Army’s corporate laboratory, in a statement today. “The Army is looking forward to making great advances in AI research to ensure readiness today and to enhance the Army’s modernization priorities for the future.”
+
+5. Survey Of India is spear-heading the drone revolution in the country
+https://qz.com/india/1567280/the-modi-government-is-using-drones-to-digitise-indias-maps/
+
+Established in 1767, under colonial India, Survey Of India has the responsibility to map every inch of the country. The organisation has already signed MoUs with Karnataka and Maharashtra government worth Rs.70 Crores each for land mapping.
+
+It is also in talks with Uttarakhand and Haryana governments for projects of similar type and scale. It can map a complete state of the size of Haryana in 15 months. Drones use has been at the forefront of such projects and chief enablers. The organisation has been actively using drones for past one year. The organisation is augmenting it's capability of mapping by acquiring 110 drones. In the pipeline is the use of advanced technologies like drone mounted LIDAR.
+
+6. IRDAI planning to change surveyor norms to enable use of emerging tech like drones
+https://timesofindia.indiatimes.com/business/india-business/insurance-cos-bet-big-on-drones/articleshow/68365236.cms
+
+Insurance Regulatory and Development Authority of India (IRDAI) is planning to change the norms for surveyors, so that they could use emerging technologies like drones to reduce claim settlement gestation period.
+
+There have been already an early adoption of drones in in the general insurance industry.ICICI Lombard General Insurance has used drone technology for assessment of quantum of cultivable land it's yield in Gujarat.
+
+Tata AIG used drones for primary assessment of infrastructural damage due to Cyclone Vardha in 2016.
+
+Cigna TTK Health Insurance Company mulls the use of drones in even accident claims cases, where the need is to file the and process the claim as soon as possible, which could be in inaccessible areas.
+
+
+
+
+
+

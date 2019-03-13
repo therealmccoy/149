@@ -1,0 +1,8 @@
+The fastest developing companies are more aggressively deploying AI to solve specific business problems, according to Microsoft market research.
+While this is certainly a good news and signals the impending 'forth industrial revolution', it also raises the question about are today's organisations really equipped to make wise and strategic decisions related to AI deployment, responsibly?
+
+Focussing on this specific problem, Micrsoft has launched an online school AI business school. 
+
+The aim is to make the organisations 'AI ready'. This free, online course is a master class series that aims to empower business leaders to lead with confidence in the age of AI.
+
+"AI Business School course materials include brief written case studies and guides, plus videos of lectures, perspectives and talks that busy executives can access in small doses when they have time. A series of short introductory videos provide an overview of the AI technologies driving change across industries, but the bulk of the content focuses on managing the impact of AI on company strategy, culture and responsibility."

@@ -1,0 +1,9 @@
+Open AI has created a new new company called OpenAI LP, which is termed as 'capped profit' company.
+
+The organisation wanted to have the right mix of having the ability to raise the capital, while actualising it's mission of enabling artificial general insurance for greater good. The reason behind the development is that AI is highly computational and talent intensive business, for which the organisation sees investment of billions of dollars in future.
+
+This comes as Sam Altman, co-founder of OpenAI, moved from being President of Y Combinator to Chairman, in order to focus more on organisation he co-founded.
+
+We want to increase our ability to raise capital while still serving our mission, and no pre-existing legal structure we know of strikes the right balance. Our solution is to create OpenAI LP as a hybrid of a for-profit and nonprofit—which we are calling a “capped-profit” company.
+
+The fundamental idea of OpenAI LP is that investors and employees can get a capped return if we succeed at our mission, which allows us to raise investment capital and attract employees with startup-like equity. But any returns beyond that amount—and if we are successful, we expect to generate orders of magnitude more value than we’d owe to people who invest in or work at OpenAI LP—are owned by the original OpenAI Non-profit entity.
