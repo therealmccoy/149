@@ -1,0 +1,21 @@
+1. Siri and Alexa just find regularities through maths, but are incredibly stupid in reality !
+https://www.technologyreview.com/s/612826/virtual-assistants-thinks-theyre-doomed-without-a-new-ai-approach/
+
+Machine Learning and Deep Learning, which are off-shoots of Mathematics (Statistics) have helped produce a range of devices, which are called 'intelligent', which in reality is false.
+Pattern is ingrained in the world, so it is with humans. We speak and communicate within a set of framework, which over a period of time could be easily statistically inferenced, and this is what the the current generation of 'AI Speakers' do.
+They do not have any 'real intelligence'.
+
+The paradigm needs to be changed if any 'real intelligence' is produced, because the way these machines were taught to 'learn' is not the way a human learns. And since we presume ourselves to be an intelligent specie, we should look inwards (cognition, psychology and neuroscience) of what makes us intelligent and basis on that try to make machines intelligent.
+
+"I have yet to see a baby whose parents put an encyclopedia in the crib and say, “Go learn.” And this is what our computers do today. I don’t think these systems will learn the way we want them to or understand the world the way we want to. 
+
+What happens with babies is they get tactile experience immediately of the world. Then babies start seeing the world and absorbing events and objects’ properties. And then the baby eventually hears linguistic input. And it’s this complementary input that makes the magic of understanding happen. "
+
+2. Packaging-Free cosmetics and toiletry with the help of AI, the Lush way...
+https://www.adweek.com/brand-marketing/lush-is-using-machine-learning-and-ai-to-make-wasteful-packaging-and-signage-irrelevant/
+
+Lush a brand that manufactures soaps and bath-bombs has set up its bath bomb pop-up to showcase its 54 new bath bomb creations using absolutely no signage. Instead, attendees could download the Lush Labs app, which uses AI and machine learning to determine what each bath bomb is with just a quick snapshot. 
+
+The Lush Lens feature on the Lush Labs app, lets consumers scan a product with their phone to see all the key information they’d need before making a purchase: price, ingredients and even videos of what the bath bomb looks like when submerged in water.
+
+“This means that not only can we avoid printing signage that will eventually need to be replaced, but also that customers can get information on their products anytime while at home"
