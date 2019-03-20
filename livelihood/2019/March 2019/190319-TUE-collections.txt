@@ -1,0 +1,112 @@
+1. Days of proxy are over, as Chinese University now utilises AI for marking attendance
+https://www.scmp.com/tech/policy/article/3002107/chinese-university-uses-ai-check-class-attendance-rates-and-find
+
+“Hello, this is little AI, an intelligent voice assistant from the counsellors of Hangzhou Dianzi University. I notice you were absent from class today.” this is the message students of Hangzhou Dianzi University of China get, if they miss their class. The university has started a smart attendance system based on AI.
+
+The response of the student is recorded and is then analysed. The bigger goal is to fathom out the reason behind absenteeism and then categorise students into it, for effective remedial measures.
+
+Attendance rates up by 7 percentage points in the two weeks since the university adopted the system compared to the previous semester.
+
+2. An AI algorithm to predict wildfire six months in advance
+https://www.nationalobserver.com/2019/03/18/news/researchers-look-artificial-intelligence-programs-predict-wildfires
+
+While the number of instances of wildfire globally are not increasing, the area devastated due to such fires is increasing day by day.
+
+"Once the fire gets to be a crown fire and it's two football fields or larger, it's nearly impossible to put it out until the weather changes. "You're spitting on a campfire."
+
+For giant insurance companies, it makes sense to predict the occurrence of wildfires, but the sheer number of factors influencing wildfires makes it very hard. Until now ie, Artificial Intelligence could be just the right technology to make out correlations from wide vaiety of data points and sources to point out the future occurrence of these devastating incidences.
+
+An Artificial Intelligence Program has been developed in collaboration with scientists and engineers at MIT Massachusetts which could predict wildfire, up to six months in advance.
+
+3. TikTok might just lead India's first 'Social Media General Elections' in 2019
+https://www.hindustantimes.com/lok-sabha-elections/lok-sabha-elections-2019-politics-goes-tiktok-in-new-age-campaigning/story-AwfQX0awrS72yfoO0HKiOK.html
+
+TikTok has been downloaded close to 260 million times in India and is now it is proving to be a bigger social media challenge for Election Commission of India, than the usual rogues. The average number of videos being created on TikTok is now between 20 to 25 daily.
+
+With TikTok people have started creating an avalanche of political memes and short videos, using it's editing tools and library of prompts.People lip-sync to Prime Minister Narendra Modi’s speeches, make a meme featuring Congress president Rahul Gandhi’s “Chowkidar Chor Hai” (the watchman is a thief) barb aimed at Modi, or just riff off Delhi chief minister Arvind Kejriwal’s dismissive “Toh kar na” (then, why don’t you do it; a remark aimed at the Opposition in the Delhi assembly).
+
+“TikTok has a lot of young users, including first-time voters who are the ones to be targeted. We do have a lot of our volunteers who use the app."
+
+4. The Science Behind Plant-Based Proteins - https://youtu.be/jjlVq5GiHbo
+
+5. Bern University presents, 'Hip Hop Cheese'. Cheese flavoured with hip-hop music!
+https://www.smithsonianmag.com/smart-news/hip-hop-and-mozart-improve-flavor-swiss-cheese-180971721/
+
+“Bacteria is responsible for the formation of the taste of cheese, with the enzymes that influence its maturity. Humidity, temperature or nutrients are not the only things that influence taste. Sounds, ultrasounds or music can also have physical effects.”
+
+The paradigms of cheese making are just going to change. Scientists have found that the exposure of sound-waves also varies the flavour and aroma of cheese. Scientists of Bern University exposed the Cheese Wheels to different genre of music to determine the effect of sound waves on cheese production and it's texture. They we rein a for an aromatic surprise.
+
+The flavour of cheese varied with the genre of music to which it was exposed. There were 'Hip Hop' and 'Mozart' cheese and jury was divided on which was the 'tastiest'. 
+
+6. coParenter : AI comes to aid of divorced parents, to settle disputes and aid in communication 
+https://techcrunch.com/2019/03/15/coparenter-helps-divorced-parents-settle-disputes-using-a-i-and-human-mediation/
+
+Every year, hundreds of thousands of families get destroyed due to acrimonious divorce proceedings. The bitterness lingers for long and only aggravates the matter, mostly for the kids, caught in the crossfire.
+
+coParenter is an AI driven app, which helps families going through divorce, better manage their life, resources and time. The app with it's 'Kids First' approach, helps in clean and effective communication between parents and even mediates when things are heating up.
+
+The app also offers, on-demand access to professionals (family law attorneys, therapists, social workers or other retired bench officers with strong conflict resolution backgrounds) on a subscription basis.
+
+The company says that since its launch 81% of parents have resolved their disputes 'within app' itself, instead of resorting to professional help, and thus reducing expenses both in terms of time and money.
+
+“I witnessed countless families torn apart as they slogged through the family law system. I saw how families would battle over the simplest of disagreements like where their child will go to school, what doctor they should see and what their diet should be — all matters that belong at home, not in a courtroom"
+
+7. Flexible office spaces offer greater privacy, enhances productivity and retains people
+https://www.interiordesign.net/articles/16073-the-real-value-of-privacy-in-the-modern-open-office/
+
+Open offices are now gravitating towards a hybridised format which offers a mix of collaboration for and privacy for focus. 
+Today's knowledge workers spend more time on jobs hat require focus and less time on collaborating and hence an open noisy office is not suitable for them.
+
+While privacy is important for the employee, it is equally important for the employer as a Gallup poll of 2017 (State of the American Workplace) reports that 42% of the employee are willing to move another job, if it offers greater privacy.
+
+It is estimated that a 200-person company loses $2.1 million annually because of lost focus at work. 
+
+8. Hyundai and Kia charge up Ola's EV initiatives with $300 million
+https://qz.com/india/1575789/hyundai-kia-invest-300-million-in-ola-to-enter-indian-ev-space/
+
+While domestic cars sale has been languishing, app based taxi service providers are emerging as th enew knights in shining armours for automotive companies.
+
+To shore up the presence of their EV, Kia and Hyundai have announced an investment of $300 million in Ola. Kia and Hyundai would work with Ola to develop India specific EV solutions, built on the specification of Ola.
+
+“Our partnership with Ola will certainly accelerate our efforts to transform into a smart mobility solutions provider,” :Euisun Chung, executive vice-chairman of Hyundai Motor Group
+
+9. Contrary to popular belief, robots can help us 'being human' !
+https://www.theatlantic.com/magazine/archive/2019/04/robots-human-relationships/583204/
+
+Machines are thought to be inert and emotion-less and humans pride themselves on having empathy and other soft skills. Now researchers at Yale have found out that while humans can't teach machines to be emotional, robots can for sure teach us human on how to be human.
+
+In 'hybrid systems' where humans and robot interact socially, the right kind of set-up could actually improve the way humans deal with each another in daily life.
+
+In one of the experiments, a group of people was tasked of building a railroad track in virtual world with a humanoid robot. Each group consisted of 3 people and a robot, working on a robot. The robot was deliberately programmed to make occasional errors, and then confess those as well.
+“Sorry, guys, I made the mistake this round,” it declared perkily. “I know it may be hard to believe, but robots make mistakes too.”
+
+It was found that this behaviour of robot made the group of people more communicative, relaxed and increased their empathy towards each other.
+
+10. 'Be the first to be never lonely again' : The changing landscape of human relationship due to AI
+http://hillsdalecollegian.com/2019/02/artificial-intelligence-threatens-human-relationships/
+
+Increasing demands of modern society and work pressure has led the current generation to be the loneliest generation of all times. In an era when relationships are governed by 'status', youngsters are increasingly wary of 'going in' and then 'getting hurt'.
+
+While human relationship comes with all it's complexity, and may not lead to any gratification at all (apart from causing a lot of pain instead), the relationship with a robot or a bot is clearly opposite. Companies are already testing and developing robots which could surpass the primitive need for another human, sex. The 'easy option' is still very far from common man's reach but presents a real threat to basic human relationships.
+
+Some are going as far to predict that by 2050 the number of human-robot relationship would surpass the human-human relationship!
+
+11. You can have the sex doll, but you would have to woo her over!
+https://syntheaamatus.com/product-category/ai-dolls/
+
+“Basically she likes to be touched. She has different modes of interaction ― she has romantic, she has family and she has also sexy modes.” This is Maya, the sex doll, with all the knick and knacks of artificial intelligence built in her. 
+
+In order to mimic, the real world scenario and also probably to defy development of predatory 'instant gratification' attitude in it's owners, she is programmed to be 'romanced' first.
+
+She is available for a high price of 6,000 Euros, not everybody's girlfriend!
+
+
+
+
+
+
+
+
+
+
+
