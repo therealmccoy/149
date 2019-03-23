@@ -1,0 +1,165 @@
+****COLLECTION : AI and New Roles/Titles/Jobs****
+**** *************************************** ****
+
+1. New jobs in AI
+https://twitter.com/Johtyn/status/1108760334486171649
+
+2. Data Labeller, is the new 'Call Center Job' of India
+https://factordaily.com/indian-data-labellers-powering-the-global-ai-race/
+
+Offices in subarbs of towns which  no one have heard earlier, are spear-heading a new kind of job revolution in India, which could be termed as the new 'call center jobs'. This is mostly highlighting and labelling images of vehicles, traffic lights, road signs and pedestrians.
+
+“This is an emerging sector… in India and everybody has begun to realise the humongous opportunity it presents.AI requires properly annotated, classified and anonymised data. For this, whether you like it or not, you will use automation but you will also have to use skilled human workforce, and that is the opportunity it presents for India.”
+
+3. New emerging jobs in AI for IT professionals
+https://enterprisersproject.com/article/2017/12/8-emerging-ai-jobs-it-pros
+
+Intelligence Designer
+“I envision Intelligence Designers as AI professionals in charge of strategic choices about how, when, and where develop artificial intelligence components in very large, complex IT systems” 
+
+ Data Curator
+“Although AI will handle many of the routine IT decisions made by humans today, it is much more dependent on data that has been organized, cleansed, and tagged with semantic meaning” 
+
+Data Evangelist
+“Even after adopting AI applications, businesses will need to teach their organizations about what data is available, how it can be applied, and how it should be applied.”
+
+4. The highest paying AI jobs with their average salaries
+https://www.techrepublic.com/article/the-10-highest-paying-ai-jobs-and-the-massive-salaries-they-command/
+
+1. Director of analytics
+
+Average salary: $140,837
+
+2. Principal scientist
+
+Average salary: $138,271
+
+3. Machine learning engineer
+
+Average salary: $134,449
+
+4. Computer vision engineer
+
+Average salary: $134,346
+
+5. Data scientist
+
+Average salary: $130,503
+
+6. Data engineer
+
+Average salary: $125,999
+
+7. Algorithm engineer
+
+Average salary: $104,112
+
+8. Computer scientist
+
+Average salary: $97,850
+
+9. Statistician
+
+Average salary: $83,731
+
+10. Research engineer
+
+Average salary: $71,600
+
+
+5. In the times of AI revloution unfolding, 'Hybrid Jobs' is the future 
+https://www.youtube.com/watch?v=XnlHt7gUncQ
+
+***************************************************************************************************************************
+****The upbringing of 'AI First Kids' in China !****
+**** ****************************************** ****
+
+6. The 'Intelligent classroom behavior management system' of China
+https://newatlas.com/china-ai-education-schools-facial-recognition/54786/
+
+China is in a race to be world leader in AI by 2030, both in terms of research and adoption of the technology. The most important part of the roadmap, is to completely change it;s education system from ancient system to AI driven. The aim is two-folds, while it would intend to bring in efficiencies in the education system, it would also expose the students to AI and related technology both passively and actively, thereby sparking students curiosity. China believes, this is the way to create the required trained manpower for the forthcoming fourth industrial revolution.
+
+ "Previously when I had classes that I didn't like very much, I would be lazy and maybe take a nap on the desk or flick through other textbooks. But I don't dare be distracted since the cameras were installed in the classrooms. It's like a pair of mystery eyes are constantly watching me."
+
+ 7. It happens only in china : A textbook on AI for kindergarten students
+ https://medium.com/syncedreview/chinese-publisher-introduces-ai-textbooks-for-preschoolers-b95e1a89cfa0
+
+ AI researchers from Google, the Institute of Automation of the Chinese Academy of Sciences, and key Chinese universities collaborated on a 33 volume textbook series on AI for students ranging from Kindergarten to High school.
+The aim is to  introduce pre-teens to the basics, strengthen teenagers’ capability for using intelligent and applied technologies, and help train hundreds of new AI teachers in 100 Chinese schools.
+Textbooks are supported with learning materials and programming environments.  Students can seek online help which students can access through either PC or WeChat.
+
+“With the rise of automation, new skills are emerging as valuable in the age of AI and are often not the focus of K-12 education. These include problem finding, inquiry, flexibility, collaboration, creativity, systems thinking and technological literacy to name the basics.AI changes what we teach the next generation starting in Kindergarten because the next generation will have jobs that do not exist yet.”
+
+8. China: See Keeko the robot teach school children in Xiamen
+https://youtu.be/7-MbeWn3fU8
+
+9. How AI Could Teach Chinese Kids Their ABCs
+https://youtu.be/Ub2plmb9LoE
+
+10. Elementary school Chinese students are now attending AI coaching camps
+https://nextbigwhat.com/elementary-school-chinese-students-are-now-attending-ai-coaching-camps/
+
+Chinese parents are now sending their elementary and middle school aged kids to AI Camps, where corporate trainers train them in AI and associated technologies.
+
+In fact, many language training centres have started courses offering related to AI, just like English or Japanese.
+
+And well, it’s no surprise that these training camps are getting completely sold out, even though they cost as much as Rs.10,000 per day. For Chinese parents, after English, AI is the surest path to prosperity, where an AI educated person can earn more than thrice of the average salary.
+
+******************************************************************************************************************************
+****Future of Water: What lies ahead for India****
+**** **************************************** ****
+
+11. Prediction of India's water future from 2025 to 2050
+https://www.researchgate.net/publication/42764775_India's_Water_Future_to_2025-2050_Business-as-Usual_Scenario_and_Deviations
+
+The total water demand in India is expected to increase by 22% and 32% by 2025 and 2050, respectively, from the present level of 680 billion cubic meters (Bm3). The industrial and domestic sectors will account for most of this excess demand(almost) 85% ).
+While efficiencies in irrigation would lead to a drop in demand for water in farmlands, a small decline in food production is expected overall. Overall, water in India in future would be almost sufficient for food production.
+However, the water usage pattern for food production would change, and lead to regional water crisis in many places.
+
+Needless to say India requires investments and education in recharging groundwater, spreading water saving technologies and increasing crop productivity growth.
+
+12. The turbulent future of water in India
+http://web.worldbank.org/archive/website01291/WEB/0__CO-64.HTM
+
+A lot of human ingenuity, willpower and investment would be required to secure the future of water in India, which currently looks bleak and turbulent.
+
+India’s dams can store only 200 cubic meters per person. India can store only about 30 days of rainfall, compared to 900 days in major river basins in arid areas of developed countries. The need for storage will only grow because global climate change is going to have major impacts in India. Not only there is likely to be rapid glacial melting in coming decades in the western
+Himalayas, there would be increased variability of rainfall in large parts of the subcontinent. 
+
+While industrialized countries harness over 80% of their economically-viable hydropower potential, in India the figure is only 20%. In the water-rich northeast of the country, water can be transformed from a curse to a blessing only if major investments are made in water infrastructure.
+
+13. Cry of a River. The trouble with India’s toilets and drinking water.
+https://youtu.be/17DE2krqQMg
+
+The land where rivers are worshiped as goddesses, but not respected. 
+This documentary talks about the real truth and how we are bent on destroying our own water security.
+
+14. This is what we can do to secure India's water future ! 
+https://youtu.be/ezZi-ECSFgA
+
+Securing water for our future cannot be left on government's court alone. Unless, we all have put our stakes in the mission, there would not be any water left fit for drinking for our coming generations.
+This is what we can do to secure our water future.
+
+15.The future ain't look good, if we do not act now!
+https://twitter.com/News18Graphics/status/1108947398498217986
+
+******************************************************************************************************************************
+
+16. UNICEF is using Bempu bracelet from Bengaluru for saving lives of babies world over
+https://timesofindia.indiatimes.com/city/bengaluru/bracelets-from-bengaluru-saving-babies-in-papua-new-guinea/articleshow/68506811.cms
+
+Neonatal hypothermia is a worldwide problem and an important contributing factor for Neonatal morbidity and mortality especially in developing countries. 
+Normal rectal temperatures in newborn is between 36.5 to 37.5 degres Celsius. Any further loss in temperatures than 36.5 degrees celsius onsets Hypothermia in newborns. It is further aggravated if babies have low weight, due to high surface area to volume ratio.
+
+Stanford University alumnus Ratul Narain of Bengaluru has developed a bracelet which alerts if infant's temperature drops below 36.5 degrees Celsius. The bracelet is tied to an infant's wrist, and as the temperature falls it flashes an orange light and sounds a beep as well.
+
+UNICEF is using the device as part of it's hypothermia prevention program, in developing countries.
+
+The device has certain limitations like it is intended for a single use and it's abttery does not last more than a month, besides being costing Rs.2,000 a piece.
+
+
+
+
+
+
+
