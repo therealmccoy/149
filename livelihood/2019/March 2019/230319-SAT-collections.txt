@@ -1,0 +1,149 @@
+****AI and Global Perspective; A Collection for the curious minds****
+**** *********************************************************** ****
+
+1.  'To be or not to be' – The questions surrounding AI technology
+https://youtu.be/3oE88_6jAwc
+
+Do we build on technologies that are autonomous, like drones and robots?
+Where do we draw the line? Do we start with the end in mind, with AI technologies?
+How will it end?
+AI does not understand the human nuances, it is up to us to introspect and build a system which is meant for respect to human dignity and fundamental rights.
+
+2. Social and Ethical implications of AI
+https://youtu.be/GboOXAjGevA
+
+We have a big responsibility about educating general public, on what is really going on in the AI world.
+And this is just not about the cool stuff, but the real stuff, about how it is going to impact each one of us (in 360 degrees way), and how do we take it forward, morally.
+
+3. The coming algorithmic apocalypse !
+https://youtu.be/iyG-A09bBt0
+
+The algorithms which we see in the consumer world today, are all meant to be 'for profit'. 
+Their primary aim is to maximise the profits for the corporations. And that's why they do not have any 'societal' concerns built in them.
+Corporations getting benefited at the perils of the society is the new endgame, and we are all party to it!
+What should we do?
+
+4. We all are 'augmented' now, and reality is not to be found at all !
+https://www.cio.com/article/3273565/the-societal-impact-of-ai.html
+
+What is the reality? or What is the truth?
+
+These two questions have confounded the best minds of humanity for centuries, leading to quests which often lasted for lifetime.
+But in our lives, we do not have to worry about such questions. 
+And it is so because, there is no 'reality' left at all. We all are 'augmented' now, as we see the world through 5 inches (more or less) of glass.
+
+Is everything good with today's technology, then what is wrong?
+
+It is not difficult to see that AI and related technologies are keeping us in our own silos and isolating us from the reality. Right from the pictures we see to the news we read. We are getting lost in 'connections' at the cost of forgoing the real ones.
+
+Are we really moving ahead with technology or we are regressing? 
+
+"In summary, if our emerging technology is going to merge humanity with the machine, augmenting our human intelligence with artificial intelligence, we need to manage the risk! The risk of isolation, the risk of losing our art of conversation, the risk of convincing ourselves that our pre-conceived biases are not only factually correct, but good."
+
+5. With great power, should come great responsibility!
+https://medium.com/datadriveninvestor/https-medium-com-charlottemurray-ai-ethics-with-great-power-comes-great-responsibility-2f537fd6a8f8
+
+When AI is going to change the humanity forever (already has done quite a lot in fact), those who are the front runners and the followers alike, have this responsibility to ensure, that they are not creating another 'Frankenstein'. Because there would not be a turning back, when the shit hits the fan.
+
+When we have moral code of conduct in our daily lives, ingrained since childhood; it is imperative that our creations, be it the algorithms or machines, also abide by them. Because in the machines, we 'humans' get manifested after all.
+
+The creators responsibility lies in ensuring that both algorithms and resulting machines which are created are fair, accurate and intelligent enough to avoid any tangible or intangible (bias, inequality) harm. And the creators should be open about how their creation works and the way it is going to influence the lives of the people using it.
+
+“When algorithms affect human rights, public values or public decision-making, we need oversight and transparency”
+
+“When people fly in a plane, they do not need to know exactly how the plane works to feel safe flying. They just need to know that the plane abides by certain aviation safety regulations”.
+
+*******************************************************************************************************************************
+**AI in Healthcare: Will data save the day?****
+**** ************************************* ****
+
+6. This is how AI would transform the discipline of medicine
+https://youtu.be/nUReWwR4FqM
+
+A great lecture / talk which starts from describing AI in a layman's language and then gravitates towards, how the recent advances in the field is taking the discipline of medicine to a radically new dimension.
+
+AI applied to field of medicine has the most promising potential to be 'good'.
+
+7. Early diagnosis,leads to early intervention and a life saved. This is where AI would impact most in healthcare.
+https://youtu.be/HrKzXLgGohA
+
+Patterns are everywhere in our lives, and so do they in diseases as well. But sometimes due to inherent human biases and prejudices, while so readily evident, they are often ignored or missed by even the finest of the medical professionals.
+An intervention at later stages, often means that even best of efforts might prove futile in saving the precious life.
+
+Machine Learning algorithms devoid of any prejudices and biases, are proving to be not only to be 'early detectors', but far better than what humans are at it. These algorithms are changing the paradigms of 'preventive medicine'.
+
+8. The 'Imitation Game' of Machine Learning would increase the healing powers of doctors
+https://youtu.be/rCkXW079cDM
+
+Greg Corrado, Co-founder of Google Brain and Principal Scientist at Google has been in his earlier avatar, was a neuroscientist.
+He explains how essentially, the Machine Learning algorithms essentially play the 'imitation game' in order to learn and better themselves and how they have the power to increase the healing powers of doctors manifold, which has not happened in last hundred of years.
+And that should come, as doctors embrace AI.
+
+9. Live-in robots, bridging the gap between doctors and patients
+http://time.com/5556339/artificial-intelligence-robots-medicine/
+
+The name Mabu is short for mabutaki, a Japanese word meaning to blink and mabudachi, or best friend.  
+Mabu is a personal healthcare companion, an intelligent and socially interactive robot, which could be programmed to the needs of individual patients needs. 
+Though she isn’t mobile, but she can make eye contact while carrying on a conversation with someone and is also capable of simple gestures with her head and eyes. She holds a tablet-like screen in front of her that she uses during conversations to convey additional information.
+She can reside with the patient and at routine intervals interact  to determine the health status, prompt reminders to take medicines and even exercises.
+She is designed to converse like a human, which is very essential in post-operative health care management, where the patient might feel lonely and desires more care and attention.
+Without the need of doctor being present on site, Mabu helps the doctors keep track on the patients well being, through her.
+
+10. 'Tell-All' AI chatbots and avatars are relieving people from anxiety and depression
+https://www.vox.com/science-and-health/2019/3/15/18264314/ai-artificial-intelligence-deep-medicine-health-care
+
+Technology once promised that world would be more open and connected, but the truth of the matter is, 15 years hence, people are living lives which have never been more lonelier. Real life interactions are drastically limited and face time happens only through five inches screens.
+This is increasing the loneliness among all genre of people, and age is not a filter either.
+In a surprise study, it has been found that people are more open to AI chatbots, to reveal their darkest secrets, rather than their close human beings and not even doctors. And this helping them overcome their anxieties and survive depression.
+
+“Some think it’s a breakthrough. Others are sceptical it’ll help. But there’s such an absurd mismatch between what we need to support people’s mental health conditions and what’s available. So if this does work — and it looks promising this could be a vital step forward to helping more people.”
+
+*******************************************************************************************************************************
+
+****AI and the Elderly: Maybe AI bots can do better than humans?****
+**** ********************************************************** ****
+
+11. Mabu – A robot companion and healthcare aid for the elderly
+https://youtu.be/x1Qu1YKZA0Y
+
+Most of the developed nations are facing an accurate shortage of people who can take care of elderly people in the healthcare system.
+Mabu is a robot which can monitor health, read facial expressions and emotions and send the encrypted data to the concerned doctor for decision making.
+While a healthcare provider might be out of reach for many, a robot like Mabu can surely fit in to many homes.
+
+12. Loneliness has a cure, in terms of robots, for those over 65 years of age
+https://youtu.be/XuwP5iOB-gs
+
+Rise in elderly population has become a 'democratic time bomb' in many countries. 
+People over the age of 65 are chronically lonely, having no one to even share a laugh.
+Robots are being developed where, they can be a companion to such elderly people.
+
+13. Japan is relying on robots for the care of it's aging citizens
+https://youtu.be/ppPLDEi82lg
+
+Soft fluffy robots, with sensors inbuilt and who response on touch are the new companions of elderly population of Japan.
+Paro is one such robot which is is proving extremely helpful specially in care of dementia patients.
+
+14. Buddy, is the buddy of elderly people !
+A report from the US Administration on Aging reports that more than 30%, well over 11.M adults, live alone!
+
+Social isolation and loneliness though are associated with a greater risk of dying in elderly, it is the isolation which is more important.
+
+"One of the reasons we developed BUDDY, the companion robot, was our belief that BUDDY would be an excellent companion for senior citizens.  BUDDY can ensure the well-being of senior citizens at home by providing social interaction and assistance, can remind them about upcoming events, appointments and deliveries.  In addition, on behalf of care givers, BUDDY can monitor the homes of seniors who choose to live alone. He can detect falls and unusual activity and provide medication reminders. In addition, BUDDY can ease loneliness by seniors with social interaction. With BUDDY, seniors can access communication technology, like Skype and Facetime, with much more simplicity."
+
+15. Washington State University tests 'Robot Activity Support System' for elderly care
+https://www.sciencedaily.com/releases/2019/01/190114130913.htm
+
+Currently, an estimated 50 percent of adults over the age of 85 need assistance with every day activities such as preparing meals and taking medication and the annual cost for this assistance in the US is nearly $2 trillion.
+With the number of adults over 85 expected to triple by 2050 in US robot activity support can ease the burden on US healthcare system to some extent.
+
+The Robot Activity Support System, or RAS, uses sensors embedded in a WSU smart home to determine where its residents are, what they are doing and when they need assistance with daily activities.
+It navigates through rooms and around obstacles to find people on its own, provides video instructions on how to do simple tasks and can even lead its owner to objects like their medication or a snack in the kitchen. 
+
+
+
+
+
+
+
+
+
