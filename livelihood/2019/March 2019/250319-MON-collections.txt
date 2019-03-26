@@ -1,0 +1,95 @@
+1. 287 Crores worth of fuel can be saved daily in India through use of electric buses
+https://www.indiatimes.com/auto/current/electric-buses-are-killing-oil-demand-at-a-very-fast-rate-and-china-is-leading-the-way-364149.html
+
+Buses which are much larger in size and do more number of trips ina  single day, than the smaller vehicles are the protagonists in the EV story. Since they consume larger amount of fuels, they also present the larger opportunity of fuel savings.
+
+A total of 500 barrels of diesel are displaced each day for every 1000 electric buses on the road. In comparison, only 15 barrels are displaced through the same number of electric passenger vehicles. If we calculate on same lines, it is estimated that within India, savings of Rs 287.6 crore can be achieved in a single day.
+
+2. Hitachi Systems to help in combat of bullying in Japanese schools with AI
+https://www.independent.co.uk/news/world/asia/japan-artificial-intelligence-bullying-schools-ai-a8836971.html
+
+City of Otsu has joined Hitachi Systems to develop an AI system which would detect bullying in the city schools. The AI system would be developed after analysing 9,000 suspected cases of bulling reported in it's elementary and junior high schools over last 6 years.
+
+The system is expected to identify gender of victim and perpetrators, when and where the bullying occurred and the intensity of the event.
+
+"The education board believes the analysis, expected to be completed by October, will make known the characteristics of bullying to help teachers identify cases in their classrooms."
+
+3. PUBG aiming towards sanity, locking out players after long duration of play and serving 'health reminder'
+https://www.digit.in/gaming/pubg-mobile-reportedly-locking-out-players-with-a-health-reminder-notice-47091.html
+
+PUBG has been much maligned for causing significant emotional trouble in the minds  of it's players. Most of it's players are already addictive to game, due to the intrinsic strategies built in the game. Things have come to such pass, that several deaths have been reported in India attributing to PUBG and many cities have banned the game.
+
+Now, PUBG has started locking out the players after long durations of 2 hours continuous play and serving them a 'health reminder'.
+**********************************************************************************************************************************
+
+****There ARE Crazy AI Patents that give you a peek into the (dark) future****
+**** ******************************************************************** ****
+
+4. Walmart wants to snoop on conversations between store associates and shoppers
+https://www.retaildive.com/news/walmart-wins-patent-for-in-store-audio-monitoring/527822/
+
+While in retail industry it is paramount to study and improvise on the interactions between store employee and shoppers in order to increase store productivity, Walmart intends to take the paradigm to a completely new level.
+
+The company has been awarded a U.S. patent for a "listening to the front end" technology that could be potentially used to build a system of sensors to monitor various shopping activities inside of a store, including listening to interactions between store associates and shoppers.
+
+In layman terms it could be called 'involuntary audio surveillance'.
+
+5. Ford patents a system through which you can drive a car by mobile phone
+https://www.cnet.com/roadshow/news/ford-patent-self-driving-car-phone-steering/
+
+Ford Motors have patented a system (non-autonomous steering modes) through which a touch-screen device can be converted as a steering system for a vehicle.
+
+One of the ways which Ford has envisaged is turning the device in to a steering wheel. Control from the vehicle steering system could be passed on to the device through a request, and then a 'base position' is determined for the steering wheel after the vehicle and device are in sync.
+The device then can be used as a steering wheel.
+
+6. Amazon has patented a 'human transport device' which places employees in cages
+https://www.dailymail.co.uk/sciencetech/article-6152089/Amazon-wants-workers-CAGES-oversee-robots-bizarre-patent-suggests.html
+
+Amazon has patented 'System and method for transporting personnel within an active workspace' which describes a system which lets a human safely navigate and work in a place which is dominated by moving robots.
+In layman terms it is a 'human transport device', wherein a human stands on top of an automated trolley which is encased by a cage for safety. A robotic arm would also be added to the cage, which can be operated by the human inside the cage, to fetch ofr items and other uses.
+
+Currently on Amazon's workplace, humans are not allowed to enter where robots are operating.
+
+7. Lyft's patent of a communication system for self-driving cars with nearby humans
+https://www.engadget.com/2018/12/11/patent-lyft-self-driving-cars-communicate/
+
+The patent document describes how the self-driving cars might communicate with those around them in future. One image shows a car displaying the intended passenger's name as it approaches them while another depicts a self-driving car notifying a pedestrian that it's safe to walk in front of the car. The patent also includes images showing a self-driving car letting another vehicle know it's yielding and informing a cyclist that it's safe to pass.
+
+8. Amazon's patent to read your emotion and physical state and sell advertisements based on it
+https://www.theatlantic.com/technology/archive/2018/10/alexa-emotion-detection-ai-surveillance/572884/
+
+Traditionally Amazon has not been named as an 'advertising company' but it is moving into domain of Google and Facebook swiftly.
+It has patented a technology that would let it's smart speaker Alexa to monitor users’ emotions, analyse the pitch and volume of speaker commands, and respond according to how they’re “feeling.” 
+Eventually, Alexa may come to recognize “happiness, joy, anger, sorrow, sadness, fear, disgust, boredom or stress” and respond to commands accordingly, maybe with “highly targeted audio content, such as audio advertisements or promotions.”
+
+9. Facebook also wants to know, where you are going and has patented a system
+https://www.engadget.com/2018/12/11/facebook-patent-location-tech/
+
+Knowing someone's location prior in advance has many inherent advantages, for both individuals and corporations alike. For corporations who survive and thrive on selling advertisements, this could virtually mean adding another 'goldmine' to their future revenue pipeline. Highly 'relevant' ads could be thus targeted at individuals, basis on where they are going to be.
+
+Facebook has filed a patent application entitled "Offline Trajectories" for a technology can predict where you're going "based at least in part on previously logged location data." The system will use a user's previously logged location, as well as other people's, to make predictions.
+
+10. Microsoft wants us to whisper into voice assistants and has a patent for the technology
+https://www.engadget.com/2019/01/03/microsoft-patent-whisper-voice-assistants/
+
+"Although performance of voice input has been greatly improved, the voice input is still rarely used in public spaces, such as office or even homes," says the patent filing.These are not technical issues but social issues. Hence there is no easy fix even if voice recognition system performance is greatly improved."
+
+This is what Microsoft's patent application says for a system which could allow users to whisper into their voice assistants.
+
+The system is being called "silent voice input," and is a novel way for people to use voice input technology, but quietly. 
+
+**********************************************************************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
