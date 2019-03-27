@@ -1,0 +1,34 @@
+****AI in Farming: Will the magic count?****
+**** ********************************** ****
+
+1. The way to feed 10 billion people in 2050
+https://youtu.be/Qmla9NLFBvU
+
+From autonomus pickers which can pick twice fast as humans to drones which can precisely pick up weeds and spray pesticides, these are some of the innovations which is being deployed to feed the burgeoning human population, which would reach 10 billion in 2050. 
+
+2. AI for precise forecasting of optimum sowing date for crops
+https://youtu.be/GSvT940uS_8
+
+ICRISAT and Microsoft together have developed a sowing application which forecasts the optimum sowing date for the famers of Andhra Pradesh. The application uses Cortana Analytics to determine the sowing date based on weather and soil conditions. The pilot project indicated an average increase of 30% in per hectare yield with the use of application.
+
+3. The advent of AI farming with the use of Data Science 
+https://youtu.be/chfIo1O0Cpk
+
+Vertical indoor farms are future of farming, not only because they can resist the vagaries of nature, but also because they require much less land and water usage.
+Combining it with Machine Learning, Computer Vision and Robotics, in some cases the yield has been found to increase by 100 times.
+This talk describes how to build an AI farming technology infrastructure, tools and techniques.
+
+4. Disease infestation detection with drones
+https://youtu.be/v3YcZtlVrls
+
+Timely detection of onset of an infection in crops could mean safeguard against a disappointing loss of crops. While small farmers could still rely on visual infection, for large farms it is not possible. That's where drones combined with Computer Vision are helping farmers in detecting areas of a crop field which are infested with disease and then apply remedial measures on a timely basis.
+Specially useful for crops which have a high density of plants per acre, where the chances are that many a times some individual plant would escape the routine normal eyesight inspection.
+
+5. AI drones for cutting the feed cost in fishing
+https://asia.nikkei.com/Business/Business-trends/Japan-s-fish-farmers-deploy-AI-and-drones-to-feed-hungry-world
+
+Feed is the single biggest cost in fishing operations, averaging at about 60-70% of the total cost. With the climate change triggering different patterns each year, the fishes are hard to come easy, which means more and more use of feed, when the precise location of fishing shoals is based on trial and error or traditional methods.
+
+Now Japanese companies are employing AI technology in drones, which can spot the shoals of fish and can even estimate their size and volume, giving the fishing farmer an instant estimate of the value of their catch, with which they can determine if the fish is worth the trouble and cost or not!
+
+
