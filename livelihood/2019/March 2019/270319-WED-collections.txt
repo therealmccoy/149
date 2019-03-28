@@ -1,0 +1,114 @@
+1. Indian Armed Forces ushers in to AI era with AI analysing it's military satellite photos
+https://i-hls.com/archives/89977
+
+India has a vast expansive fleet of satellites for strategic reconnaissance and surveying areas of interests. At present, identifying and locating military objects and potential targets in overhead surveillance pictures is done manually by intelligence personnel trained in imagery interpretation.
+
+India’s Armed Forces have recently initiated a project to adapt artificial intelligence for identifying and indexing military objects in aerial photographs or videos. Under the project, artificial intelligence and deep learning technology would be used to develop engines and algorithms to analyse satellite photographs as well as video feeds from unmanned aerial vehicles (UAV) for detection, classification, pattern recognition and decision support in real time.
+
+2. Google launches ATEAC focussed on AI ethics
+https://www.blog.google/technology/ai/external-advisory-council-help-advance-responsible-development-ai/
+
+To implement the AI principles which the company announced in June 2018, Google has announced formation of a global council , Advanced Technology External Advisory Council (ATEAC). This group will consider some of Google's most complex challenges that arise under it's AI Principles, like facial recognition and fairness in machine learning, providing diverse perspectives to inform our work. 
+
+The eight member council consists of members from diverse fields such as diplomacy, philosophy, public policy, psychology, behavioural economy and computation.
+
+3. Canada says AIA (Algorithmic Impact Assessment) is must before deploying new AI Systems in federal government
+http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592
+
+Canada has issued a directive titled "Directive on Automated Decision-Making". It applies to any system, tool, or statistical models used to recommend or make an administrative decision about a client (The intended recipient of a service. Clients may be external (citizens, businesses, non-Canadians, or organizations, e.g., non-profit) or internal to government (departments).)
+
+The objective of this Directive is to ensure that Automated Decision Systems are deployed in a manner that reduces risks to Canadians and federal institutions, and leads to more efficient, accurate, consistent, and interpretable decisions made pursuant to Canadian law.
+
+4. Students have stopped skipping breakfast when robots started delivering: The George Mason University story
+
+https://www.washingtonpost.com/video/business/technology/this-self-driving-robot-delivers-food-to-george-mason-students/2019/01/24/a0aa36b1-9b0d-4bba-8b3c-6463e4667212_video.html
+
+Students in all places and all age groups are notorious for skipping breakfast, with a myriad of reasons to be used as an excuse, being lazy is definitely not counted among one of them.
+Since robots started delivering food at a George Mason University's school, additional 1500 breakfasts have been served autonomously in last two months.
+“Research has shown that up to 88 percent of college students skip breakfast, primarily because of lack of time, but that number is starting to turn around when delivery robots arrive on campus.
+
+5. Public Transport Permit must for availing FAME-II electric vehicle incentive
+https://www.businesstoday.in/sectors/auto/electric-vehicles-must-produce-public-transport-permit-from-april-to-avail-fame-ii-sops-govt/story/330778.html
+
+Since the biggest incentive of switching from fossil fuel to electric lies in changing the way public transport (passenger and goods both), as they are the biggest consumers, Government Of India has announced new guidelines for availing FAME-II incentives.
+
+From 1st of April 2019, electric three-wheelers and four-wheelers will have to produce a valid permit from a government agency stating that the vehicle will be used only for public transport purposes, to avail incentives under the Rs 10,000 crore FAME India scheme.
+
+"In the e-3W, e-4W and e-Bus segments, incentives will be applicable mainly to vehicles used for public transport or those registered for commercial purposes. However, for e-2W segment, incentives are also applicable for privately owned vehicles in addition to those used for public transport or for commercial purposes"
+
+6. PUBG eating it's users for lunch? : Earned (much more than) Rs.19 Crores everyday in 2018
+https://www.foxsportsasia.com/esports/pubg/1022623/pubg-made-over-1-billion-in-revenue-in-2018/
+
+SuperData which is a Nielsen company has reported that PUBG earned $1 Billion in 2018. It has been ranked as "Highest Earning Premium Game in 2018" by the agency. It's earnings were up 17% over 2017.
+
+The most important thing to note here is that SuperData’s figures covered only the PC, PS4, and Xbox One versions of PUBG, and not PUBG Mobile. It has been a blazing craze in India and China, where most of it's players are mobile users.
+
+The game has raced ahead of even of FIFA 18, Grand Theft Auto V, and Red Dead Redemption 2.
+
+7. The unknown societal change which TikTok has ushered in : Tipping
+https://www.mobilemarketer.com/news/tiktok-grosses-75m-from-virtual-currency-sales/551183/
+
+People like to consume 'great' but usually they do not like to 'tip'. 
+
+However, TikTok is ushering a change which has all the potential to gravitate to offline world also, as the realms of 'offline' and 'online' have almost blurred now.
+"Tipping" content creators with virtual currency is one way audiences show their appreciation for content creators on TikTok. Tipping helps to support creators and gives them greater incentive to produce high-quality content.
+
+TikTok earned $75 million from sale of virtual currency in 2018. This is in spite of the fact that company neither advertises it's digital coins, nor promotes it's sue in any manner whatsoever.
+
+8. Tracking the progress of ICU patients by their movements with AI
+https://www.technologyreview.com/s/613165/a-new-study-shows-what-it-might-take-to-make-ai-useful-in-health-care/
+
+While it is a well established fact that movement in ICU patients can accelerate their healing and reduce muscle atrophy and delirium, keeping a track their movements at a scale was not possible this far. The exercise was limited to human monitoring by Nurse's who were already burdened with high-pressure job of an IUE attendant.
+
+Now with the help of depth sensors and the three-dimensional silhouette data which they generate 24 hours, putting a vision algorithm to work on it, the progress of patients can be monitored on large scale. 
+While accuracy of algorithm currently varies between 68 to 87%, it can be improved with installation of additional sensors.
+
+9. Challenges in en-cashing opportunity in old unusable handsets
+https://www.thehindubusinessline.com/specials/clean-tech/wheres-your-old-handset-headed/article26646013.ece
+
+With 161 million smartphones sold in India in 2018, adding up to the mile high in the sky are the old discarded handsets, majority of them cannot be reused.
+Convincing people to part with their old handsets is the biggest problem, people are not willing to forego them without any financial incentive.
+Collecting handsets from people affords another economical challenge, since the country still dos not have any e-waste collection mechanism, either in public or private space. 
+Some companies are making a sound business models out of it, by having kiosks and retail touch points to buy old handsets, including non-working one and providing data erasing and on-the-spot-cash incentive.
+
+10. It could happen in Bihar. Muzaffarpur shows the way in municipal waste management
+https://waste-management-world.com/a/solid-waste-management-pledges-from-over-100-indian-cities
+
+Muzaffarpur has become one of the cleanest cities in Bihar with all 49 wards segregating waste at source. The segregation percentage has reached over 80%. The city has currently three processing centres which also includes Bihar’s first learning centre on composting. All this transformation has happened within a period of two odd years.
+
+“Indian cities continue to struggle with waste- of the total 52 million tonnes that is generated yearly, only 21% is processed and over 50% is disposed in dumpsites, drains and thus contaminating our rivers and oceans. What is required is source-segregation, proper treatment, recycle and reuse of the waste. Zero landfill should be the goal of municipal waste management in India."
+
+11. The 12.3 billion (disposable) problem of menstrual sanitary napkins in India
+https://www.downtoearth.org.in/blog/health/the-mammoth-task-of-managing-menstrual-waste-in-india-63376
+
+It is estimated that India has 121 million women in India who use menstrual sanitary napkins, which amounts to 12.3 billion sanitary napkins to effectively dispose every year.
+Currently, only Bombay and Pune have implemented ways to identify and segregate menstrual waste during garbage collection.
+Problem compounds with he fact that most of the commercially available sanitary napkins use plastics which is non biodegradable due to which disposable options like composting do not work.
+
+Waste-to-energy incineration is one solution which could be employed but they are too few to matter at present.
+
+12. Vaijapur in Maharashtra becomes garbage free with determination in three years
+https://timesofindia.indiatimes.com/city/aurangabad/vaijapur-gets-recognition-for-waste-management/articleshow/68214523.cms
+
+Vaijapur in Aurangabad district of Maharashtra is mostly known for it's religious temples and samadhis. Now it has one distinction which is self-made, with help of civic administration and citizen alike, of which it can be proud of. The town has become garbage free in three years. The path was long and arduous from training the civic staff on the importance of sanitation and it's process,mapping the garbage disposal vehicles route effectively and endearing citizens to segregate waste at their location. 
+
+The result is least to say, impressive with hundred percent segregation and door to door waste collection tin the town.
+
+13. India imposes complete ban on solid plastic waste imports
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
