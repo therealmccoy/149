@@ -1,0 +1,118 @@
+****The Business of Podcasting [Where do we go now]****
+**** ********************************************* ****
+1. Pocasting in 2019
+http://www.niemanlab.org/2019/03/podcast-is-growing-out-of-its-teen-years-and-facing-a-new-identity-struggle/
+
+Podcasting has turned a corner since it started in 2014, when it was just a new 'cool' trend, which everyone was trying. In 2019, everyone wants to get into podcasting (including the top music streaming companies) because as a business it i snow making sense. From just 'hit-and-trial' it has almost arrived.
+
+Many companies are now taking podcast behind closed paywalls, which defeats the very purpose of it. The companies whop are going to survive now, are those who have great money to spend on getting quality content.
+
+The podcast identity problem permeates to podcasters also, who are facing dilemma between accepting money for their podcasts and go behind a wall, or to keep it for 'everyone' and have sutainability issues.
+
+2. When the distributors restrict the discovery of podcasts - Distributor v/s Podcaster
+http://www.niemanlab.org/2019/03/the-great-british-brush-off-the-bbc-and-google-are-fighting-over-who-gets-to-control-the-podcast-experience/
+What is more important for a podcaster, distribution or discovery? 
+
+This is the question which is going to fumble most of the mind and there is no easy answer to it.
+Most of the tech majors have their own podcast apps now, and in lieu of provding an 'access platform' which is unmatched, they are trying to throttle the discovery of those podcasts on other apps or platforms. The problem confounds manifold, if you add search monopoly to it.
+A classic duel is going on between BBC and Google, where each one is fighting for supremacy. Google is sending the search queries of BBC's podcasts to its own app only, restricting discovery. BBC wants internet to be free.
+
+3. The 'Prison Term' looms large over the podcast listeners
+https://www.fastcompany.com/90315635/why-podcast-fans-will-always-reject-a-netflix-for-podcasts
+
+Recent upheavals in podcasting industry has brought the 'video' in podcasting. Companies are trying to emulate the 'exclusive content' strategy of video in all forms in podcasting too. Exclusive content, Exclusive content for a time window etc. If users can switch between Prime, Netflix and Hulu for exclusive contents, then why not in Podcasts after all?
+
+Podcasting which started as a real democratic radio is now gravitating towards 'autocracy' where media companies akin, podcasting startups would now decide, what the users listen to and what not, and of course one has to pay for that too. Podcasters have a choice to make, to let their fans go in to the 'prison' or make a direct connection with them supported by advertising.
+
+4. Advertising or Subscription? - The answer could be 'both' for revenue stream of podcasting !
+https://www.recode.net/podcasts/2019/3/21/18275323/podcast-business-model-advertising-ads-subscriptions-jacob-weisberg-luminary-peter-kafka-podcast
+
+The current duel in podcasting business for both podcasters as well as apps is choosing between subscription or advertising. Companies do not want advertising on the pretext of saving it from misery. 
+
+While the listeners have no trouble with advertising (unlike video), some listeners go as far as claiming that listening ads on some podcasts is more entertaining ( since they do not interrupt the experience) than listening to the content itself.
+
+The compromise might be the best solution where there are multiple revenue models involving both subscriptions and ads, so that listeners can choose what they want. That is the way to keep both podcasting and it's listeners 'free'.
+
+5. The problem of 'discovery' and 'narration discovery' of podcasts
+https://brettbivens.com/2019/02/01/podcast-discovery-isnt-a-a-company-maybe-narrative-discovery-should-be/
+
+With multitude of podcasts apps and subscriptions, finding the right 'signal' is becoming a huge problem. The problem with subscriptions is that free contents are swept downwards in favour of paid ones and once can miss many a 'hidden gems' and top quality 'dark matter'. With content adding up everyday, listening to the right content at right time, is often missed.
+
+One can suddenly recollect some topic or vague idea and wants to search for that 'topic', it is painful to do so.
+
+Even if the right podcast is located, one has to start tight since beginning to find the 'G Spot', in what could be termed as 'Narration Discovery Problem'.
+
+6. Podcast discovery is a feature, and not product !
+https://hunterwalk.com/2019/01/12/podcast-discovery-is-a-problem-but-its-not-a-company/
+
+Like any other media, there would be always some content which could be missing from the ears of the listeners, but that does not makes 'podcast discover' a sound stand alone business. The number of users who are consistently looking for 'hidden' content is not sizeable enough to warrant such a business model. And this so because, there is no dearth of content.
+
+ Because of wide choice available, less people go on 'finding trips'.
+
+Big companies like Spotify jumping in to fray, they would try to solve the problem with technology, making discovery just a feature. Curation and Summary based newsletter are far more interesting business models, than search and discovery!
+
+**********************************************************************************************************************************
+
+7. Kempegowda International Airport at Bangalore to monitor construction progress with drones
+https://timesofindia.indiatimes.com/city/bengaluru/drones-to-monitor-kempegowda-international-airport-construction-projects/articleshow/68589437.cms
+
+To monitor the new construction projects currently under way at various locations, Kempegowda International Airport at Bangalore would deploy drones to capture high resolution videos and photographs of construction activities at various locations.
+
+The airport is currently building a new terminal (T2) ,a New South Parallel Runway, Apron Project and Forecourt Project. The total area involved in these projects is more than 1,000 acres. BIAL has already issued tenders for this project.
+
+8.The real time Apple recognising (and picking) robot which works on 'self-driving vehicle technology'
+https://www.wired.com/story/apple-robot/
+
+An Apple epicking robot which can work 24 hours, working non-stop, picking only ripe fruits works on the same technology on which the most modern self-driving vehicles currently work on, LIDAR. The robot does not even damage the trees or fruits and not only pinpoints the fruit, but also it's ripeness with computer vision algorithm.
+
+To facilitate the use of these robots, even the farms and it's Apple trees are being 'converted', shortened and flattened trees are the new order of the day.
+
+"“Picking fruit is heavy work.To pick a hectare of apples involves pickers collectively doing something like 5 vertical miles going up and down ladders. With mechanization and robotics, it allows us to take out a lot of the heavy work.”
+
+9. TikTok launches 'Safety Centre' in ten Indian languages
+https://tech.economictimes.indiatimes.com/news/internet/tiktok-launches-safety-centre-in-10-indian-languages/68597641
+
+TikTok has launched it's Safety Center in India. It is a website that consists of safety policies, tools, and resources to equip users with product education and protection measures.
+The Safety Centre is available in ten major Indian languages and apart from guidelines, it also links out to two resource pages tackling anti-bullying as well as an advisory for the upcoming General Elections. The ten major local languages - Hindi, Gujarati, Marathi, Bengali, Punjabi, Telugu, Tamil, Kannada, Malayalam and Oriya.
+
+“With the launch of our localised Safety Centre along with our resource pages for Anti-Bullying and the General Elections, we aim to reaffirm our commitment to India and ensure a safe and positive online environment.”
+
+10. From Mobiles to Motorcycle, Rahul Sharma continues to ride
+https://twitter.com/rahulsharma/status/1110817135993876480?s=12
+
+Rahul Sharma is riding 'solo' this times, sans the Micromax brand, to bring two-wheeler EVs to India and re-create the same 'magic' he did with smartphones. The project entails an investment of Rs.500 Crores and would have a 1 Lac Sq ft facility at Manesar, near Gurgaon.
+
+The yet to be named brand is expected to launch by July this year.
+
+11. IIT Delhi engineers build an AI system which can detect Malaria, TB and Cervical Cancer in mili-seconds
+http://bwcio.businessworld.in/article/Artificial-Intelligence-System-By-IIT-Delhi-Researchers-Detects-TB-Malaria-Cervical-Cancer-in-Milliseconds/26-03-2019-168485/
+
+The IIT Delhi engineers from Department of electrical Engineering, have demonstrated a proof-of-concept (PoC) low-power rapid AI hardware implementation based microscopy diagnostic support system for four different diseases: Malaria, Tuberculosis, Cervical Cancer and Intestinal Parasite Infection.
+
+This microscopy based diagnosis does not comes with the handicap of skilled-technicians.
+
+“While several software AI models exist for healthcare and diagnostic related applications, need of the hour is to efficiently map these models on portable dedicated low-power, low-cost hardware to enable edge-AI systems accessible to all in low resource environment."
+
+12. The fight against 'Food Addiction' would determine what we would consume in future
+https://www.ecowatch.com/food-companies-making-products-addictive-2632845184.html
+
+When you are what you eat, the genetic identity is on the verge of being corrupted of hundreds of thousands of individuals, who are being fed food which are addictive.
+
+A tablespoon of the super sweet stuff packs in roughly 53 calories, 14.4 grams of carbohydrates and 5 grams of sugar, while an entire ear of corn has about 123 calories. It's much easier to ingest extra, empty calories when they're processed down to a sugary additive, which enhances the flavor of processed foods.
+
+"Humans have an inherited preference for energy-rich foods like fats and sugars and thus natural selection has predisposed us to foods high in sugar and fat. Food scientists know this and create ingredients that are far higher in fat and sugar than occur in nature. The most common such sugar is high-fructose corn syrup and is therefore intrinsically addictive." 
+
+13. Amazon grants $10 million towards research for fairness in artificial intelligence
+https://www.cnet.com/news/amazon-to-fund-10m-to-improve-fairness-in-ai-research/
+
+Amazon has received a lot of flak in recent times over it's deployment of facial recognition and other technologies with law enforcement agencies, moreover when these systems have been found to be lacking on many ethical and humane fronts, and the company has repeatedly denied to submit it's system for independent inspection and authorisation.
+
+The company announced recently that it is working with the US National Science Foundation to give a total of $10 million in research grants over the next three years to help improve fairness in artificial intelligence.
+
+"We believe we must work closely with academic researchers to develop innovative solutions that address issues of fairness, transparency and accountability and to ensure that biases in data don't get embedded in the systems we create. Funded projects will help to enable broadened acceptance of AI systems, helping the US further capitalize on the potential of AI technologies."
+
+
+
+
+
+
