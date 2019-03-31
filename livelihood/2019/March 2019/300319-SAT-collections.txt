@@ -1,0 +1,48 @@
+1. 'Charging on the move' - Waaree Energies launches solar panel for electric vehicles
+https://www.business-standard.com/article/pti-stories/waaree-energies-introduces-customized-solar-modules-for-electric-vehicles-119032700840_1.html
+
+India's largest solar photo-voltaic cells manufacturer Waaree Energies (1.5GW manufacturing capacity) has launched customised solar modules which could be fitted to electric vehicles.
+These solar modules would not only help in running ancillary functions of electric vehicles like running AC and refrigeration units, they would complement the charging function, bringing to reality, charging on the move and lower running cost of an EV.
+These modules would be built at Surat plant of the company.
+
+2. TikTok and the business of Wit - Why it conquered the world
+https://www.rollingstone.com/culture/culture-features/i-spent-a-week-on-tiktok-811361/
+
+Shakespeare rightly said that " - Brevity is the soul of the wit !"
+
+TikTok creators realised long ago that Wit cannot be produced in long form, specially in today's world where attention span lasts in seconds. And this forces people to be wildly imaginative and creative to produce content which could capture a viewer's attention and garner appreciation in 15 seconds.
+
+With users it becomes a virtuous (and viral) cycle of rinse and repeat. 
+
+You do not only want to do better than "last 15 seconds" but also better than "someone else's 15 seconds" and when you have a billion users trying to get on top, you build a juggernaut, which cannot be stopped.
+
+3. The 'Five Musketeers' (UK, Australia, Israel, Russia and US ) are opposing ban on killer robots
+https://www.theguardian.com/science/2019/mar/29/uk-us-russia-opposing-killer-robot-ban-un-ai
+
+UN secretary general, António Guterres, terms lethal autonomous weapons systems as “morally repugnant” but still the talks being held at UN for a pre-emptive ban on killer robots have been thwarted by a group of countries which include UK, US, Australia, Israel and Russia.
+
+Almost all of these countries have already made substantial investment in creating such systems (lethal drones are first off the block) in order to win the next arms race being fuelled by AI.
+
+“We urgently need a ban on killer robots.The majority of states get it. A rapidly growing proportion of the tech community get it. Civil society gets it. But a handful of countries including the UK are blocking progress at the UN.”
+
+4. Finland's prison inmates have a new vocation of Data Labelling - Thanks to an AI Startup 
+https://www.technologyreview.com/the-download/613246/an-ai-startup-has-found-a-new-source-of-cheap-labor-for-training-algorithms/
+
+Vainu is a startup which is building a comprehensive database of companies around the world that helps businesses find contractors to work with. For this to work, people need to read through hundreds of thousands of business articles scraped from the internet and label them accordingly.This labeled data is then used to train an algorithm that manages the database.
+
+For labelling in Finnish language it is using prison inmates in Finland and paying them Amazon's Mechanical Turk wages. The department overseeing the prisons however decides how much money is paid to inmates and who would be fit enough to do the job.
+
+Finland also has the most liberal prison and correction systems in the world.
+
+5. The cultural shift, required towards 'Failure' for the success of the company!
+https://www.hrdive.com/news/how-to-encourage-employees-to-fail-for-the-good-of-the-company/551133/
+
+Cultivating growth mindset in employees requires a big cultural shift, where 'success' is prided above everything else.
+
+When change is the only constant, taking safe bets which could ensure short-term success but not lead to new avenues and growth in future could mean delinquency for the firm in future. True potential of both the individual and company could only be realised when the employees are encouraged to look far and beyond, seek challenges and allowed to fail and thus learn with them.
+
+"If leaders openly share their struggles and past failures, and what they learned from them and encourage others to do the same, they will show the value of a growth mindset."
+
+
+
+
