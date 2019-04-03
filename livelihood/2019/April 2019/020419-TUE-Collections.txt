@@ -1,0 +1,115 @@
+****How to Decide? Learn from various decision making frameworks****
+**** ********************************************************** ****
+
+1. The Regret Minimization Framework
+https://youtu.be/jwG_qR6XmDQ
+
+Decisions are easier to make when one views it from the hindsight ie from the long term perspective. 
+Would it be something which I would be proud of in front my kinds? 
+Is that something which would make me happy remembering it, when I am at 80?
+
+Jeff Bezos talks about here, about the 'Regret Minimisation Framework' which means, go for that 'decision' which you would not regret making in the long term. For him, it was whether to quit his job or not to start Amazon? 
+Definitely today, he does not regret his decision to quit D.E. Shaw, and thus he made the right decision, at the hindsight!
+
+2. Eisenhower Matrix
+https://www.inc.com/sean-kim/how-warren-buffett-and-jeff-bezos-make-smarter-decisions.html
+
+Dwight D Eisenhower was the Supreme Commander of the Allied Expeditionary Forces in Europe in World War II and then later also served as 34th President of United States.
+Being a Five Star General and the most important person on the planet he faced innumerable very tough decisions, and thus he developed a very elegant and simple method of decision making. 
+
+Essentially, it was all about deciding between a matrix of, what is urgent and what is important.
+
+Urgent and important (tasks you will do immediately)
+Important, but not urgent (tasks you will schedule to do later)
+Urgent, but not important (tasks you will delegate to someone else)
+Neither urgent nor important (tasks that you will eliminate)
+
+"What is important is seldom urgent and what is urgent is seldom important."
+--Dwight Eisenhower
+
+3. Naval Ravikant's 3 Heuristics for Decision Making
+https://youtu.be/3tnOc32k7Ac
+
+A.) If you cannot decide, the answer is already 'No'. There are myriad of choices available on this planet, and there would always be another option. So say 'Yes' only when you are definite!
+
+B.)If you have two choices and they are relatively equal in weight, take the path of long-term gain and short-term pain.
+Hard Choices, Easy Life and Easy Choices, Hard Life. Compounding works only in long-term and from that's where all the real benefits accrue.
+
+C.) Make the choices which leaves you more 'equanimous' (calm and composed / peaceful) in the long term. Peaceful mind is a precursor to happiness and hence it is utmost essential to make decisions which would make us more calm and peaceful.
+
+4. No “yes.” Either “HELL YEAH!” or “no.” from Derek Sivers
+https://youtu.be/1ehWlVeMrqw
+
+Derek Sivers had been founder of CD Baby and is a renowned writer and blogger. He has the simplest of framework for making decisions.
+
+He believes that unless you encounter that rare something which completely blows your mind to jump and say, "Hell Yeah!", keep saying 'No' to everything which comes in between. 
+The great things happen in life by focussing on 'few right things' and hence it is essential to keep saying 'No' unless we happen to chance up0n that one thing which excites us immensely to immediately say, "Hell Yeah !" let us do this.
+
+5. The 'Two-Track Analysis' of Charlie Munger for making right decisions
+https://fs.blog/2013/04/munger-two-step/
+
+Charlie Munger has a two step filter through which he makes his every decision making problem to pass through. Essentially he divides the realm of decision making in to two: Real and Subconscious.
+
+1. Understand the forces at play : For every decision to make there are certain factors which govern the choices (rational), it is important to understand these real factors/interests/motivations and probabilities working behind those choices. That is the only way to make a rational choice, to understand the 'what' and 'why' of forces playing underneath them.
+
+2. Not getting strayed by the subconscious : Once the 'real' factors have been assessed and a decision is being arrived, it is highly likely that decision would be morphed by the subconscious minds playing the psychological tricks. Hubris, Bias and Prejudices are among them. It is essential to thwart this onslaught of subconscious mind for a rational decision.
+
+6. Sam Altman's decision framework for making right career decisions
+https://blog.ycombinator.com/notes-for-the-new-year/
+
+In today's world where career decisions are made on the basis of earning potential of the job, above everything else; which career to choose/shift also becomes a taxing decision.
+
+Sam Altman Chairman of Y Combinator and Founder of OpenAI has a simple solution to this dilemma. Taking cue from Jeff Bezos's "Risk Minimisation Framework", Sam further elongates it by adding "Impact Maximisation".
+
+The ideal career is the one where an individual can make maximum impact (for both self and towards society) and also does not regret her decision in the long term as well.
+
+"The framework I’ve found most useful for helping people think through career decisions is to consider both impact maximization and regret minimization—a decision that scores well on both is likely to be a good one."
+
+7. The three step "First Principle" framework of Elon Musk for decision making
+https://fs.blog/2018/04/first-principles/
+
+"First Principle" is a foundational proposition or assumption which cannot be deduced from any other proposition or assumption. Great philosopher Aristotle was the first to use the concept of "First Principle" which he described as the process of acquiring knowledge of "primary causes", down to it's elements.
+
+Elon Musk's recipe to work with "First Principle" involves three step:
+
+a) Write down the problem and the assumptions (usually carried forward as a baggage of someone else's presumption or some analogy) which you have.
+
+b) Apply the "First Principle" to those assumptions, and see if they (assumption) still stand strong.
+
+c) Once you are clear whether the assumptions hold true of "First Principle" (more often than not, they would not), work towards finding the new solution with the "FP" in mind.
+
+8. First learn and then decide (minus emotions) - Ray Dalio's "Principles"
+https://inside.bwater.com/publications/principles_excerpt
+
+Ray Dalio, founder of world's largest hedge fund Bridgewater Associates believes that harmful (negative) emotions are the biggest obstacle towards making a rational and objective decision.
+
+In his book "Principles" he outlines the two-step process of decision making, which entails first grasping and fully comprehending the problem/challenge at hand and then moving on to make a decision. He advocates using logic, reason and common sense (which is highly uncommon) to not only to learn about situation at hand but also to comprehend it and then arrive at the final decision.
+
+"Raising the probability of being right is valuable no matter what your probability of being right already is.
+Knowing when not to bet is as important as knowing what bets are probably worth making.
+The best choices are the ones that have more pros than cons, not those that don’t have any cons at all"
+
+9. “Winning for the real purpose of playing” instead of “Playing to win”: Bhagavad Gita
+https://www.speakingtree.in/blog/problem-solving-and-decision-making-in-2018-lessons-from-the-bhagavad-gita-689870
+
+In a world fraught with material excess and "How to get rich" mental pygmies, it is not unusual that decisions are almost often mired by the bias towards which one would result into grandest of results (materially). And thus the very basis of making an objective decision falters at the altar of prejudice towards accumulating more and more wealth.
+
+Bhagvad Gita since millenniums has been shining a beacon on souls, so as they remove this bias towards effective decision making.
+
+karmanyevaadhikaaraste maa phaleshu kadaachana |
+maa karmaphalaheturbhuu maatesangotsvakarmani ||
+
+A person has the right towards action alone and not towards the fruit of action. Let not the fruit of action be the motive for acting. Also, Let there not be any attachment to inaction.
+
+"When you are solving problems or making decisions, understand that there is no need for any further reward; being able to express one’s qualities through the opportunity of problem solving and decision-making itself is the reward."
+
+10. You can't connect the dots looking forward; you can only connect them looking backwards. - Steve Jobs
+
+Going by the instinct is indispensable for making a right decision, specially when decision involves going down the well trodden path or taking the 'less travelled' one. 
+
+No one has elaborated this more, than Steve Jobs, who lived what he preached.
+
+You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something--your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.
+
+
+
